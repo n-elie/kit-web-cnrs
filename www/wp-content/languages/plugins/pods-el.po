@@ -1,0 +1,202 @@
+# Translation of Stable (latest release) in Greek
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-11 17:11:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/PodsInit.php:952
+msgid "Uploaded to this %s"
+msgstr "Καταχωρήθηκε σε αυτήν %s"
+
+#: classes/PodsInit.php:970
+msgid "No %s"
+msgstr "Δεν υπάρχουν %s"
+
+#: classes/PodsInit.php:950
+msgid "%s Archives"
+msgstr "%s Αρχεία"
+
+#: classes/PodsInit.php:951
+msgid "Insert into %s"
+msgstr "Τοποθετήστε σε %s"
+
+#: classes/PodsInit.php:949 ui/admin/setup-edit.php:394
+msgid "Use as featured image"
+msgstr "Χρήση ως επιλεγμένη εικόνα"
+
+#: classes/PodsInit.php:947 ui/admin/setup-edit.php:386
+msgid "Set featured image"
+msgstr "Ορισμός επιλεγμένης εικόνας "
+
+#: classes/PodsInit.php:948 ui/admin/setup-edit.php:390
+msgid "Remove featured image"
+msgstr "Αφαίρεση επιλεγμένης εικόνας"
+
+#: classes/PodsAdmin.php:2741
+msgid "Full"
+msgstr "Πλήρες"
+
+#: ui/admin/setup-edit.php:487 ui/admin/widgets/field.php:15
+#: ui/admin/widgets/form.php:15 ui/admin/widgets/list.php:17
+#: ui/admin/widgets/single.php:17 ui/admin/widgets/view.php:15
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ui/admin/setup-edit.php:497
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:18 ui/admin/upgrade/upgrade_2_1_0.php:18
+msgid "Getting Started"
+msgstr "Ξεκινώντας"
+
+#: ui/fields/color.php:9
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: components/Roles/ui/edit.php:47 ui/admin/form-settings.php:79
+#: ui/admin/form.php:120
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: components/Migrate-Packages/ui/wizard.php:56
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:174
+msgid "Taxonomy Template"
+msgstr "Πρότυπο Ταξινομίας"
+
+#: classes/widgets/PodsWidgetForm.php:43 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:70
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:41
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:133
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: classes/fields/pick.php:381
+msgid "Custom"
+msgstr "Προσαρμογή"
+
+#: classes/fields/pick.php:478 components/Roles/Roles.php:94
+#: ui/admin/setup-add.php:241
+msgid "Users"
+msgstr "Χρήστες"
+
+#: classes/fields/pick.php:536
+msgid "Countries"
+msgstr "Χώρες"
+
+#: classes/fields/pick.php:471 ui/admin/setup-edit.php:594
+#: ui/admin/setup-edit.php:846
+msgid "Taxonomies"
+msgstr "Ταξινομίες"
+
+#: classes/PodsUI.php:2682 ui/admin/setup-edit-field-fluid.php:190
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: classes/PodsUI.php:2561 classes/PodsUI.php:2900 classes/PodsUI.php:3087
+#: classes/fields/boolean.php:69 classes/fields/boolean.php:245
+#: classes/fields/boolean.php:268
+msgid "No"
+msgstr "Όχι"
+
+#: classes/PodsUI.php:2560 classes/PodsUI.php:2899 classes/PodsUI.php:3086
+#: classes/fields/boolean.php:64 classes/fields/boolean.php:243
+#: classes/fields/boolean.php:267
+msgid "Yes"
+msgstr "Ναι"
+
+#: classes/PodsAdmin.php:2086 classes/PodsAdmin.php:2123
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: classes/PodsUI.php:2817
+msgid "Reset"
+msgstr "Αρχικών ρυθμίσεων"
+
+#: classes/PodsUI.php:3029 classes/PodsUI.php:3061 classes/PodsUI.php:3096
+#: classes/PodsUI.php:3121 ui/fields/color.php:8
+msgid "Clear"
+msgstr "Καθαρισμός"
+
+#: classes/fields/date.php:67 classes/fields/datetime.php:67
+msgid "Date Format"
+msgstr "Μορφή Ημερομηνίας"
+
+#: classes/fields/datetime.php:95 classes/fields/datetime.php:114
+#: classes/fields/time.php:76 classes/fields/time.php:94
+msgid "Time Format"
+msgstr "Μορφή Ώρας"
+
+#: classes/PodsAdmin.php:2655 classes/PodsUI.php:3549
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: classes/PodsAdmin.php:2094 ui/admin/setup-edit-field-fluid.php:70
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: classes/PodsUI.php:930 classes/PodsUI.php:933 classes/PodsUI.php:3511
+#: ui/admin/setup-edit.php:362
+msgid "View"
+msgstr "Προβολή"
+
+#: classes/PodsAdmin.php:444 classes/PodsAdmin.php:467
+#: ui/admin/components-admin.php:10 ui/admin/upgrade/upgrade_2_0_0.php:221
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: classes/Pods.php:3443 classes/PodsAdmin.php:631 classes/PodsForm.php:319
+#: ui/admin/components-admin.php:99
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: classes/PodsAdmin.php:931
+msgid "Advanced Options"
+msgstr "Προχωρημένες ρυθμίσεις"
+
+#: classes/PodsAdmin.php:744 classes/PodsAdmin.php:855
+msgid "Type"
+msgstr "Τύπος"
+
+#: classes/PodsAdmin.php:245 classes/PodsAdmin.php:300
+#: classes/PodsAdmin.php:1519 classes/PodsInit.php:936 classes/PodsUI.php:928
+#: classes/PodsUI.php:3520 ui/admin/setup-edit-field-fluid.php:17
+#: ui/admin/setup-edit-field.php:67 ui/admin/setup-edit.php:350
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: classes/PodsAdmin.php:247 classes/PodsAdmin.php:267
+#: classes/PodsAdmin.php:268 classes/PodsAdmin.php:302
+#: classes/PodsAdmin.php:316 classes/PodsAdmin.php:434
+#: classes/PodsAdmin.php:1518 classes/PodsInit.php:933 classes/PodsUI.php:927
+#: classes/PodsUI.php:948 ui/admin/setup-edit.php:338
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: classes/PodsAdmin.php:743 classes/PodsAdmin.php:2078
+#: classes/PodsAdmin.php:2743 classes/PodsUI.php:958
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:50
+#: ui/admin/setup-edit-field-fluid.php:66
+msgid "Name"
+msgstr "Όνομα"
+
+#: classes/Pods.php:3828 classes/PodsAdmin.php:1521 classes/PodsUI.php:3539
+#: ui/admin/form.php:260 ui/admin/setup-edit-field-fluid.php:23
+#: ui/admin/setup-edit-field.php:73 ui/admin/setup-edit.php:812
+#: ui/admin/view.php:76
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: classes/Pods.php:3208 classes/PodsUI.php:932 classes/PodsUI.php:2598
+#: classes/PodsUI.php:2823
+msgid "Search"
+msgstr "Αναζήτηση"

@@ -1,0 +1,1156 @@
+# Translation of Stable (latest release) in Swedish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-05 08:32:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/PodsInit.php:952
+msgid "Uploaded to this %s"
+msgstr "Uppladdad till denna %s"
+
+#: classes/PodsInit.php:970
+msgid "No %s"
+msgstr "Inga %s"
+
+#: classes/PodsInit.php:950
+msgid "%s Archives"
+msgstr "%s Arkiv"
+
+#: classes/PodsInit.php:951
+msgid "Insert into %s"
+msgstr "Lägg till i %s"
+
+#: classes/PodsInit.php:949 ui/admin/setup-edit.php:394
+msgid "Use as featured image"
+msgstr "Använd som utvald bild"
+
+#: classes/PodsInit.php:947 ui/admin/setup-edit.php:386
+msgid "Set featured image"
+msgstr "Ange utvald bild"
+
+#: classes/PodsInit.php:948 ui/admin/setup-edit.php:390
+msgid "Remove featured image"
+msgstr "Ta bort utvald bild"
+
+#: classes/PodsAdmin.php:2748
+msgid "Depth"
+msgstr "Djup"
+
+#: classes/PodsAdmin.php:2627 classes/PodsAdmin.php:2775
+msgid "REST API"
+msgstr "REST API"
+
+#: classes/PodsAdmin.php:2741
+msgid "Full"
+msgstr "Fullbelagd"
+
+#: ui/fields/color.php:9
+msgid "Default"
+msgstr "Standard"
+
+#: ui/admin/setup-edit.php:50 ui/admin/setup-edit.php:51
+#: ui/admin/setup-edit.php:53
+msgid "Other"
+msgstr "Annat"
+
+#: ui/admin/setup-edit-field-fluid.php:100
+msgid "Options"
+msgstr "Alternativ"
+
+#: ui/admin/setup-edit-field-fluid.php:187
+msgid "Delete Field"
+msgstr "Radera fält"
+
+#: ui/admin/setup-edit-field-fluid.php:106
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: ui/admin/setup-edit.php:487 ui/admin/widgets/field.php:15
+#: ui/admin/widgets/form.php:15 ui/admin/widgets/list.php:17
+#: ui/admin/widgets/single.php:17 ui/admin/widgets/view.php:15
+msgid "Title"
+msgstr "Titel"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:115
+#: ui/admin/upgrade/upgrade_2_0_0.php:231
+msgid "Templates"
+msgstr "Mallfiler"
+
+#: ui/admin/setup-edit-field-fluid.php:74
+msgid "Field Type"
+msgstr "Fälttyp"
+
+#: ui/admin/setup-edit-field-fluid.php:112
+msgid "Unique"
+msgstr "Unik"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:135
+#: ui/admin/upgrade/upgrade_2_0_0.php:251
+msgid "Helpers"
+msgstr "Stödåtgärder"
+
+#: ui/admin/setup-edit.php:497
+msgid "Author"
+msgstr "Skapare"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:148
+#: ui/admin/upgrade/upgrade_2_0_0.php:264
+msgid "Content"
+msgstr "Innehåll"
+
+#: ui/admin/setup-edit.php:517
+msgid "Custom Fields"
+msgstr "Anpassade fält"
+
+#: ui/admin/setup-edit.php:527
+msgid "Revisions"
+msgstr "Revisioner"
+
+#: ui/fields/color.php:10
+msgid "Select Color"
+msgstr "Välj färg"
+
+#: ui/fields/color.php:11
+msgid "Current Color"
+msgstr "Nuvarande färg"
+
+#: ui/admin/form.php:537 ui/admin/upgrade/upgrade_2_0_0.php:85
+#: ui/admin/upgrade/upgrade_2_0_0.php:201 ui/admin/view.php:188
+msgid "Fields"
+msgstr "Fält"
+
+#: includes/data.php:1708
+msgid "and"
+msgstr "och"
+
+#: components/Migrate-Packages/ui/wizard.php:279
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: components/Migrate-Packages/ui/wizard.php:56
+msgid "Import"
+msgstr "Importera"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:174
+msgid "Taxonomy Template"
+msgstr "Taxonomimall"
+
+#: classes/fields/pick.php:2255
+msgid "South Korea"
+msgstr "Sydkorea"
+
+#: classes/fields/pick.php:2249
+msgid "Slovakia"
+msgstr "Slovakien"
+
+#: classes/widgets/PodsWidgetForm.php:43 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:70
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:41
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:133
+msgid "Submit"
+msgstr "Skicka"
+
+#: components/Migrate-CPTUI/ui/wizard.php:146
+#: components/Migrate-Packages/ui/wizard.php:279
+#: components/Roles/ui/add.php:122 ui/admin/setup-add.php:380
+msgid "Processing"
+msgstr "Behandlas"
+
+#: classes/fields/pick.php:2235
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts och Nevis"
+
+#: classes/fields/pick.php:2236
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: classes/fields/pick.php:2239
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent och Grenadinerna"
+
+#: classes/fields/pick.php:2240
+msgid "Samoa"
+msgstr "Självständiga staten Samoa"
+
+#: classes/fields/pick.php:2241
+msgid "San Marino"
+msgstr "San Marino"
+
+#: classes/fields/pick.php:2242
+msgid "Saudi Arabia"
+msgstr "Saudiarabien"
+
+#: classes/fields/pick.php:2243
+msgid "Senegal"
+msgstr "Senegal"
+
+#: classes/fields/pick.php:2245
+msgid "Serbia and Montenegro"
+msgstr "Serbien och Montenegro"
+
+#: classes/fields/pick.php:2246
+msgid "Seychelles"
+msgstr "Seychellerna"
+
+#: classes/fields/pick.php:2247
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: classes/fields/pick.php:2248
+msgid "Singapore"
+msgstr "Singapore"
+
+#: classes/fields/pick.php:2250
+msgid "Slovenia"
+msgstr "Slovenien"
+
+#: classes/fields/pick.php:2251
+msgid "Solomon Islands"
+msgstr "Salomonöarna"
+
+#: classes/fields/pick.php:2252
+msgid "Somalia"
+msgstr "Somalia"
+
+#: classes/fields/pick.php:2253
+msgid "South Africa"
+msgstr "Sydafrika"
+
+#: classes/fields/pick.php:2256
+msgid "Spain"
+msgstr "Spanien"
+
+#: classes/fields/pick.php:2257
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: classes/fields/pick.php:2258
+msgid "Sudan"
+msgstr "Sudan"
+
+#: classes/fields/pick.php:2259
+msgid "Suriname"
+msgstr "Surinam"
+
+#: classes/fields/pick.php:2261
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: classes/fields/pick.php:2262
+msgid "Sweden"
+msgstr "Sverige"
+
+#: classes/fields/pick.php:2263
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: classes/fields/pick.php:2264
+msgid "Syria"
+msgstr "Syrien"
+
+#: classes/fields/pick.php:2266
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: classes/fields/pick.php:2267
+msgid "Tajikistan"
+msgstr "Tadzjikistan"
+
+#: classes/fields/pick.php:2268
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: classes/fields/pick.php:2269
+msgid "Thailand"
+msgstr "Thailand"
+
+#: classes/fields/pick.php:2271
+msgid "Togo"
+msgstr "Togo"
+
+#: classes/fields/pick.php:2273
+msgid "Tonga"
+msgstr "Tonga"
+
+#: classes/fields/pick.php:2274
+msgid "Trinidad and Tobago"
+msgstr "Trinidad och Tobago"
+
+#: classes/fields/pick.php:2275
+msgid "Tunisia"
+msgstr "Tunisien"
+
+#: classes/fields/pick.php:2276
+msgid "Turkey"
+msgstr "Turkiet"
+
+#: classes/fields/pick.php:2277
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: classes/fields/pick.php:2279
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: classes/fields/pick.php:2283
+msgid "Uganda"
+msgstr "Uganda"
+
+#: classes/fields/pick.php:2284
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: classes/fields/pick.php:2286
+msgid "United Arab Emirates"
+msgstr "Förenade Arabemiraten"
+
+#: classes/fields/pick.php:2287
+msgid "United Kingdom"
+msgstr "Storbritannien"
+
+#: classes/fields/pick.php:2288
+msgid "United States"
+msgstr "USA"
+
+#: classes/fields/pick.php:2290
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: classes/fields/pick.php:2291
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: classes/fields/pick.php:2292
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: classes/fields/pick.php:2293
+msgid "Vatican City"
+msgstr "Vatikanstaten"
+
+#: classes/fields/pick.php:2294
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: classes/fields/pick.php:2295
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: classes/fields/pick.php:2299
+msgid "Yemen"
+msgstr "Jemen"
+
+#: classes/fields/pick.php:2300
+msgid "Zambia"
+msgstr "Zambia"
+
+#: classes/fields/pick.php:2301
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:145
+#: ui/admin/shortcode.php:424 ui/admin/widgets/list.php:94
+msgid "Limit"
+msgstr "Gräns"
+
+#: classes/fields/pick.php:2039
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: classes/fields/pick.php:2040
+msgid "Albania"
+msgstr "Albanien"
+
+#: classes/fields/pick.php:2041
+msgid "Algeria"
+msgstr "Algeriet"
+
+#: classes/fields/pick.php:2042
+msgid "American Samoa"
+msgstr "Amerikanska Samoa"
+
+#: classes/fields/pick.php:2043
+msgid "Andorra"
+msgstr "Andorra"
+
+#: classes/fields/pick.php:2044
+msgid "Angola"
+msgstr "Angola"
+
+#: classes/fields/pick.php:2045
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: classes/fields/pick.php:2046
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: classes/fields/pick.php:2047
+msgid "Antigua and Barbuda"
+msgstr "Antigua och Barbuda"
+
+#: classes/fields/pick.php:2048
+msgid "Argentina"
+msgstr "Argentina"
+
+#: classes/fields/pick.php:2049
+msgid "Armenia"
+msgstr "Armenien"
+
+#: classes/fields/pick.php:2050
+msgid "Aruba"
+msgstr "Aruba"
+
+#: classes/fields/pick.php:2051
+msgid "Australia"
+msgstr "Australien"
+
+#: classes/fields/pick.php:2052
+msgid "Austria"
+msgstr "Österrike"
+
+#: classes/fields/pick.php:2053
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: classes/fields/pick.php:2054
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: classes/fields/pick.php:2055
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: classes/fields/pick.php:2056
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: classes/fields/pick.php:2057
+msgid "Barbados"
+msgstr "Barbados"
+
+#: classes/fields/pick.php:2058
+msgid "Belarus"
+msgstr "Vitryssland"
+
+#: classes/fields/pick.php:2059
+msgid "Belgium"
+msgstr "Belgien"
+
+#: classes/fields/pick.php:2060
+msgid "Belize"
+msgstr "Belize"
+
+#: classes/fields/pick.php:2061
+msgid "Benin"
+msgstr "Benin"
+
+#: classes/fields/pick.php:2062
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: classes/fields/pick.php:2063
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: classes/fields/pick.php:2064
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: classes/fields/pick.php:2065
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien-Hercegovina"
+
+#: classes/fields/pick.php:2066
+msgid "Botswana"
+msgstr "Botswana"
+
+#: classes/fields/pick.php:2068
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: classes/fields/pick.php:2072
+msgid "Brunei"
+msgstr "Brunei"
+
+#: classes/fields/pick.php:2073
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: classes/fields/pick.php:2074
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: classes/fields/pick.php:2075
+msgid "Burundi"
+msgstr "Burundi"
+
+#: classes/fields/pick.php:2076
+msgid "Cambodia"
+msgstr "Kambodja"
+
+#: classes/fields/pick.php:2077
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: classes/fields/pick.php:2078
+msgid "Canada"
+msgstr "Kanada"
+
+#: classes/fields/pick.php:2080
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: classes/fields/pick.php:2081
+msgid "Cayman Islands"
+msgstr "Caymanöarna"
+
+#: classes/fields/pick.php:2082
+msgid "Central African Republic"
+msgstr "Centralafrikanska republiken"
+
+#: classes/fields/pick.php:2083
+msgid "Chad"
+msgstr "Tchad"
+
+#: classes/fields/pick.php:2084
+msgid "Chile"
+msgstr "Chile"
+
+#: classes/fields/pick.php:2085
+msgid "China"
+msgstr "Kina"
+
+#: classes/fields/pick.php:2088
+msgid "Colombia"
+msgstr "Colombia"
+
+#: classes/fields/pick.php:2089
+msgid "Comoros"
+msgstr "Komorerna"
+
+#: classes/fields/pick.php:2093
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: classes/fields/pick.php:2094
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: classes/fields/pick.php:2095
+msgid "Cuba"
+msgstr "Kuba"
+
+#: classes/fields/pick.php:2096
+msgid "Cyprus"
+msgstr "Cypern"
+
+#: classes/fields/pick.php:2097
+msgid "Czech Republic"
+msgstr "Tjeckien"
+
+#: classes/fields/pick.php:2099
+msgid "Denmark"
+msgstr "Danmark"
+
+#: classes/fields/pick.php:2100
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: classes/fields/pick.php:2101
+msgid "Dominica"
+msgstr "Dominica"
+
+#: classes/fields/pick.php:2102
+msgid "Dominican Republic"
+msgstr "Dominikanska republiken"
+
+#: classes/fields/pick.php:2105
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: classes/fields/pick.php:2106
+msgid "Egypt"
+msgstr "Egypten"
+
+#: classes/fields/pick.php:2107
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: classes/fields/pick.php:2108
+msgid "Equatorial Guinea"
+msgstr "Ekvatorialguinea"
+
+#: classes/fields/pick.php:2109
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: classes/fields/pick.php:2110
+msgid "Estonia"
+msgstr "Estland"
+
+#: classes/fields/pick.php:2111
+msgid "Ethiopia"
+msgstr "Etiopien"
+
+#: classes/fields/pick.php:2114
+msgid "Fiji"
+msgstr "Fiji"
+
+#: classes/fields/pick.php:2115
+msgid "Finland"
+msgstr "Finland"
+
+#: classes/fields/pick.php:2116
+msgid "France"
+msgstr "Frankrike"
+
+#: classes/fields/pick.php:2117
+msgid "French Guiana"
+msgstr "Franska Guyana"
+
+#: classes/fields/pick.php:2118
+msgid "French Polynesia"
+msgstr "Franska Polynesien"
+
+#: classes/fields/pick.php:2121
+msgid "Gabon"
+msgstr "Gabon"
+
+#: classes/fields/pick.php:2122
+msgid "Gambia"
+msgstr "Gambia"
+
+#: classes/fields/pick.php:2123 classes/fields/pick.php:2333
+msgid "Georgia"
+msgstr "Georgien"
+
+#: classes/fields/pick.php:2124
+msgid "Germany"
+msgstr "Tyskland"
+
+#: classes/fields/pick.php:2125
+msgid "Ghana"
+msgstr "Ghana"
+
+#: classes/fields/pick.php:2126
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: classes/fields/pick.php:2127
+msgid "Greece"
+msgstr "Grekland"
+
+#: classes/fields/pick.php:2128
+msgid "Greenland"
+msgstr "Grönland"
+
+#: classes/fields/pick.php:2129
+msgid "Grenada"
+msgstr "Grenada"
+
+#: classes/fields/pick.php:2131
+msgid "Guam"
+msgstr "Guam"
+
+#: classes/fields/pick.php:2132
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: classes/fields/pick.php:2134
+msgid "Guinea"
+msgstr "Guinea"
+
+#: classes/fields/pick.php:2135
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: classes/fields/pick.php:2136
+msgid "Guyana"
+msgstr "Guyana"
+
+#: classes/fields/pick.php:2137
+msgid "Haiti"
+msgstr "Haiti"
+
+#: classes/fields/pick.php:2139
+msgid "Honduras"
+msgstr "Honduras"
+
+#: classes/fields/pick.php:2141
+msgid "Hungary"
+msgstr "Ungern"
+
+#: classes/fields/pick.php:2142
+msgid "Iceland"
+msgstr "Island"
+
+#: classes/fields/pick.php:2143
+msgid "India"
+msgstr "Indien"
+
+#: classes/fields/pick.php:2144
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: classes/fields/pick.php:2145
+msgid "Iran"
+msgstr "Iran"
+
+#: classes/fields/pick.php:2146
+msgid "Iraq"
+msgstr "Irak"
+
+#: classes/fields/pick.php:2147
+msgid "Ireland"
+msgstr "Irland"
+
+#: classes/fields/pick.php:2149
+msgid "Israel"
+msgstr "Israel"
+
+#: classes/fields/pick.php:2150
+msgid "Italy"
+msgstr "Italien"
+
+#: classes/fields/pick.php:2151
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: classes/fields/pick.php:2152
+msgid "Japan"
+msgstr "Japan"
+
+#: classes/fields/pick.php:2155
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: classes/fields/pick.php:2156
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+#: classes/fields/pick.php:2157
+msgid "Kenya"
+msgstr "Kenya"
+
+#: classes/fields/pick.php:2158
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: classes/fields/pick.php:2208
+msgid "North Korea"
+msgstr "Nordkorea"
+
+#: classes/fields/pick.php:2159
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: classes/fields/pick.php:2160
+msgid "Kyrgyzstan"
+msgstr "Kirgizistan"
+
+#: classes/fields/pick.php:2161
+msgid "Laos"
+msgstr "Laos"
+
+#: classes/fields/pick.php:2162
+msgid "Latvia"
+msgstr "Lettland"
+
+#: classes/fields/pick.php:2163
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: classes/fields/pick.php:2164
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: classes/fields/pick.php:2165
+msgid "Liberia"
+msgstr "Liberia"
+
+#: classes/fields/pick.php:2166
+msgid "Libya"
+msgstr "Libyen"
+
+#: classes/fields/pick.php:2167
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: classes/fields/pick.php:2168
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: classes/fields/pick.php:2169
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: classes/fields/pick.php:2171
+msgid "Macedonia"
+msgstr "Makedonien"
+
+#: classes/fields/pick.php:2172
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: classes/fields/pick.php:2173
+msgid "Malawi"
+msgstr "Malawi"
+
+#: classes/fields/pick.php:2174
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: classes/fields/pick.php:2175
+msgid "Maldives"
+msgstr "Maldiverna"
+
+#: classes/fields/pick.php:2176
+msgid "Mali"
+msgstr "Mali"
+
+#: classes/fields/pick.php:2177
+msgid "Malta"
+msgstr "Malta"
+
+#: classes/fields/pick.php:2178
+msgid "Marshall Islands"
+msgstr "Marshallöarna"
+
+#: classes/fields/pick.php:2180
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: classes/fields/pick.php:2181
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: classes/fields/pick.php:2184
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: classes/fields/pick.php:2185
+msgid "Micronesia"
+msgstr "Mikronesiska federationen"
+
+#: classes/fields/pick.php:2187
+msgid "Moldova"
+msgstr "Moldavien"
+
+#: classes/fields/pick.php:2188
+msgid "Monaco"
+msgstr "Monaco"
+
+#: classes/fields/pick.php:2189
+msgid "Mongolia"
+msgstr "Mongoliet"
+
+#: classes/fields/pick.php:2190
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: classes/fields/pick.php:2191
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: classes/fields/pick.php:2192
+msgid "Morocco"
+msgstr "Marocko"
+
+#: classes/fields/pick.php:2193
+msgid "Mozambique"
+msgstr "Moçambique"
+
+#: classes/fields/pick.php:2195
+msgid "Namibia"
+msgstr "Namibia"
+
+#: classes/fields/pick.php:2196
+msgid "Nauru"
+msgstr "Nauru"
+
+#: classes/fields/pick.php:2197
+msgid "Nepal"
+msgstr "Nepal"
+
+#: classes/fields/pick.php:2198
+msgid "Netherlands"
+msgstr "Nederländerna"
+
+#: classes/fields/pick.php:2202
+msgid "New Zealand"
+msgstr "Nya Zeeland"
+
+#: classes/fields/pick.php:2203
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: classes/fields/pick.php:2204
+msgid "Niger"
+msgstr "Niger"
+
+#: classes/fields/pick.php:2205
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: classes/fields/pick.php:2211
+msgid "Norway"
+msgstr "Norge"
+
+#: classes/fields/pick.php:2210
+msgid "Northern Mariana Islands"
+msgstr "Nordmarianerna"
+
+#: classes/fields/pick.php:2212
+msgid "Oman"
+msgstr "Oman"
+
+#: classes/fields/pick.php:2214
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: classes/fields/pick.php:2215
+msgid "Palau"
+msgstr "Palau"
+
+#: classes/fields/pick.php:2217
+msgid "Panama"
+msgstr "Panama"
+
+#: classes/fields/pick.php:2219
+msgid "Papua New Guinea"
+msgstr "Papua Nya Guinea"
+
+#: classes/fields/pick.php:2220
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: classes/fields/pick.php:2222
+msgid "Peru"
+msgstr "Peru"
+
+#: classes/fields/pick.php:2223
+msgid "Philippines"
+msgstr "Filippinerna"
+
+#: classes/fields/pick.php:2225
+msgid "Poland"
+msgstr "Polen"
+
+#: classes/fields/pick.php:2226
+msgid "Portugal"
+msgstr "Portugal"
+
+#: classes/fields/pick.php:2228
+msgid "Qatar"
+msgstr "Qatar"
+
+#: classes/fields/pick.php:2229
+msgid "Romania"
+msgstr "Rumänien"
+
+#: classes/fields/pick.php:2230
+msgid "Russia"
+msgstr "Ryssland"
+
+#: classes/fields/pick.php:2231
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: classes/fields/pick.php:381
+msgid "Custom"
+msgstr "Anpassad"
+
+#: classes/fields/pick.php:2227
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: classes/fields/pick.php:536
+msgid "Countries"
+msgstr "Länder"
+
+#: classes/fields/pick.php:436 ui/admin/setup-edit.php:625
+#: ui/admin/setup-edit.php:845
+msgid "Post Types"
+msgstr "Inläggstyper"
+
+#: classes/fields/pick.php:471 ui/admin/setup-edit.php:594
+#: ui/admin/setup-edit.php:846
+msgid "Taxonomies"
+msgstr "Taxonomier"
+
+#: classes/PodsUI.php:2682 ui/admin/setup-edit-field-fluid.php:190
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: classes/fields/date.php:67 classes/fields/datetime.php:67
+msgid "Date Format"
+msgstr "Datumformat"
+
+#: classes/PodsUI.php:2561 classes/PodsUI.php:2900 classes/PodsUI.php:3087
+#: classes/fields/boolean.php:69 classes/fields/boolean.php:245
+#: classes/fields/boolean.php:268
+msgid "No"
+msgstr "Nej"
+
+#: classes/PodsUI.php:2560 classes/PodsUI.php:2899 classes/PodsUI.php:3086
+#: classes/fields/boolean.php:64 classes/fields/boolean.php:243
+#: classes/fields/boolean.php:267
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/PodsUI.php:930 classes/PodsUI.php:933 classes/PodsUI.php:3511
+#: ui/admin/setup-edit.php:362
+msgid "View"
+msgstr "Visa"
+
+#: classes/fields/currency.php:148 classes/fields/number.php:77
+#: classes/fields/phone.php:67 classes/fields/pick.php:136
+#: classes/fields/pick.php:152 classes/fields/website.php:67
+msgid "Format"
+msgstr "Format"
+
+#: classes/PodsInit.php:945
+msgid "Parent %s:"
+msgstr "Förälder %s:"
+
+#: classes/PodsUI.php:3852
+msgid "Go to the first page"
+msgstr "Gå till första sidan"
+
+#: classes/PodsUI.php:3853
+msgid "Go to the previous page"
+msgstr "Gå till föregående sida"
+
+#: classes/PodsUI.php:3857
+msgid "Current page"
+msgstr "Aktuell sida"
+
+#: classes/PodsUI.php:3883
+msgid "Go to the next page"
+msgstr "Gå till nästa sida"
+
+#: classes/PodsUI.php:3884
+msgid "Go to the last page"
+msgstr "Gå till sista sidan"
+
+#. translators: Publish box date format, see http://php.net/date
+#: classes/PodsInit.php:890 classes/PodsInit.php:899 components/Helpers.php:128
+#: components/Helpers.php:142 components/Pages.php:177 components/Pages.php:191
+#: components/Templates/Templates.php:148
+#: components/Templates/Templates.php:162 ui/admin/form.php:207
+#: ui/admin/view.php:41
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ H:i"
+
+#: classes/fields/pick.php:160
+msgid "Checkboxes"
+msgstr "Kryssrutor"
+
+#: classes/fields/boolean.php:57 classes/fields/pick.php:145
+msgid "Radio Buttons"
+msgstr "Radioknappar"
+
+#: classes/PodsAdmin.php:2094 ui/admin/setup-edit-field-fluid.php:70
+msgid "Description"
+msgstr "Beskrivning"
+
+#: classes/PodsUI.php:3550
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: classes/PodsUI.php:2645
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: classes/PodsAdmin.php:2655 classes/PodsUI.php:3549
+msgid "Enable"
+msgstr "Aktivera"
+
+#: classes/PodsUI.php:3029 classes/PodsUI.php:3061 classes/PodsUI.php:3096
+#: classes/PodsUI.php:3121 ui/fields/color.php:8
+msgid "Clear"
+msgstr "Rensa"
+
+#: classes/PodsAdmin.php:444 classes/PodsAdmin.php:467
+#: ui/admin/components-admin.php:10 ui/admin/upgrade/upgrade_2_0_0.php:221
+msgid "Settings"
+msgstr "Inställningar"
+
+#: classes/Pods.php:3733
+msgid "ID"
+msgstr "ID"
+
+#: classes/PodsAdmin.php:744 classes/PodsAdmin.php:855
+msgid "Type"
+msgstr "Typ"
+
+#: classes/PodsAdmin.php:245 classes/PodsAdmin.php:300
+#: classes/PodsAdmin.php:1519 classes/PodsInit.php:936 classes/PodsUI.php:928
+#: classes/PodsUI.php:3520 ui/admin/setup-edit-field-fluid.php:17
+#: ui/admin/setup-edit-field.php:67 ui/admin/setup-edit.php:350
+msgid "Edit"
+msgstr "Redigera"
+
+#: classes/Pods.php:3208 classes/PodsUI.php:932 classes/PodsUI.php:2598
+#: classes/PodsUI.php:2823
+msgid "Search"
+msgstr "Sök"
+
+#: classes/Pods.php:3828 classes/PodsAdmin.php:1521 classes/PodsUI.php:3539
+#: ui/admin/form.php:260 ui/admin/setup-edit-field-fluid.php:23
+#: ui/admin/setup-edit-field.php:73 ui/admin/setup-edit.php:812
+#: ui/admin/view.php:76
+msgid "Delete"
+msgstr "Radera"
+
+#: classes/PodsAdmin.php:247 classes/PodsAdmin.php:267
+#: classes/PodsAdmin.php:268 classes/PodsAdmin.php:302
+#: classes/PodsAdmin.php:316 classes/PodsAdmin.php:434
+#: classes/PodsAdmin.php:1518 classes/PodsInit.php:933 classes/PodsUI.php:927
+#: classes/PodsUI.php:948 ui/admin/setup-edit.php:338
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: classes/PodsAdmin.php:1520 classes/PodsUI.php:929 classes/PodsUI.php:3529
+#: ui/admin/setup-edit-field-fluid.php:20 ui/admin/setup-edit-field.php:70
+msgid "Duplicate"
+msgstr "Kopiera"
+
+#: classes/PodsAdmin.php:742 components/Roles/Roles.php:90
+#: components/Roles/ui/add.php:43 ui/admin/setup-edit-field-fluid.php:62
+#: ui/admin/setup-edit.php:330
+msgid "Label"
+msgstr "Etikett"
+
+#: classes/PodsAdmin.php:1615 classes/PodsAdmin.php:2119
+#: ui/admin/setup-add.php:175 ui/admin/setup-add.php:353
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: classes/PodsAdmin.php:1523 classes/PodsUI.php:2689
+#: components/Migrate-Packages/ui/wizard.php:69
+msgid "Export"
+msgstr "Exportera"
+
+#: classes/Pods.php:3443 classes/PodsAdmin.php:631 classes/PodsForm.php:319
+#: ui/admin/components-admin.php:99
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: classes/PodsAdmin.php:743 classes/PodsAdmin.php:2078
+#: classes/PodsAdmin.php:2743 classes/PodsUI.php:958
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:50
+#: ui/admin/setup-edit-field-fluid.php:66
+msgid "Name"
+msgstr "Namn"
+
+#: classes/PodsAdmin.php:449 classes/PodsAdmin.php:472
+msgid "Help"
+msgstr "Hjälp"

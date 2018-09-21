@@ -1,0 +1,7 @@
+Version 1.02 - 28 Mars 2018
+
+    - Correction d'entrées invalides dans le DUMP de la base de données.
+
+Version 1.03 - 30 Mars 2018
+
+    - Correction d'une entrée empéchant le changement de logo dans le thème.

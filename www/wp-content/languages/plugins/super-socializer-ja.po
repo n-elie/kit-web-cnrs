@@ -1,0 +1,1860 @@
+# Translation of Plugins - Super Socializer - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Super Socializer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-09 03:33:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Super Socializer - Development (trunk)\n"
+
+#: super_socializer.php:351
+msgid "Make sure that \"Enable Callback Locking\" option is disabled. See step 4 %s"
+msgstr "\"Callback Locking を有効\" オプションが無効になっていることを確認してください。ステップ 4 %s 参照してください"
+
+#: super_socializer.php:320
+msgid "cURL is not enabled at your website server. Please contact your website server administrator to enable it."
+msgstr "ウェブサイトのサーバーで cURL が有効になっていません。有効にするには、ウェブサイトのサーバー管理者に連絡してください。"
+
+#: helper.php:250
+msgid "Support Documentation"
+msgstr "サポートドキュメント"
+
+#: admin/social_sharing.php:1845
+msgid "Why is sharer not showing the correct image, title and other meta tags content?"
+msgstr "共有者が正しい画像、タイトル、その他のメタタグの内容を表示できていないのはなぜですか？"
+
+#: admin/social_sharing.php:1828
+msgid "If Facebook sharing is not working fine, click at the following link and enter the problematic url (where Facebook sharing is not working properly) of your website in the text field. Click \"Fetch New Scrape Information\" button."
+msgstr "Facebook の共有が正常に動作していない場合、次のリンクをクリックし、テキストフィールドにあなたのウェブサイトで問題のあるURL (Facebook のシェアが正しく機能していない場所) を入力してください。次に \"新しいスクレープ情報を取得\" ボタンをクリックしてください。"
+
+#: admin/social_sharing.php:1794
+msgid "Enable this option to render sharing icons on AMP pages"
+msgstr "この設定を有効にすると、AMPページで共有アイコンが表示されます"
+
+#: admin/social_sharing.php:1784
+msgid "Enable sharing on AMP pages"
+msgstr "AMP ページの共有を有効にする"
+
+#: admin/social_sharing.php:1778
+msgid "AMP"
+msgstr "AMP"
+
+#: admin/social_sharing.php:1611
+msgid "Login to your bit.ly account and navigate to <a href=\"%s\" target=\"_blank\">this link</a> to get bit.ly login"
+msgstr "bit.ly アカウントへログインするには <a href=\"%s\" target=\"_blank\">このリンク</a> から移動して bit.ly へログインしてください"
+
+#: admin/social_sharing.php:1601
+msgid "bit.ly Login"
+msgstr "bit.ly ログイン"
+
+#: helper.php:726
+msgid "Social Account Linking"
+msgstr "ソーシャルアカウントにリンク"
+
+#: helper.php:649 helper.php:655
+msgid "Connected with"
+msgstr "と接続"
+
+#: super_socializer.php:1103
+msgid "Login with your Social ID"
+msgstr "ソーシャル ID でログイン"
+
+#: inc/widget.php:71
+msgid "Login with your Social Account"
+msgstr "ソーシャルアカウントでログイン"
+
+#: inc/social_login.php:799
+msgid "Please click on the following link or paste it in browser to verify your email"
+msgstr "次のリンクをクリックするか、ブラウザに貼り付けてメールの確認をしてください"
+
+#: inc/social_login.php:797
+msgid "Email Verification"
+msgstr "メールの検証"
+
+#: inc/social_login.php:723
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: inc/social_login.php:722
+msgid "Save"
+msgstr "保存"
+
+#: inc/social_login.php:720
+msgid "Confirm email"
+msgstr "メールの確認"
+
+#: admin/social_sharing.php:1673
+msgid "Day(s)"
+msgstr "日"
+
+#: admin/social_sharing.php:1672
+msgid "Hour(s)"
+msgstr "時"
+
+#: admin/social_sharing.php:1671
+msgid "Minute(s)"
+msgstr "分"
+
+#: admin/social_sharing.php:1670
+msgid "Second(s)"
+msgstr "秒"
+
+#: admin/social_sharing.php:756 admin/social_sharing.php:1147
+msgid "Username of the Instagram account you want to redirect users to, on clicking the icon"
+msgstr "インスタグラムのユーザー名は、アイコンクリックで、ユーザーへリダイレクトさせたいアカウント名にしてください"
+
+#: admin/social_sharing.php:746 admin/social_sharing.php:1137
+msgid "Instagram username"
+msgstr "Instagram のユーザー名"
+
+#: inc/social_sharing.php:214 super_socializer.php:757
+msgid "Shares"
+msgstr "シェア"
+
+#: inc/social_sharing.php:214 super_socializer.php:757
+msgid "Share"
+msgstr "シェア"
+
+#: admin/social_login.php:669
+msgid "If enabled, an email will be sent to admin after new user registers through Social Login, notifying admin about the new user registration"
+msgstr "有効にした場合、新しいユーザー登録した後に管理者へメールが送信され、新しいユーザー登録について管理者に通知します"
+
+#: admin/social_login.php:659
+msgid "Send new user registration notification email to admin"
+msgstr "管理者に新しいユーザー登録の通知メールを送信"
+
+#: admin/like_buttons.php:773 admin/social_sharing.php:1857
+msgid "Why are floating sharing/like buttons not appearing at homepage?"
+msgstr "フローティングの共有 / いいね！ボタンがホームページに表示されないのはなぜですか？"
+
+#: admin/like_buttons.php:221 admin/like_buttons.php:506
+#: admin/social_sharing.php:931 admin/social_sharing.php:1372
+msgid "Excerpts and Posts page"
+msgstr "抜粋と投稿ページ"
+
+#: admin/social_login.php:641
+msgid "Send post-registration email to user to set account password"
+msgstr "アカウントのパスワードを設定するための登録後のメールをユーザーに送信"
+
+#: admin/social_login.php:379
+msgid "Social Login Options"
+msgstr "ソーシャルログイン設定"
+
+#: admin/social_login.php:362
+msgid "Paste following url in <strong>Redirect URI</strong> option at the link mentioned"
+msgstr "記載されたリンクの <strong>リダイレクト URI</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:360
+msgid "Required for Twitch Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Twitch Client ID"
+msgstr "Twitch のソーシャルログインを機能させるために必要です。<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従って Twitch クライアント ID を取得してください。"
+
+#: admin/social_login.php:350
+msgid "Twitch Client ID"
+msgstr "Twitch クライアント ID"
+
+#: admin/social_login.php:131
+msgid "Twitch"
+msgstr "Twitch"
+
+#: admin/social_login.php:126
+msgid "Steam"
+msgstr "Steam"
+
+#: admin/social_login.php:38 admin/social_login.php:859
+msgid "XProfile Integration"
+msgstr "XProfile の統合"
+
+#: admin/social_login.php:36
+msgid "Advanced Configuration"
+msgstr "高度な設定"
+
+#: admin/like_buttons.php:772 admin/social_sharing.php:1856
+msgid "Why is there so much space between like buttons?"
+msgstr "なぜボタンの間に余白があるのですか ?"
+
+#: admin/social_sharing.php:1855
+msgid "Why are Share Counts Not Updating?"
+msgstr "シェア数が更新されないのはなぜですか ?"
+
+#: admin/social_sharing.php:1854
+msgid "How to hide arrow after floating sharing bar?"
+msgstr "フロートシェアバーの後にある矢印を非表示にするにはどうしたらよいですか ?"
+
+#: admin/social_sharing.php:1700
+msgid "Use this to clear cached share counts"
+msgstr "これを使用して、キャッシュされたシェア数をクリアします"
+
+#: admin/social_sharing.php:1693
+msgid "Share Counts cache cleared successfully."
+msgstr "正常に共有カウントのキャッシュがクリアされました。"
+
+#: admin/social_sharing.php:1689
+msgid "Clear Share Counts Cache"
+msgstr "シェア数のキャッシュをクリア"
+
+#: admin/social_sharing.php:1681
+msgid "Frequent cache refreshing results in slower loading of pages with share counts enabled"
+msgstr "キャッシュを頻繁にリフレッシュすると、共有カウントを有効にしたページの読み込みが遅くなります"
+
+#: admin/social_sharing.php:1665
+msgid "Refresh Share Count cache every"
+msgstr "毎回共有カウントのキャッシュをリフレッシュ"
+
+#: admin/social_sharing.php:1659
+msgid "Share Count Cache"
+msgstr "共有カウントのキャッシュ"
+
+#: admin/social_sharing.php:1575
+msgid "Uses default short url permalinks without using any additional plugin"
+msgstr "追加のプラグインを使用せずにデフォルトの短縮 URL のパーマリンクを使用"
+
+#: admin/like_buttons.php:672 admin/social_sharing.php:1650
+msgid "Use this to delete short urls saved in database. Handy, if urls of your website have been changed but short urls are still being generated for old urls."
+msgstr "これを使用して、データベースに保存されている短縮 URL を削除します。ウェブサイトのURLが変更され際に、古い短縮URLがまだ残っている場合など、これで再生成すると便利です。"
+
+#: admin/like_buttons.php:665 admin/social_sharing.php:1643
+msgid "ShortUrl cache cleared successfully."
+msgstr "正常に短縮 URL のキャッシュがクリアされました。"
+
+#: admin/like_buttons.php:661 admin/social_sharing.php:1639
+msgid "Clear Bitly Cache"
+msgstr "Bitly キャッシュをクリア"
+
+#: admin/social_sharing.php:23
+msgid "Master control to enable Social Sharing"
+msgstr "マスターコントロールのソーシャルシェアを有効にします"
+
+#: super_socializer.php:934
+msgid "Super Socializer - General Options"
+msgstr "Super Socializer - 基本設定"
+
+#: helper.php:824
+msgid "Floating Sharing Interface"
+msgstr "フロートシェアのインターフェイス"
+
+#: helper.php:805
+msgid "Standard Sharing Interface"
+msgstr "標準シェアのインターフェイス"
+
+#: admin/social_sharing.php:1853
+msgid "How to show Whatsapp icon only on mobile devices?"
+msgstr "Whatsapp アイコンを携帯端末にのみで表示するには ?"
+
+#: admin/social_sharing.php:1852
+msgid "How to customize the look of individual share counts?"
+msgstr "個々のシェア数の見た目をカスタマイズするには ?"
+
+#: admin/social_sharing.php:1851
+msgid "How to customize the look of total share counts?"
+msgstr "総シェア数の見た目をカスタマイズするには ?"
+
+#: admin/social_sharing.php:1850
+msgid "How to integrate Google Analytics with sharing?"
+msgstr "Google アナリティクスと共有を統合するにはどうすればよいですか ?"
+
+#: admin/social_sharing.php:1849
+msgid "How to share specific page?"
+msgstr "特定のページを共有するには ?"
+
+#: admin/social_sharing.php:1759
+msgid "Buffer username (without @)"
+msgstr "ユーザー名のバッファ (@ なし)"
+
+#: admin/social_sharing.php:1734
+msgid "Username in sharing"
+msgstr "共有でのユーザー名"
+
+#: admin/social_sharing.php:1725
+msgid "Enter the code of the language you want to use for like buttons. You can find the language codes at <a href=\"%s\" target=\"_blank\">this link</a>. Leave it empty for default language(English)"
+msgstr "いいね！ボタンに使用する言語コードを入力してください。<a href=\"%s\" target=\"_blank\">こちらのリンク</a> に言語コードがあります。デフォルトの言語 (英語) の場合は空のままにしてください"
+
+#: admin/social_sharing.php:1539
+msgid "Alignment of horizontal floating interface. Number can be negative too."
+msgstr "水平フロートインターフェイスの位置を指定してください。マイナスの数値も使用できます。"
+
+#: admin/social_sharing.php:1532
+msgid "%s pixels from %s"
+msgstr "%s ピクセル %s"
+
+#: admin/social_sharing.php:1529
+msgid "Horizontal floating bar position"
+msgstr "水平フロートバーの位置"
+
+#: admin/social_sharing.php:1519
+msgid "Stick vertical floating interface horizontally at bottom only when screen is narrower than the width specified"
+msgstr "画面が指定された幅よりも狭い場合にのみ、垂直フロートインターフェイスを下側に水平固定"
+
+#: admin/social_sharing.php:1512
+msgid "Stick vertical floating interface horizontally at bottom only when screen is narrower than %s pixels"
+msgstr "画面が %s ピクセルより狭い場合にのみ、垂直フロートインターフェイスを下側に水平固定"
+
+#: admin/social_sharing.php:1509
+msgid "Horizontal floating bar responsiveness"
+msgstr "水平フロートバーのレスポンシブ"
+
+#: admin/social_sharing.php:1501
+msgid "Display vertical interface only when screen is wider than the width specified."
+msgstr "画面が指定された幅より広い場合にのみ、垂直インターフェイスを表示します。"
+
+#: admin/social_sharing.php:1494
+msgid "Display vertical interface only when screen is wider than %s pixels"
+msgstr "画面が %s ピクセルより広い場合にのみ、垂直インターフェイスを表示"
+
+#: admin/social_sharing.php:1491
+msgid "Vertical floating bar responsiveness"
+msgstr "垂直フロートバーのレスポンシブ"
+
+#: admin/social_sharing.php:1103
+msgid "Master control to enable floating sharing widget"
+msgstr "フロートシェアウィジェットのマスターコントロールを有効にします"
+
+#: admin/social_sharing.php:1093
+msgid "Enable Floating sharing interface"
+msgstr "フロートシェアのインターフェイスを有効にする"
+
+#: admin/social_sharing.php:1087
+msgid "Floating Sharing Interface Options"
+msgstr "フロートシェアのインターフェイス設定"
+
+#: admin/social_sharing.php:1025 admin/social_sharing.php:1438
+msgid "For this to work, you have to sign up and register your website url %s at <a href=\"%s\" target=\"_blank\">their website</a>"
+msgstr "これを機能させるためには、あなたがサインアップし、<a href=\"%s\" target=\"_blank\">そのウェブサイト</a>であなたのウェブサイトURL %s を登録する必要があります"
+
+#: admin/social_sharing.php:1023 admin/social_sharing.php:1436
+msgid "Use <a href=\"%s\" target=\"_blank\">OpenShareCount</a> to show Twitter share counts"
+msgstr "Twitter のシェア数を表示するには <a href=\"%s\" target=\"_blank\">OpenShareCount</a> を使用してください"
+
+#: admin/social_sharing.php:1021 admin/social_sharing.php:1434
+msgid "For this to work, you have to enter your website url %s and sign in using Twitter at <a href=\"%s\" target=\"_blank\">their website</a>"
+msgstr "これを機能させるためには、あなたのウェブサイトURL %s を入力し、<a href=\"%s\" target=\"_blank\">そのウェブサイト</a>で Twitter を使用してサインインする必要があります"
+
+#: admin/social_sharing.php:1019 admin/social_sharing.php:1432
+msgid "Use <a href=\"%s\" target=\"_blank\">NewShareCounts</a> to show Twitter share counts"
+msgstr "Twitter のシェア数を表示する場合は <a href=\"%s\" target=\"_blank\">NewShareCounts</a> を使用"
+
+#: admin/social_sharing.php:1002 admin/social_sharing.php:1424
+msgid "Share counts are supported for Facebook, Twitter, Linkedin, GooglePlus, Delicious, Buffer, Reddit, Pinterest, Stumbleupon and Vkontakte"
+msgstr "シェア数は、Facebook, Twitter, Linkedin, GooglePlus, Delicious, Buffer, Reddit, Pinterest, Stumbleupon, Vkontakte をサポートしています"
+
+#: admin/social_sharing.php:921 admin/social_sharing.php:1362
+msgid "Placement"
+msgstr "配置"
+
+#: admin/social_sharing.php:843 admin/social_sharing.php:1230
+msgid "Select sharing services to show in social share bar"
+msgstr "ソーシャルシェアバーに選択した共有サービスを表示します"
+
+#: admin/social_sharing.php:836 admin/social_sharing.php:1223
+msgid "Select Sharing Services"
+msgstr "共有サービスを選択"
+
+#: admin/social_sharing.php:675
+msgid "Enable Standard sharing interface"
+msgstr "標準シェアのインターフェイスを有効にする"
+
+#: admin/social_sharing.php:669
+msgid "Standard Sharing Interface Options"
+msgstr "標準シェアのインターフェイス設定"
+
+#: admin/social_sharing.php:356
+msgid "Floating interface theme"
+msgstr "フロートインターフェイスのテーマ"
+
+#: admin/social_sharing.php:346 admin/social_sharing.php:653
+msgid "Position of share counter"
+msgstr "シェアカウンターの位置"
+
+#: admin/social_sharing.php:338 admin/social_sharing.php:645
+msgid "Inner Bottom"
+msgstr "内側下"
+
+#: admin/social_sharing.php:336 admin/social_sharing.php:643
+msgid "Inner Right"
+msgstr "内側右"
+
+#: admin/social_sharing.php:334 admin/social_sharing.php:641
+msgid "Inner Top"
+msgstr "内側上"
+
+#: admin/social_sharing.php:332 admin/social_sharing.php:639
+msgid "Inner Left"
+msgstr "内側左"
+
+#: admin/social_sharing.php:330 admin/social_sharing.php:637
+msgid "Bottom"
+msgstr "下"
+
+#: admin/social_sharing.php:326 admin/social_sharing.php:633
+msgid "Top"
+msgstr "上"
+
+#: admin/social_sharing.php:320 admin/social_sharing.php:627
+msgid "(applies, if counter enabled)"
+msgstr "(カウンタが有効になっている場合に、適用されます)"
+
+#: admin/social_sharing.php:320 admin/social_sharing.php:627
+msgid "Counter Position"
+msgstr "カウンターの位置"
+
+#: admin/social_sharing.php:312 admin/social_sharing.php:619
+msgid "Icon border"
+msgstr "アイコンのボーダー"
+
+#: admin/social_sharing.php:300 admin/social_sharing.php:305
+#: admin/social_sharing.php:607 admin/social_sharing.php:612
+msgid "Border Color"
+msgstr "ボーダーの色"
+
+#: admin/social_sharing.php:299 admin/social_sharing.php:304
+#: admin/social_sharing.php:606 admin/social_sharing.php:611
+msgid "Border Width"
+msgstr "ボーダーの幅"
+
+#: admin/social_sharing.php:293 admin/social_sharing.php:601
+msgid "Border"
+msgstr "ボーダー"
+
+#: admin/social_sharing.php:285 admin/social_sharing.php:593
+msgid "Specify the color or hex code (example #cc78e0) for icon background. Save \"transparent\" for transparent background. Leave empty for default. You can get the hex code of the required color from <a href=\"http://www.colorpicker.com/\" target=\"_blank\">this link</a>"
+msgstr "アイコンの背景色を16進コード (例 : #cc78e0) で指定してください。透明な背景にする場合は \"transparent\" で保存してください。デフォルトの場合は空のままにしてください。<a href=\"http://www.colorpicker.com/\" target=\"_blank\">このリンク</a>から、必要な色の16進コードを取得ることができます"
+
+#: admin/social_sharing.php:266 admin/social_sharing.php:574
+msgid "Specify the color or hex code (example #cc78e0) for the logo of icon. Leave empty for default. You can get the hex code of the required color from <a href=\"http://www.colorpicker.com/\" target=\"_blank\">this link</a>"
+msgstr "アイコンロゴの色を16進コード (例 : #cc78e0) で指定してください。デフォルトの場合は空のままにしてください。<a href=\"http://www.colorpicker.com/\" target=\"_blank\">このリンク</a>から、必要な色の16進コードを取得ることができます"
+
+#: admin/social_sharing.php:258 admin/social_sharing.php:278
+#: admin/social_sharing.php:302 admin/social_sharing.php:566
+#: admin/social_sharing.php:586 admin/social_sharing.php:609
+msgid "On Hover"
+msgstr "ホバー時"
+
+#: admin/social_sharing.php:256 admin/social_sharing.php:277
+#: admin/social_sharing.php:297 admin/social_sharing.php:564
+#: admin/social_sharing.php:585 admin/social_sharing.php:604
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/social_sharing.php:252 admin/social_sharing.php:560
+msgid "Logo Color"
+msgstr "ロゴの色"
+
+#: admin/social_sharing.php:243 admin/social_sharing.php:551
+msgid "Specify a value for rounded corners. More the value, more rounded will the corners be. Leave empty for sharp corners."
+msgstr "角丸の値を指定してください。値を増やすと、角の丸みが増していきます。鋭角にしたい場合は空のままにしてください。"
+
+#: admin/social_sharing.php:233 admin/social_sharing.php:541
+msgid "Border radius (in pixels)"
+msgstr "ボーダー角丸 (px)"
+
+#: admin/social_sharing.php:223 admin/social_sharing.php:531
+msgid "Height of the sharing icons"
+msgstr "共有アイコンの高さ"
+
+#: admin/social_sharing.php:207 admin/social_sharing.php:515
+msgid "Height (in pixels)"
+msgstr "高さ (px)"
+
+#: admin/social_sharing.php:199 admin/social_sharing.php:507
+msgid "Width of the sharing icons"
+msgstr "共有アイコンの横幅"
+
+#: admin/social_sharing.php:183 admin/social_sharing.php:491
+msgid "Width (in pixels)"
+msgstr "幅 (px)"
+
+#: admin/social_sharing.php:141 admin/social_sharing.php:449
+msgid "Rectangle"
+msgstr "長方形"
+
+#: admin/social_sharing.php:49
+msgid "Standard interface theme"
+msgstr "標準インターフェイスのテーマ"
+
+#: admin/social_sharing.php:35
+msgid "Theme Selection"
+msgstr "テーマ選択"
+
+#: admin/like_buttons.php:305
+msgid "Enable floating like buttons"
+msgstr "フロートのいいね！ボタンを有効"
+
+#: admin/like_buttons.php:55
+msgid "Enable standard interface"
+msgstr "標準インターフェイスを有効"
+
+#: admin/like_buttons.php:49
+msgid "Standard Interface Options"
+msgstr "標準インターフェイス設定"
+
+#: admin/like_buttons.php:39 admin/social_sharing.php:38
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: admin/like_buttons.php:38 admin/social_sharing.php:37
+msgid "Floating Interface"
+msgstr "フロートインターフェイス"
+
+#: admin/like_buttons.php:37 admin/social_sharing.php:36
+msgid "Standard Interface"
+msgstr "標準インターフェイス"
+
+#: admin/like_buttons.php:10 admin/social_commenting.php:8
+#: admin/social_login.php:8 admin/social_sharing.php:9
+msgid "Master Control"
+msgstr "マスターコントロール"
+
+#: admin/help.php:33
+msgid "Integrate with Google Analytics"
+msgstr "Google アナリティクスとの統合"
+
+#: admin/help.php:21
+msgid "Donate Now"
+msgstr "今すぐ寄付"
+
+#: admin/help.php:20
+msgid "You can help us continue the development of this free plugin by donating"
+msgstr "私たちへ寄付することで、この無料のプラグインの開発を継続することができます"
+
+#: admin/help.php:18
+msgid "Donate"
+msgstr "寄付"
+
+#: admin/general_options.php:120
+msgid "You can specify any additional CSS rules (without &lt;style&gt; tag)"
+msgstr "追加の CSS ルール (&lt;style&gt; タグなし) を指定することができます"
+
+#: admin/general_options.php:110
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: admin/general_options.php:35
+msgid "Load all Javascript files in single file"
+msgstr "1つのファイルにすべての JavaScript ファイルをロード"
+
+#: admin/general_options.php:45
+msgid "Loads Javascript in single request."
+msgstr "1回のリクエストですべての JavaScript を読み込みます。"
+
+#. Author of the plugin/theme
+msgid "Team Heateor"
+msgstr "Team Heateor"
+
+#: helper.php:931
+msgid "Large Avatar"
+msgstr "アバター大"
+
+#: helper.php:927
+msgid "Small Avatar"
+msgstr "アバター小"
+
+#: helper.php:924 super_socializer.php:1017
+msgid "Update social avatar, next time I Social Login"
+msgstr "次回、私のソーシャルログインで、ソーシャルアバターを更新"
+
+#: helper.php:923 super_socializer.php:1013
+msgid "Do not fetch and update social avatar from my profile, next time I Social Login"
+msgstr "次回、私のソーシャルログインで、私のプロファイルから、ソーシャルアバターの更新とフェッチをしません"
+
+#: helper.php:920 super_socializer.php:1002
+msgid "Social Avatar"
+msgstr "ソーシャルアバター"
+
+#: admin/social_login.php:611
+msgid "If enabled, users would be able to update their social avatar from \"Profile photo\" section in BuddyPress profile at front-end"
+msgstr "有効にした場合、ユーザーは、フロントエンドの BuddyPress プロファイルで \"プロファイルの写真\" セクションからソーシャルアバターを更新することができます"
+
+#: admin/social_login.php:601
+msgid "Show option for users to update social avatar at BuddyPress profile page"
+msgstr "ユーザーが BuddyPress のプロファイルページでソーシャルアバターを更新できるオプションを表示"
+
+#: admin/like_buttons.php:524 admin/social_sharing.php:1390
+msgid "BuddyPress group"
+msgstr "BuddyPress グループ"
+
+#: admin/like_buttons.php:244 admin/social_sharing.php:953
+msgid "BuddyPress group (only at top of content)"
+msgstr "BuddyPress グループ (上部にあるコンテンツのみ)"
+
+#: admin/like_buttons.php:241 admin/social_sharing.php:951
+msgid "BuddyPress activity"
+msgstr "BuddyPress アクティビティ"
+
+#: admin/help.php:51
+msgid "Other Add-ons"
+msgstr "その他のアドオン"
+
+#. Author URI of the plugin/theme
+msgid "https://www.heateor.com"
+msgstr "https://www.heateor.com"
+
+#. Description of the plugin/theme
+msgid "A complete 360 degree solution to provide all the social features like Social Login, Social Commenting, Social Sharing and more."
+msgstr "Social Login、Social Commenting、Social Sharing などのすべてのソーシャル機能を提供する完全なオールマイティなソリューションです。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://super-socializer-wordpress.heateor.com"
+msgstr "http://super-socializer-wordpress.heateor.com"
+
+#. Plugin Name of the plugin/theme
+msgid "Super Socializer"
+msgstr "Super Socializer"
+
+#: super_socializer.php:1109
+msgid "Please enter a valid email address. You might be required to verify it"
+msgstr "有効なメールアドレスを入力してください。検証するために必要になる場合があります"
+
+#: super_socializer.php:1104
+msgid "Email you entered is already registered or invalid"
+msgstr "入力されたメールは既に登録されているか、または無効です"
+
+#: super_socializer.php:1009
+msgid "Large Avatar Url"
+msgstr "アバター大 URL"
+
+#: super_socializer.php:1005
+msgid "Small Avatar Url"
+msgstr "アバター小 URL"
+
+#: super_socializer.php:745
+msgid "Leave a reply"
+msgstr "コメントを残す"
+
+#: super_socializer.php:661
+msgid "Follow steps 11 and 12 at GooglePlus app configuration page, about to open"
+msgstr "Google+ の設定ページを開き、次のステップ 11と12に従ってください"
+
+#: super_socializer.php:642
+msgid "Please check your email inbox to complete the registration."
+msgstr "登録を完了するには、あなたのメール受信トレイを確認してください。"
+
+#: super_socializer.php:621
+msgid "Notification"
+msgstr "通知"
+
+#: super_socializer.php:617
+msgid "Your email has been verified. Now you can login to your account"
+msgstr "あなたのメールアドレスは確認済です。今すぐあなたのアカウントでログインすることができます"
+
+#: helper.php:998 super_socializer.php:617
+msgid "Please verify your email address to login."
+msgstr "ログインするにはメールアドレスを確認してください。"
+
+#: super_socializer.php:350
+msgid "Make sure cURL is enabled at your website server. You may need to contact the server administrator of your website to verify this"
+msgstr "cURL がサーバーで有効になっているか確認してください。これを確認するため、ウェブサイトのサーバー管理者に連絡する必要があるかもしれません"
+
+#: super_socializer.php:347
+msgid "Enter exactly the following url in <strong>Website</strong> and <strong>Callback Url</strong> options in your Twitter app (see step 3 %s)"
+msgstr "Twitter アプリへ<strong>ウェブサイト</strong>と<strong>コールバックURL</strong>設定を正確に入力してください (ステップ3 %s を参照)"
+
+#: inc/widget.php:713
+msgid "Make sure \"Floating Like Buttons\" are enabled from \"Super Socializer > Like Buttons\" page."
+msgstr "\"Super Socializer > いいね！ボタン\" ページから、\"フロートのいいね！ボタン\" が有効になっているか確認してください。"
+
+#: inc/widget.php:600
+msgid "Floating like buttons widget. Let your website users share/like content on popular Social networks like Facebook, Twitter, Google+ and many more"
+msgstr "フロートのいいね！ボタンウィジェットです。あなたのウェブサイトユーザーは、人気のソーシャルネットワーク、Facebook, Twitter, Google+ ほか多数でコンテンツを、いいね！/ 共有できます"
+
+#: inc/widget.php:566
+msgid "Make sure \"Standard Like Buttons\" are enabled from \"Super Socializer > Like Buttons\" page."
+msgstr "\"Super Socializer > いいね！ボタン\" から \"標準いいね！ボタン\" が有効になっているか確認してください"
+
+#: inc/widget.php:453
+msgid "Standard like buttons widget. Let your website users share/like content on popular Social networks like Facebook, Twitter, Google+ and many more"
+msgstr "標準 いいね！ボタンのウィジェットです。あなたのウェブサイトユーザーは、人気のソーシャルネットワーク、Facebook, Twitter, Google+ ほか多数でコンテンツを、いいね！/ 共有できます"
+
+#: inc/widget.php:428 inc/widget.php:735
+msgid "Top Offset"
+msgstr "上オフセット"
+
+#: inc/widget.php:425 inc/widget.php:732
+msgid "Right Offset"
+msgstr "右オフセット"
+
+#: inc/widget.php:421 inc/widget.php:728
+msgid "Left Offset"
+msgstr "左オフセット"
+
+#: inc/widget.php:415 inc/widget.php:722
+msgid "Alignment"
+msgstr "整列"
+
+#: inc/widget.php:402
+msgid "Make sure \"Floating Social Sharing\" is enabled at \"Super Socializer > Social Sharing\" page."
+msgstr "\"Super Socializer > ソーシャルシェア\" ページで  \"フロートソーシャルシェア\" が有効になっているか確認してください"
+
+#: inc/widget.php:275
+msgid "Floating sharing widget. Let your website users share content on popular Social networks like Facebook, Twitter, Tumblr, Google+ and many more"
+msgstr "フロートシェアのウィジェットです。あなたのウェブサイトユーザーは、人気のソーシャルネットワーク、Facebook, Twitter, Google+ ほか多数でコンテンツを、いいね！/ 共有できます"
+
+#: admin/social_login.php:879 inc/widget.php:246 inc/widget.php:409
+#: inc/widget.php:571 inc/widget.php:716
+msgid "Select"
+msgstr "選択"
+
+#: inc/widget.php:244 inc/widget.php:407 inc/widget.php:569 inc/widget.php:714
+msgid "Target Url:"
+msgstr "ターゲット URL:"
+
+#: inc/widget.php:242 inc/widget.php:405
+msgid "Show total shares:"
+msgstr "シェアの総数を表示: "
+
+#: inc/widget.php:240 inc/widget.php:403
+msgid "Show individual share counts:"
+msgstr "個別のシェア数を表示: "
+
+#: inc/widget.php:237
+msgid "Make sure \"Standard Social Sharing\" is enabled at \"Super Socializer > Social Sharing\" page."
+msgstr "\"Super Socializer > ソーシャルシェア\" ページで  \"標準ソーシャルシェア\" が有効になっているか確認してください"
+
+#: inc/widget.php:111
+msgid "Standard sharing widget. Let your website users share content on popular Social networks like Facebook, Twitter, Tumblr, Google+ and many more"
+msgstr "標準シェアのウィジェットです。ウェブサイトのユーザーが Facebook, Twitter, Tumblr, Google+ など人気のあるソーシャルネットワークでコンテンツを共有できるようにします"
+
+#: inc/widget.php:92 inc/widget.php:256 inc/widget.php:434 inc/widget.php:581
+#: inc/widget.php:741
+msgid "Hide for logged in users:"
+msgstr "ログインユーザーには非表示: "
+
+#: inc/widget.php:89 inc/widget.php:254 inc/widget.php:579
+msgid "After widget content:"
+msgstr "ウィジェットコンテンツの後: "
+
+#: inc/widget.php:87 inc/widget.php:252 inc/widget.php:577
+msgid "Before widget content:"
+msgstr "ウィジェットコンテンツの前: "
+
+#: inc/widget.php:238 inc/widget.php:567
+msgid "Title:"
+msgstr "タイトル: "
+
+#: inc/widget.php:82
+msgid "Make sure Social Login is enabled at \"Super Socializer > Social Login\" page."
+msgstr "ソーシャルログインが \"Super Socializer > ソーシャルログイン\" ページで有効になっているか確認してください。"
+
+#: inc/shortcode.php:201 inc/widget.php:47
+msgid "Log Out"
+msgstr "ログアウト"
+
+#: inc/widget.php:13
+msgid "Let your website users login/register using their favorite Social ID Provider, such as Facebook, Twitter, Google+, LinkedIn"
+msgstr "ウェブサイトのユーザーがお気に入りの Facebook, Twitter, Google+, LinkedIn といったソーシャル ID プロバイダを使用してログイン / 登録できるようにします"
+
+#: inc/widget.php:11
+msgid "Super Socializer - Login"
+msgstr "Super Socializer - ログイン"
+
+#: inc/social_sharing.php:826
+msgid "Providers not selected"
+msgstr "プロバイダーが選択されていません"
+
+#: inc/social_sharing.php:819 inc/social_sharing.php:1038
+msgid "Invalid request"
+msgstr "無効なリクエスト"
+
+#: inc/shortcode.php:285
+msgid "Enable Social Login from \"Basic Configuration\" section at \"Super Socializer > Social Login\" page in admin panel"
+msgstr "管理パネルの \"Super Socializer > ソーシャルログイン\" ページの \"基本設定\" からソーシャルログインを有効"
+
+#: helper.php:649 helper.php:655
+msgid "Remove"
+msgstr "消去"
+
+#: helper.php:649 helper.php:655
+msgid "Currently"
+msgstr "現在"
+
+#: helper.php:611
+msgid "Link your social account to login to your account at this website"
+msgstr "このウェブサイトでアカウントにログインするためのソーシャルアカウントをリンク"
+
+#: helper.php:591
+msgid "Account already exists or linked"
+msgstr "アカウントが既に存在しているか、またはリンクされています"
+
+#: helper.php:587
+msgid "Account linked successfully"
+msgstr "正常にアカウントをリンクしました"
+
+#: helper.php:251
+msgid "Settings"
+msgstr "設定"
+
+#: helper.php:156
+msgid "Click to hide help"
+msgstr "クリックでヘルプを非表示"
+
+#: helper.php:156
+msgid "Click to show help"
+msgstr "クリックでヘルプを表示"
+
+#: helper.php:8
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#: helper.php:8
+msgid "Settings saved"
+msgstr "設定を保存"
+
+#: admin/social_sharing.php:1848
+msgid "How can I specify minimum sharing count for sharing networks?"
+msgstr "シェアネットワークの最小シェア数はどのように指定できますか ?"
+
+#: admin/social_sharing.php:1847
+msgid "How can I disable sharing on particular page/post?"
+msgstr "特定のページや投稿の共有を無効にするにはどうすればよいですか ?"
+
+#: admin/social_sharing.php:1846
+msgid "How can I show share counts of my website rather than of individual pages/posts?"
+msgstr "個々のページや投稿で、ウェブサイトのシェア数を表示するにはどうすればよいですか ?"
+
+#: admin/social_sharing.php:1823
+msgid "Facebook Sharing Troubleshooter"
+msgstr "Facebook のシェアに関するトラブルシューティング"
+
+#: admin/social_sharing.php:1411
+msgid "Specify the pages where you want to enable vertical Sharing interface"
+msgstr "垂直シェアインターフェイスを有効にしたいページを指定してください"
+
+#: admin/social_sharing.php:1354
+msgid "Specify a number. Increase in number will shift sharing interface towards bottom and decrease will shift it towards top."
+msgstr "数字を指定してください。数を増加させると下に向かってシェアインターフェイスが移動し、減少させると上に向かって移動します。"
+
+#: admin/social_sharing.php:1335
+msgid "Specify a number. Increase in number will shift sharing interface towards left and decrease will shift it towards right. Number can be negative too."
+msgstr "数字を指定してください。数を増加させると左に向かってシェアインターフェイスが移動し、減少させると右に向かって移動します。マイナスの数値も使用できます。"
+
+#: admin/social_sharing.php:1315
+msgid "Specify a number. Increase in number will shift sharing interface towards right and decrease will shift it towards left. Number can be negative too."
+msgstr "数字を指定してください。数を増加させると右に向かってシェアインターフェイスが移動し、減少させると左に向かって移動します。マイナスの数値も使用できます。"
+
+#: admin/social_sharing.php:1275
+msgid "Specify the color or hex code (example #cc78e0) for the background of vertical sharing bar. Leave empty for transparent. You can get the hex code of the required color from <a href=\"http://www.colorpicker.com/\" target=\"_blank\">this link</a>"
+msgstr "垂直共有バーの背景色をカラーコードの16進数 (例 #cc78e0) で指定してください。透明の場合は空のままにします。カラーコードの16進数が必要な場合は、 <a href=\"http://www.colorpicker.com/\" target=\"_blank\">このリンク</a> から選択できます。"
+
+#: admin/social_sharing.php:1070 admin/social_sharing.php:1483
+msgid "If enabled, \"More\" icon will be displayed after selected sharing icons which shows additional sharing networks in popup"
+msgstr "有効にした場合、\"その他\" アイコンがポップアップで、選択された共有アイコンの最後に追加されます"
+
+#: admin/social_sharing.php:1060 admin/social_sharing.php:1473
+msgid "Enable 'More' icon"
+msgstr "'その他' アイコンを表示"
+
+#: admin/social_sharing.php:1051 admin/social_sharing.php:1464
+msgid "If enabled, total shares will be displayed with sharing icons"
+msgstr "有効にした場合、シェア合計がアイコンで表示されます<br />"
+
+#: admin/social_sharing.php:1041 admin/social_sharing.php:1454
+msgid "Show total shares"
+msgstr "シェア合計を表示"
+
+#: admin/social_sharing.php:1032 admin/social_sharing.php:1445
+msgid "If enabled, share counts are displayed above sharing icons."
+msgstr "有効にした場合、シェアアイコンの上部にシェア数が表示されます。<br />"
+
+#: admin/social_sharing.php:997 admin/social_sharing.php:1419
+msgid "Show share counts"
+msgstr "シェア数を表示"
+
+#: admin/social_sharing.php:989
+msgid "Specify the pages where you want to enable Sharing interface"
+msgstr "シェアインターフェイスを有効にするページを指定してください"
+
+#: admin/social_sharing.php:913
+msgid "Specify position of the sharing interface with respect to the content"
+msgstr "コンテンツに対してシェアインターフェイスの位置を指定してください"
+
+#: admin/social_sharing.php:892 admin/social_sharing.php:1296
+msgid "Horizontal alignment of the sharing interface"
+msgstr "シェアインターフェイスの水平配置"
+
+#: admin/social_sharing.php:828 admin/social_sharing.php:1215
+msgid "Drag the icons to rearrange in desired order"
+msgstr "希望する順序に並び替えるには、アイコンをドラッグしてください"
+
+#: admin/social_sharing.php:769 admin/social_sharing.php:1156
+msgid "Rearrange icons"
+msgstr "アイコンの再配置"
+
+#: inc/social_login.php:719
+msgid "Email"
+msgstr "メール"
+
+#: admin/social_sharing.php:728
+msgid "The text to display above the sharing interface"
+msgstr "シェアインターフェイスの上部にテキストを表示します"
+
+#: admin/social_sharing.php:710 admin/social_sharing.php:1128
+msgid "Url to share"
+msgstr "シェアする URL"
+
+#: admin/social_sharing.php:685
+msgid "Master control to enable standard sharing"
+msgstr "マスターコントロールの標準的なシェアを有効にします<br />"
+
+#: admin/social_sharing.php:1750 admin/social_sharing.php:1769
+msgid "Provided username will be appended after the content being shared as \"via @USERNAME\". Leave empty if you do not want any username in the content being shared."
+msgstr "指定されたユーザー名は、コンテンツで \"@USERNAME 経由\" として共有された後に追加されます。共有されているコンテンツにユーザー名を使用しない場合は、空のままにしてください。<br />"
+
+#: admin/social_sharing.php:1740
+msgid "Twitter username (without @)"
+msgstr "Twitter のユーザー名 (@ なし)"
+
+#: admin/social_sharing.php:1583
+msgid "Enable bit.ly url shortener for sharing"
+msgstr "共有で bit.ly の URL 短縮を有効"
+
+#: admin/social_sharing.php:1565
+msgid "Use shortlinks already installed"
+msgstr "既にインストールされているショートリンクを使用"
+
+#: admin/social_sharing.php:126 admin/social_sharing.php:434
+msgid "Do not forget to save the configuration after making changes by clicking the save button below"
+msgstr "変更を行った後、以下の保存ボタンをクリックして設定の保存を忘れないでください"
+
+#: admin/social_sharing.php:54 admin/social_sharing.php:361
+msgid "Icon Preview"
+msgstr "アイコンプレビュー"
+
+#: admin/social_sharing.php:173 admin/social_sharing.php:481
+msgid "Size of the sharing icons"
+msgstr "共有アイコンのサイズ"
+
+#: admin/social_sharing.php:157 admin/social_sharing.php:465
+msgid "Size (in pixels)"
+msgstr "サイズ (px)"
+
+#: admin/social_sharing.php:148 admin/social_sharing.php:456
+msgid "Shape of the sharing icons"
+msgstr "共有アイコンの形状"
+
+#: admin/social_sharing.php:139 admin/social_sharing.php:447
+msgid "Square"
+msgstr "平方"
+
+#: admin/social_sharing.php:137 admin/social_sharing.php:445
+msgid "Round"
+msgstr "角丸"
+
+#: admin/social_sharing.php:133 admin/social_sharing.php:441
+msgid "Shape"
+msgstr "形状"
+
+#: admin/general_options.php:63
+msgid "If enabled, plugin options will get deleted when plugin is deleted/uninstalled and you will need to reconfigure the options when you install the plugin next time."
+msgstr "有効にした場合、プラグインのオプション内容は削除 / アインストールの際に削除され、次回プラグインをインストールした際は、再度設定し直す必要があります。"
+
+#: admin/general_options.php:53
+msgid "Delete all the options on plugin deletion"
+msgstr "プラグイン削除の際にすべてのオプションも削除"
+
+#: admin/social_sharing.php:14
+msgid "Enable Social Sharing"
+msgstr "ソーシャルシェアを有効"
+
+#: admin/social_sharing.php:40
+msgid "Troubleshooter"
+msgstr "トラブルシューティング"
+
+#: admin/social_login.php:911
+msgid "Social Linking Shortcode"
+msgstr "ソーシャルリンクのショートコード"
+
+#: admin/social_login.php:910
+msgid "Social Login Shortcode & Widget"
+msgstr "ウィジェット & ソーシャルログインのショートコード"
+
+#: admin/social_login.php:829
+msgid "If enabled, email provided by the user will be verified by sending a confirmation link to that email. User would not be able to login without verifying his/her email"
+msgstr "有効にした場合、ユーザーから投稿されたメールは、そのメールへ確認リンクを送信することによって確認されます。ユーザーは自分のメールを確認せずにログインすることはできません"
+
+#: admin/social_login.php:819
+msgid "Enable email verification"
+msgstr "メール確認を有効化する"
+
+#: admin/social_login.php:811
+msgid "If you are seeing vertical scrollbar in the \"Email required\" popup, you can increase the height of popup by specifying in this option. Leave empty for default."
+msgstr "\"メールが必要です\" ポップアップに垂直スクロールバーが表示されている場合は、このオプションを指定することでポップアップの高さを上げることができます。デフォルトの場合は空のままにしてください。"
+
+#: admin/social_login.php:801
+msgid "Email popup height"
+msgstr "メールポップアップの高さ"
+
+#: admin/social_login.php:792
+msgid "This message will be displayed to user if it provides invalid or already registered email"
+msgstr "このメッセージは、無効または登録済みのメールを投稿した場合に表示されます"
+
+#: admin/social_login.php:782
+msgid "Error message for 'Email required' popup"
+msgstr "'メール必須' ポップアップのエラーメッセージ"
+
+#: admin/social_login.php:773
+msgid "This text will be displayed on email required popup. Leave empty if not required."
+msgstr "このテキストは、\"メール必須\" ポップアップに表示されます。必要ない場合は空白のままにしてください。"
+
+#: admin/social_login.php:763
+msgid "Text on 'Email required' popup"
+msgstr "'メール必須' ポップアップのテキスト"
+
+#: admin/social_login.php:757
+msgid "Email popup options"
+msgstr "メールポップアップ設定"
+
+#: admin/social_login.php:749
+msgid "User will be redirected to the selected page after registration (first Social Login) through Social Login"
+msgstr "ソーシャルログインによる登録 (最初のソーシャルログイン) 後、選択したページにリダイレクトされます"
+
+#: admin/social_login.php:731
+msgid "Same page from where user registered"
+msgstr "ユーザーが登録した同じページ"
+
+#: admin/social_login.php:727
+msgid "Registration redirection"
+msgstr "ユーザー登録のリダイレクト"
+
+#: admin/social_login.php:719
+msgid "User will be redirected to the selected page after Social Login"
+msgstr "ソーシャルログイン後、選択したページにリダイレクトされます"
+
+#: admin/social_login.php:711 admin/social_login.php:741
+msgid "Custom Url"
+msgstr "カスタム URL"
+
+#: admin/social_login.php:708 admin/social_login.php:738
+msgid "BuddyPress profile page"
+msgstr "BuddyPress のプロファイルページ"
+
+#: admin/social_login.php:705 admin/social_login.php:735
+msgid "Account dashboard"
+msgstr "アカウントダッシュボード"
+
+#: admin/social_login.php:701
+msgid "Same page where user logged in"
+msgstr "ユーザーのログインした同じページ"
+
+#: admin/social_login.php:697
+msgid "Login redirection"
+msgstr "ログインのリダイレクト"
+
+#: admin/social_login.php:688
+msgid "Enable this option to show social account linking interface at BuddyPress profile page"
+msgstr "このオプションを有効にすると、BuddyPress のプロファイルページにソーシャルアカウントのリンクインターフェイスが表示されます"
+
+#: admin/social_login.php:678
+msgid "Enable social account linking at BuddyPress profile page"
+msgstr "BuddyPress のプロファイルページでソーシャルアカウントのリンクを有効"
+
+#: admin/social_login.php:651
+msgid "If enabled, an email will be sent to user after registration through Social Login, regarding his/her login credentials (username-password to be able to login via traditional login form)"
+msgstr "有効にした場合、ソーシャルログインでユーザー登録した後に、ユーザーのログイン資格情報 (従来のログインフォームを使用してログインできるユーザ名とパスワード) に関するメールがユーザーに送信されます。"
+
+#: admin/social_login.php:632
+msgid "If enabled and Social ID provider does not provide user's email address on login, user will be asked to provide his/her email address. Otherwise, a dummy email will be generated"
+msgstr "有効にし、ソーシャル ID プロバイダがログインの際にユーザーがメールアドレスを提供しない場合、ユーザーは自分のメールアドレスを提供するよう求められます。"
+
+#: admin/social_login.php:622 super_socializer.php:639
+msgid "Email required"
+msgstr "メール必須"
+
+#: admin/social_login.php:592
+msgid "Choose avatar quality"
+msgstr "アバターの品質を選択してください"
+
+#: admin/social_login.php:585
+msgid "Best"
+msgstr "最高"
+
+#: admin/social_login.php:584
+msgid "Average"
+msgstr "平均"
+
+#: admin/social_login.php:581
+msgid "Avatar quality"
+msgstr "アバターの品質"
+
+#: admin/social_login.php:571
+msgid "Social profile pictures of the logged in user will be displayed as profile avatar"
+msgstr "ログインしたユーザーのソーシャルプロファイル写真がプロファイルアバターとして表示されます<br />"
+
+#: admin/social_login.php:561
+msgid "Enable social avatar"
+msgstr "ソーシャルアバターを有効にする"
+
+#: admin/social_login.php:551
+msgid "Note: This is not related to Facebook comments"
+msgstr "注意: これは Facebook のコメントとは関係ありません"
+
+#: admin/social_login.php:550
+msgid "If this option is enabled, and WordPress comment is made by Social Login user, comment will get approved immediately without keeping in moderation."
+msgstr "このオプションを有効にした場合、ソーシャルログインのユーザーによって書き込まれたコメントと WordPress のコメントは、モデレートをせず即承認されます。"
+
+#: admin/social_login.php:540
+msgid "Auto-approve comments made by Social Login users"
+msgstr "ソーシャルログインユーザーのコメント自動承認"
+
+#: admin/social_login.php:529
+msgid "Social Login Interface will get enabled at WooCommerce checkout page"
+msgstr "ソーシャルログインインターフェイスが WooCommerce のチェックアウトページで有効になります"
+
+#: admin/social_login.php:519
+msgid "Enable at WooCommerce checkout page"
+msgstr "WooCommerce チェックアウトページで有効"
+
+#: admin/social_login.php:511
+msgid "Social Login Interface will get enabled after the customer login form at WooCommerce My Account page"
+msgstr "ソーシャルログインのインターフェイスは、WooCommerce の My アカウントページにて、お客様ログインフォームの後で有効になります。"
+
+#: admin/social_login.php:501
+msgid "Enable after WooCommerce Customer Login Form"
+msgstr "WooCommerce お客様ログインフォームの後で有効"
+
+#: admin/social_login.php:493
+msgid "Social Login Interface will get enabled before the customer login form at WooCommerce My Account page"
+msgstr "ソーシャルログインのインターフェイスは、WooCommerce のアカウントページで、お客様のログインフォーム前で有効になります"
+
+#: admin/social_login.php:483
+msgid "Enable before WooCommerce Customer Login Form"
+msgstr "WooCommerce お客様ログインフォームの前で有効にする"
+
+#: admin/social_login.php:450
+msgid "Social Login interface will get enabled at your Wordpress Comment form"
+msgstr "ソーシャルログインのインターフェイスは、WordPress の問い合わせフォームで有効になります"
+
+#: admin/social_login.php:440
+msgid "Enable at comment form"
+msgstr "問い合わせフォームで有効にする"
+
+#: admin/social_login.php:432
+msgid "Social Login interface will get enabled at the registration page of your website"
+msgstr "ウェブサイトのユーザー登録ページでソーシャルログインのインターフェイスが有効になります"
+
+#: admin/social_login.php:422
+msgid "Enable at register page"
+msgstr "ユーザー登録ページで有効にする"
+
+#: admin/social_login.php:414
+msgid "Social Login interface will get enabled at the login page of your website"
+msgstr "ウェブサイトのログインページでソーシャルログインのインターフェイスが有効になります"
+
+#: admin/social_login.php:404
+msgid "Enable at login page"
+msgstr "ログインページで有効にする"
+
+#: admin/social_login.php:395
+msgid "Text to display above the Social Login interface"
+msgstr "ソーシャルログインのインターフェイスの上に表示されるテキストです"
+
+#: admin/general_options.php:27
+msgid "If enabled (recommended), Javascript files will be included in the footer of your website."
+msgstr "有効にした場合 (推奨)、JavaScript ファイルはウェブサイトのフッターへ出力されます。"
+
+#: admin/general_options.php:17
+msgid "Include Javascript in website footer"
+msgstr "ウェブサイトのフッターに JavaScript を含める"
+
+#: admin/social_login.php:338
+msgid "Required for Xing Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Xing Consumer Secret"
+msgstr "Xing のソーシャルログインを機能させるために必要です。<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従って Xing コンシューマシークレットを取得してください。"
+
+#: admin/social_login.php:328
+msgid "Xing Consumer Secret"
+msgstr "Xing コンシューマー・シークレット"
+
+#: admin/social_login.php:318 admin/social_login.php:340
+msgid "Paste following url in <strong>Callback domain</strong> option at the link mentioned"
+msgstr "記載されたリンクの <strong>コールバックドメイン</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:316
+msgid "Required for Xing Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Xing Consumer Key"
+msgstr "Xing のソーシャルログインを機能させるために必要です。<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従って Xing コンシューマキーを取得してください。"
+
+#: admin/social_login.php:306
+msgid "Xing Consumer Key"
+msgstr "Xing コンシューマーキー"
+
+#: admin/social_login.php:294
+msgid "Required for Instagram Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Instagram Client ID"
+msgstr "Instagram のソーシャルログインを機能させるために必要です。<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従って Instagram クライアント ID を取得してください。"
+
+#: admin/social_login.php:284
+msgid "Instagram Client ID"
+msgstr "Instagram クライアント ID"
+
+#: admin/social_login.php:274
+msgid "Paste following url in <strong>Site address</strong> option at the link mentioned"
+msgstr "記載されたリンクの <strong>サイトアドレス</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:272
+msgid "Required for Vkontakte Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Vkontakte Application ID"
+msgstr "Vkontakte のソーシャルログインを機能させるために必要です。<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従って Vkontakte アプリケーション ID を取得してください。"
+
+#: admin/social_login.php:262
+msgid "Vkontakte Application ID"
+msgstr "Vkontakte アプリケーション ID"
+
+#: admin/social_login.php:252
+msgid "Paste following url in <strong>AUTHORIZED JAVASCRIPT ORIGINS</strong> and <strong>AUTHORIZED REDIRECT URI</strong> options at the link mentioned"
+msgstr "記載されたリンクの <strong>元の認証 JavaScript</strong> と <strong>認証リダイレクト URI</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:250
+msgid "Required for GooglePlus Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get GooglePlus Client ID"
+msgstr "Google+ のソーシャルログインを機能させるために必要です。<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従って Google+ クライアント ID を取得してください。"
+
+#: admin/social_login.php:240
+msgid "Google+ Client ID"
+msgstr "Google+ クライアント ID"
+
+#: admin/social_login.php:230 admin/social_login.php:296
+msgid "Paste following url in <strong>Website URL</strong> option at the link mentioned"
+msgstr "記載されたリンクの <strong>ウェブサイト URL</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:228
+msgid "Required for LinkedIn Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get LinkedIn API Key"
+msgstr "LinkedIn のソーシャルログインを動作させるために必要です。 LinkedIn API キーを取得するには、<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従ってください。"
+
+#: admin/social_login.php:218
+msgid "LinkedIn API Key"
+msgstr "LinkedIn API キー"
+
+#: admin/social_login.php:206
+msgid "Required for Twitter Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Twitter API Secret"
+msgstr "Twitter のソーシャルログインを動作させるために必要です。 Twitter API シークレットキーを取得するには、<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従ってください。"
+
+#: admin/social_login.php:196
+msgid "Twitter API Secret"
+msgstr "Twitter API シークレット"
+
+#: admin/social_login.php:186 admin/social_login.php:208
+msgid "Paste following url in <strong>Website</strong> and <strong>Callback URL</strong> options at the link mentioned"
+msgstr "記載されたリンクの <strong>ウェブサイト</strong> と <strong>コールバック URL</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:184
+msgid "Required for Twitter Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Twitter API Key"
+msgstr "Twitter のソーシャルログインを動作させるために必要です。 Twitter API キーを取得するには、<a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従ってください。"
+
+#: admin/social_login.php:174
+msgid "Twitter API Key"
+msgstr "Twitter API キー"
+
+#: admin/social_login.php:164
+msgid "Paste following url in <strong>Site URL</strong> option at the link mentioned"
+msgstr "記載されたリンクの <strong>サイト URL</strong> をオプション URL に貼り付けてください"
+
+#: admin/social_login.php:162
+msgid "Required for Facebook Social Login to work. Please follow the documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Facebook App ID"
+msgstr "Facebook のソーシャルログインを動作させるために必要です。 Facebook App ID を取得するには、 <a href=\"%s\" target=\"_blank\">このリンク</a> のドキュメントに従ってください。"
+
+#: admin/social_login.php:152
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: admin/social_login.php:144
+msgid "Select Social ID provider to enable in Social Login"
+msgstr "ソーシャルログインで有効にするソーシャル ID プロバイダーを選択"
+
+#: admin/social_login.php:122
+msgid "Xing"
+msgstr "Xing"
+
+#: admin/social_login.php:118
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/social_login.php:114
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: admin/social_login.php:110
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/social_login.php:106
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/social_login.php:102
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/social_login.php:93
+msgid "Select providers"
+msgstr "プロバイダーを選択"
+
+#: admin/social_login.php:84
+msgid "User will be redirected to this page after unsuccessful registration attempt via Social Login. You can specify the url of registration form or of a page showing message regarding disabled registration through Social Login."
+msgstr "ソーシャルログインでユーザー登録に失敗した後、このページにリダイレクトされます。登録フォームのURL、またはソーシャルログインを経由して、ユーザー登録が無効になっている旨を伝えるページを指定することができます。"
+
+#: admin/social_login.php:74
+msgid "Redirection url"
+msgstr "リダイレクト URL"
+
+#: admin/social_login.php:65
+msgid "After enabling this option, new users will not be able to login through social login. Only existing users will be able to social login."
+msgstr "この設定を有効にすると、新しいユーザーはソーシャルログインでログインできなくなります。既存のユーザーだけがソーシャルログインできるようになります。"
+
+#: admin/social_login.php:55
+msgid "Disable user registration via Social Login"
+msgstr "ソーシャルログインによるユーザー登録を無効"
+
+#: admin/social_login.php:24
+msgid "Master control for Social Login. It must be checked to enable Social Login functionality"
+msgstr "ソーシャルログインのマスターコントロールです。ソーシャルログイン機能を有効にするにはチェックする必要があります"
+
+#: admin/social_login.php:14
+msgid "Enable Social Login"
+msgstr "ソーシャルログインを有効にする"
+
+#: admin/help.php:45
+msgid "Award points for Social Login"
+msgstr "ソーシャルログインの受賞ポイント"
+
+#: admin/social_commenting.php:458
+msgid "How to disable default comment form from Social Commenting?"
+msgstr "ソーシャルコメントからデフォルトのコメントフォームを無効にするには ?"
+
+#: admin/social_commenting.php:457
+msgid "How can I disable Social Commenting at individual page/post?"
+msgstr "個々の固定ページ / 投稿でソーシャルコメントを無効にするには ?"
+
+#: admin/social_commenting.php:444
+msgid "Social Commenting Shortcode"
+msgstr "ソーシャルコメントのショートコード"
+
+#: admin/social_commenting.php:426
+msgid "<strong>Required to use Disqus commenting.</strong> For more info on shortname, visit following link."
+msgstr "<strong>Disqus コメントを使用するために必要です。</strong>短縮名の詳細については、以下のリンクをご覧ください。"
+
+#: admin/social_commenting.php:416
+msgid "Disqus Shortname"
+msgstr "Disqus のショートネーム"
+
+#: admin/social_commenting.php:398 admin/social_commenting.php:408
+msgid "Enable Disqus Commenting"
+msgstr "Disqus のコメントを有効にする"
+
+#: admin/social_commenting.php:392
+msgid "Disqus Commenting Options"
+msgstr "Disqus コメントオプション"
+
+#: admin/social_commenting.php:383
+msgid "The absolute URL that comments posted will be permanently associated with. Stories on Google Plus about comments posted, will link to this URL.<br/>If left empty <strong>(Recommended)</strong>, url of the webpage will be used at which commenting is enabled."
+msgstr "投稿されたコメントの絶対URLは、永続的に関連付けられます。投稿されたコメントに関する Google プラスのストーリは、この URL にリンクされます。<br/>空の <strong>(推奨)</strong> のままにすると、コメントが有効になっているウェブページのURLが使用されます。"
+
+#: admin/social_commenting.php:365
+msgid "Width of GooglePlus Commenting interface. Leave empty for auto adjust"
+msgstr "Google + のコメントインターフェイスの幅を指定できます。空のままにすると自動調整になります。"
+
+#: admin/social_commenting.php:337 admin/social_commenting.php:347
+msgid "Enable Google Plus Commenting"
+msgstr "Google + のコメントを有効にする"
+
+#: admin/social_commenting.php:331
+msgid "Google Plus Commenting Options"
+msgstr "Google + コメントオプション"
+
+#: admin/social_commenting.php:322
+msgid "Enter the code of the language you want to use to display commenting. You can find the language codes at <a href=\"%s\" target=\"_blank\">this link</a>. Leave it empty for default language(English)"
+msgstr "コメント表示で使用する言語コードを入力してください。 <a href=\"%s\" target=\"_blank\">こちらのリンク</a> に言語コードがあります。デフォルトの言語 (英語) の場合は空のままにしてください<br />"
+
+#: admin/social_commenting.php:304
+msgid "The order to use when displaying comments."
+msgstr "コメント表示で使用する順序を指定できます。"
+
+#: admin/social_commenting.php:296
+msgid "Time"
+msgstr "時間"
+
+#: admin/social_commenting.php:295
+msgid "Reverse Time"
+msgstr "リバース時間"
+
+#: admin/social_commenting.php:294
+msgid "Social"
+msgstr "ソーシャル"
+
+#: admin/social_commenting.php:290
+msgid "Order by"
+msgstr "並び替え"
+
+#: admin/social_commenting.php:282
+msgid "The number of comments to show by default. The minimum value is 1. Defaults to 10"
+msgstr "デフォルトで表示するコメントの数を指定できます。最小値は1です。デフォルトは 10 になります。"
+
+#: admin/social_commenting.php:272
+msgid "Number of comments"
+msgstr "コメント数"
+
+#: admin/social_commenting.php:264
+msgid "The color scheme used by the plugin. Can be \"light\" or \"dark\"."
+msgstr "プラグインで使用される配色を指定できます。\"ライト\" か \"ダーク\" を使用できます。"
+
+#: admin/social_commenting.php:256
+msgid "Dark"
+msgstr "ダーク"
+
+#: admin/social_commenting.php:255
+msgid "Light"
+msgstr "ライト"
+
+#: admin/social_commenting.php:251
+msgid "Color Scheme"
+msgstr "配色"
+
+#: admin/social_commenting.php:243
+msgid "Leave empty to auto-adjust the width. The width (in pixels) of the Comments block."
+msgstr "空のままにすると、幅を自動調整します。コメントブロックの幅 (ピクセル単位) を指定してください。"
+
+#: admin/social_commenting.php:233 admin/social_commenting.php:355
+msgid "Width"
+msgstr "幅"
+
+#: admin/social_commenting.php:225
+msgid "The absolute URL that comments posted will be permanently associated with. Stories on Facebook about comments posted, will link to this URL.<br/>If left empty <strong>(Recommended)</strong>, url of the webpage will be used at which commenting is enabled."
+msgstr "投稿されたコメントの絶対URLは、永続的に関連付けられます。投稿されたコメントに関する Facebook ストーリは、このURLにリンクされます。<br/>空の <strong>(推奨)</strong> のままにすると、コメントが有効になっているウェブページのURLが使用されます。"
+
+#: admin/social_commenting.php:215 admin/social_commenting.php:373
+msgid "Url to comment on"
+msgstr "コメントする URL"
+
+#: admin/social_commenting.php:197 admin/social_commenting.php:207
+msgid "Enable Facebook Commenting"
+msgstr "Facebook のコメントを有効にする"
+
+#: admin/social_commenting.php:189
+msgid "Enable Facebook Comments notification and moderation"
+msgstr "Facebook のコメント通知とモデレーションを有効"
+
+#: admin/social_commenting.php:183
+msgid "Facebook Commenting Options"
+msgstr "FaceBook コメントオプション"
+
+#: admin/social_commenting.php:172
+msgid "Label for Disqus Commenting tab"
+msgstr "Disqus コメントタブのラベル"
+
+#: admin/social_commenting.php:163
+msgid "Label for G+ Commenting tab"
+msgstr "Google+ コメントタブのラベル"
+
+#: admin/social_commenting.php:154
+msgid "Label for Facebook Commenting tab"
+msgstr "FaceBook コメントタブのラベル"
+
+#: admin/social_commenting.php:145
+msgid "Label for WordPress Commenting tab"
+msgstr "WordPress コメントタブのラベル"
+
+#: admin/social_commenting.php:140
+msgid "Labels"
+msgstr "ラベル"
+
+#: admin/social_commenting.php:130
+msgid "HTML ID of container element of the default comment form at front end. Leave empty for default ID - \"respond\". You need to specify it if default comment form is appearing and Social Commenting is not getting enabled at front-end of your website."
+msgstr "フロントエンドのデフォルトコメントフォームで使用するコンテナ要素の HTML ID を指定できます。デフォルトの ID - \"respond\" を使用する場合は空のままにしてください。デフォルトのコメントフォームが表示され、ソーシャルコメントがウェブサイトのフロントエンドで有効になっていない場合に指定する必要があります。"
+
+#: admin/social_commenting.php:120
+msgid "HTML ID of comment form container"
+msgstr "コメントフォームコンテナの HTML ID"
+
+#: admin/social_commenting.php:109
+msgid "Specify the page/post groups where you want to enable Social Commenting"
+msgstr "ソーシャルコメントを有効にしたいページ / グループを指定"
+
+#: admin/social_commenting.php:90
+msgid "Enable Social Commenting at"
+msgstr "ソーシャルコメントを有効にする"
+
+#: admin/social_commenting.php:77
+msgid "Label for comment area"
+msgstr "コメントエリアのラベル"
+
+#: admin/social_commenting.php:67
+msgid "Comment area label"
+msgstr "コメントエリアのラベル"
+
+#: admin/social_commenting.php:59
+msgid "Order of the tabs shown in social commenting interface. Defaults to wordpress,facebook,googleplus,disqus"
+msgstr "ソーシャルコメントのインターフェイスに表示されるタブの順序を指定できます。デフォルトでは wordpress,facebook,googleplus,disqus の順序になっています。"
+
+#: admin/social_commenting.php:49
+msgid "Order of tabs in commenting interface"
+msgstr "コメントインターフェイスのタブ順序"
+
+#: admin/social_commenting.php:23
+msgid "Master control to enable Social Commenting"
+msgstr "ソーシャルコメントを有効にするマスターコントロール"
+
+#: admin/social_commenting.php:13
+msgid "Enable Social Commenting"
+msgstr "ソーシャルコメントを有効にする"
+
+#: admin/general_options.php:11 admin/social_commenting.php:43
+#: super_socializer.php:934
+msgid "General Options"
+msgstr "基本設定"
+
+#: admin/like_buttons.php:41 admin/like_buttons.php:770
+#: admin/social_commenting.php:36 admin/social_commenting.php:455
+#: admin/social_login.php:41 admin/social_login.php:922
+#: admin/social_sharing.php:41 admin/social_sharing.php:1843
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: admin/social_commenting.php:35 admin/social_commenting.php:442
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/social_commenting.php:34
+msgid "Social Commenting"
+msgstr "ソーシャルコメント"
+
+#: admin/general_options.php:128 admin/like_buttons.php:785
+#: admin/social_commenting.php:467 admin/social_login.php:937
+#: admin/social_sharing.php:1868 helper.php:935
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: admin/like_buttons.php:759
+msgid "Like Buttons Shortcode & Widget"
+msgstr "ウィジェット & Like ボタンのショートコード"
+
+#: admin/like_buttons.php:562
+msgid "If enabled, vertical like buttons will not appear on mobile devices"
+msgstr "有効にした場合、モバイル端末に垂直のいいね！ボタンは表示されません"
+
+#: admin/like_buttons.php:552
+msgid "Hide like buttons on mobile devices"
+msgstr "モバイルデバイスの いいね！ボタンを非表示"
+
+#: admin/like_buttons.php:544
+msgid "Specify the pages where you want to enable vertical interface"
+msgstr "垂直インターフェイスを有効にするページを指定"
+
+#: admin/like_buttons.php:488
+msgid "Specify a number. Increase in number will shift interface towards bottom and decrease will shift it towards top."
+msgstr "数値を指定してください。数を増やすとインターフェイスが下に移動し、減らすと上に移動します。"
+
+#: admin/like_buttons.php:478 admin/social_sharing.php:1344
+msgid "Top offset"
+msgstr "上オフセット"
+
+#: admin/like_buttons.php:469
+msgid "Specify a number. Increase in number will shift interface towards left and decrease will shift it towards right. Number can be negative too."
+msgstr "数値を指定してください。数を増やすとインターフェイスが左に移動し、減らすと右に移動します。マイナスの数値も使用できます。"
+
+#: admin/like_buttons.php:459 admin/social_sharing.php:1325
+msgid "Right offset"
+msgstr "右オフセット"
+
+#: admin/like_buttons.php:449
+msgid "Specify a number. Increase in number will shift interface towards right and decrease will shift it towards left. Number can be negative too."
+msgstr "数値を指定してください。数を増やすとインターフェイスが右に移動し、減らすと左に移動します。マイナスの数値も使用できます。"
+
+#: admin/like_buttons.php:439 admin/social_sharing.php:1305
+msgid "Left offset"
+msgstr "左オフセット"
+
+#: admin/like_buttons.php:409
+msgid "Specify the color or hex code (example #cc78e0) for the background of vertical interface. Leave empty for transparent. You can get the hex code of the required color from <a href=\"http://www.colorpicker.com/\" target=\"_blank\">this link</a>"
+msgstr "垂直インターフェイスの背景色をカラーコードの16進数 (例 #cc78e0) で指定してください。透明の場合は空のままにします。カラーコードの16進数が必要な場合は、 <a href=\"http://www.colorpicker.com/\" target=\"_blank\">このリンク</a> から選択できます。"
+
+#: admin/like_buttons.php:399 admin/social_sharing.php:274
+#: admin/social_sharing.php:582 admin/social_sharing.php:1265
+#: inc/widget.php:431 inc/widget.php:738
+msgid "Background Color"
+msgstr "背景色"
+
+#: admin/like_buttons.php:315
+msgid "Master control to enable vertical (floating) counter widget"
+msgstr "垂直 (フロート) カウンタウィジェットを有効にするマスターコントロール"
+
+#: admin/like_buttons.php:299
+msgid "Vertical (Floating) like buttons Options"
+msgstr "垂直 (フロート)  のいいね！ボタンオプション"
+
+#: admin/like_buttons.php:281
+msgid "Specify the pages where you want to enable interface"
+msgstr "インターフェイスを有効にするページを指定"
+
+#: admin/like_buttons.php:270 admin/social_sharing.php:978
+msgid "WooCommerce Thankyou Page"
+msgstr "WooCommerce サンクスページ"
+
+#: admin/like_buttons.php:267 admin/social_sharing.php:975
+msgid "WooCommerce Product Page"
+msgstr "WooCommerce 商品ページ"
+
+#: admin/like_buttons.php:264 admin/social_sharing.php:972
+msgid "After individual product at WooCommerce Shop page"
+msgstr "WooCommerce ショップページでの、個別商品の後"
+
+#: admin/like_buttons.php:257 admin/social_sharing.php:965
+msgid "BBPress reply"
+msgstr "BBPress 返信"
+
+#: admin/like_buttons.php:254 admin/like_buttons.php:534
+#: admin/social_sharing.php:962 admin/social_sharing.php:1401
+msgid "BBPress topic"
+msgstr "BBPress トピック"
+
+#: admin/like_buttons.php:251 admin/like_buttons.php:531
+#: admin/social_sharing.php:959 admin/social_sharing.php:1398
+msgid "BBPress forum"
+msgstr "BBPress フォーラム"
+
+#: admin/like_buttons.php:225 admin/like_buttons.php:510
+#: admin/social_sharing.php:935 admin/social_sharing.php:1376
+msgid "Archive Pages (Category, Tag, Author or Date based pages)"
+msgstr "アーカイブページ (カテゴリー、タグ、作者または、日付ベースのページ)"
+
+#: admin/like_buttons.php:223 admin/like_buttons.php:508
+#: admin/social_sharing.php:933 admin/social_sharing.php:1374
+msgid "Category Archives"
+msgstr "カテゴリーアーカイブ"
+
+#: admin/like_buttons.php:219 admin/like_buttons.php:504
+#: admin/social_sharing.php:929 admin/social_sharing.php:1370
+msgid "Pages"
+msgstr "ページ"
+
+#: admin/like_buttons.php:217 admin/like_buttons.php:502
+#: admin/social_sharing.php:927 admin/social_sharing.php:1368
+msgid "Posts"
+msgstr "投稿"
+
+#: admin/like_buttons.php:215 admin/like_buttons.php:500
+#: admin/social_login.php:703 admin/social_login.php:733
+#: admin/social_sharing.php:925 admin/social_sharing.php:1366
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: admin/like_buttons.php:211 admin/like_buttons.php:496
+msgid "Interface location"
+msgstr "インターフェイスの位置"
+
+#: admin/like_buttons.php:203
+msgid "Specify position of the interface with respect to the content"
+msgstr "コンテンツに対するインターフェイスの位置を指定"
+
+#: admin/like_buttons.php:196 admin/social_sharing.php:906
+msgid "Bottom of the content"
+msgstr "コンテンツの下"
+
+#: admin/like_buttons.php:194 admin/social_sharing.php:904
+msgid "Top of the content"
+msgstr "コンテンツの上"
+
+#: admin/like_buttons.php:190 admin/social_sharing.php:900
+msgid "Position with respect to content"
+msgstr "コンテンツに対する位置"
+
+#: admin/like_buttons.php:182 admin/like_buttons.php:430
+msgid "Horizontal alignment of the interface"
+msgstr "インターフェイスの水平方向の配置"
+
+#: admin/like_buttons.php:174 admin/like_buttons.php:422
+#: admin/social_sharing.php:328 admin/social_sharing.php:635
+#: admin/social_sharing.php:884 admin/social_sharing.php:1288
+#: inc/widget.php:418 inc/widget.php:725
+msgid "Right"
+msgstr "右"
+
+#: admin/like_buttons.php:173 admin/social_sharing.php:883
+msgid "Center"
+msgstr "中央"
+
+#: admin/like_buttons.php:172 admin/like_buttons.php:421
+#: admin/social_sharing.php:324 admin/social_sharing.php:631
+#: admin/social_sharing.php:882 admin/social_sharing.php:1287
+#: inc/widget.php:417 inc/widget.php:724
+msgid "Left"
+msgstr "左"
+
+#: admin/like_buttons.php:168 admin/like_buttons.php:417
+#: admin/social_sharing.php:878 admin/social_sharing.php:1283
+msgid "Horizontal alignment"
+msgstr "水平配置"
+
+#: admin/like_buttons.php:160 admin/like_buttons.php:391
+msgid "Select the providers for interface. Drag them to rearrange."
+msgstr "インターフェイスのプロバイダーを選択してください。また、ドラッグして並べ替えられます。"
+
+#: admin/like_buttons.php:116 admin/like_buttons.php:348
+msgid "Select and rearrange providers"
+msgstr "選択してプロバイダーをアレンジ"
+
+#: admin/like_buttons.php:108
+msgid "The text to display above the interface"
+msgstr "インターフェイスの上に表示されるテキスト"
+
+#: admin/like_buttons.php:98 admin/social_login.php:385
+#: admin/social_sharing.php:718
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/like_buttons.php:90 admin/like_buttons.php:340
+msgid "Url to like/share/tweet and display like/share/tweet counts"
+msgstr "URL は いいね！/ シェア / ツイートと、いいね！/ シェア / ツイートのカウンターを表示"
+
+#: admin/like_buttons.php:83 admin/like_buttons.php:333
+#: admin/social_sharing.php:703 admin/social_sharing.php:1121
+msgid "Custom url"
+msgstr "カスタム URL"
+
+#: admin/like_buttons.php:81 admin/like_buttons.php:331
+#: admin/social_sharing.php:701 admin/social_sharing.php:1119
+msgid "Url of the homepage of your website"
+msgstr "ウェブサイトのホームページ URL"
+
+#: admin/like_buttons.php:79 admin/like_buttons.php:329
+#: admin/social_sharing.php:699 admin/social_sharing.php:1117
+msgid "Url of the webpage where icons are located (default)"
+msgstr "アイコンが配置されたページの URL (デフォルト)"
+
+#: admin/like_buttons.php:75 admin/like_buttons.php:325
+#: admin/social_sharing.php:695 admin/social_sharing.php:1113
+msgid "Target Url"
+msgstr "ターゲット URL"
+
+#: admin/like_buttons.php:65
+msgid "Master control to enable horizontal like buttons"
+msgstr "水平のいいね！ボタンを有効にするマスターコントロール"
+
+#: admin/like_buttons.php:741
+msgid "Provided username will be appended after the content in Buffer sharing as \"via @USERNAME\". Leave empty if you do not want any username."
+msgstr "共有されたユーザー名は、バッファ共有コンテンツの後に \"@USERNAME さんから\" として追加されます。ユーザー名が必要のない場合は空白のままにしてください。"
+
+#: admin/like_buttons.php:731
+msgid "Twitter username for Buffer sharing (without @)"
+msgstr "バッファシェア用の Twitter ユーザー名 (@ は除外)"
+
+#: admin/like_buttons.php:722
+msgid "Provided username will be appended after the content being tweeted as \"via @USERNAME\". Leave empty if you do not want any username."
+msgstr "共有されたユーザー名は、コンテンツが \"@USERNAME さんから\" としてツイートされた後に追加されます。ユーザー名が必要のない場合は空白のままにしてください。"
+
+#: admin/like_buttons.php:712
+msgid "Twitter username for Tweet (without @)"
+msgstr "Twitter の Twitter ユーザー名 (@ は除外)"
+
+#: admin/like_buttons.php:706
+msgid "Twitter Username"
+msgstr "Twitter ユーザー名"
+
+#: admin/like_buttons.php:697
+msgid "Enter the code of the language you want to use to render counters. You can find the language codes at <a href=\"%s\" target=\"_blank\">this link</a>. Leave it empty for default language(English)"
+msgstr "カウンタのレンダリングに使用する言語のコードを入力してください。<a href=\"%s\" target=\"_blank\">こちらのリンク</a> に言語コードがあります。デフォルトの言語 (英語) の場合は空のままにしてください"
+
+#: admin/like_buttons.php:681 admin/like_buttons.php:687
+#: admin/social_commenting.php:312 admin/social_sharing.php:1709
+#: admin/social_sharing.php:1715
+msgid "Language"
+msgstr "言語"
+
+#: admin/like_buttons.php:652 admin/social_sharing.php:1630
+msgid "Login to your bit.ly account and navigate to <a href=\"%s\" target=\"_blank\">this link</a> to get your API key"
+msgstr "bit.ly API キーを取得するには <a href=\"%s\" target=\"_blank\">this link</a> へ移動し bit.ly アカウントにログインしてください"
+
+#: admin/like_buttons.php:642 admin/social_sharing.php:1620
+msgid "bit.ly API Key"
+msgstr "bit.ly API キー"
+
+#: admin/like_buttons.php:633
+msgid "Login to your bit.ly account and navigate to <a href=\"%s\" target=\"_blank\">this link</a> to get bit.ly username"
+msgstr "bit.ly のユーザー名取得には <a href=\"%s\" target=\"_blank\">こちらのリンク</a> をクリックして移動し、bit.ly のアカウントへログインしてください"
+
+#: admin/like_buttons.php:623
+msgid "bit.ly username"
+msgstr "bit.ly のユーザー名"
+
+#: admin/like_buttons.php:615 admin/social_sharing.php:1593
+msgid "Master control to enable bit.ly url shortening for sharing"
+msgstr "共有で bit.ly の URL 短縮サービスを使用するためマスターコントロールを有効にします"
+
+#: admin/like_buttons.php:605
+msgid "Enable bit.ly url shortener for tweet button"
+msgstr "Twitter ボタンで bit.ly の URL 短縮を有効"
+
+#: admin/like_buttons.php:597
+msgid "Allows for shortened URLs to be used when sharing content if a shortening plugin is installed"
+msgstr "短縮プラグインがインストールされている場合、コンテンツを共有する際に短縮 URL を使用できるようにします"
+
+#: admin/like_buttons.php:587
+msgid "Use shortlinks already installed, for tweet button"
+msgstr "ツイートボタンには、既にインストールされている短縮リンクを使用"
+
+#: admin/like_buttons.php:581 admin/social_sharing.php:1559
+msgid "Url shortener"
+msgstr "URL 短縮サービス"
+
+#: admin/like_buttons.php:26
+msgid "Master control for like buttons. It must be checked to enable like buttons functionality"
+msgstr "いいね！ボタンのマスターコントロールです。いいね！ボタンの機能を有効にするにはチェックする必要があります"
+
+#: admin/like_buttons.php:16
+msgid "Enable Like Buttons"
+msgstr "いいね！ボタンを有効"
+
+#: admin/like_buttons.php:40 admin/like_buttons.php:757
+#: admin/social_login.php:40 admin/social_login.php:908
+#: admin/social_sharing.php:39 admin/social_sharing.php:1810
+#: admin/social_sharing.php:1812
+msgid "Shortcode & Widget"
+msgstr "ショートコード & ウィジェット"
+
+#: admin/social_login.php:35 admin/social_login.php:48
+msgid "Basic Configuration"
+msgstr "基本設定"
+
+#: admin/help.php:39
+msgid "Boost sharing by awarding points"
+msgstr "ポイントを授与することによってシェアを後押し"
+
+#: admin/social_login.php:98
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/help.php:72 admin/help.php:75 admin/help.php:76 admin/help.php:77
+#: admin/help.php:78 admin/help.php:79
+msgid "Rate 5-star"
+msgstr "5★評価"
+
+#: admin/help.php:69
+msgid "Support Us"
+msgstr "私たちをサポート"
+
+#: admin/help.php:64
+msgid "If you <strong>have any query</strong>, need help regarding <strong>plugin setup</strong>, want <strong>custom features</strong> in the plugin or <strong>have any suggestion</strong> to improve the plugin, just drop an email at <a href=\"mailto:support@heateor.com\">support@heateor.com</a>"
+msgstr "あなたに<strong>問い合わせたい内容</strong>がある、<strong>プラグインの設定</strong>に関するヘルプが必要になった、プラグインで<strong>カスタム機能</strong>を利用する、あるいはプラグインを改善するための<strong>、なにか提案</strong>を持っている場合は、こちらのメール <a href=\"mailto:support@heateor.com\">support@heateor.com</a> までご連絡をお願いします。"
+
+#: admin/help.php:62
+msgid "Need Help?"
+msgstr "ヘルプが必要ですか ?"
+
+#: helper.php:249
+msgid "Add-Ons"
+msgstr "アドオン"
+
+#: admin/help.php:27
+msgid "Plugin Demo"
+msgstr "プラグインデモ"
+
+#: admin/help.php:7
+msgid "We are a creative team with unique ideas in mind and service in heart. We love what we do. For more info join us at"
+msgstr "私たちは心のこもったサービスでユニークな発想と共にあるクリエイティブなチームです。私たちは何かをすることが大好きです。詳細情報については、こちらで是非フォローを"
+
+#: admin/help.php:6
+msgid "by"
+msgstr "-"
+
+#: admin/help.php:4
+msgid "Version"
+msgstr "バージョン"
+
+#: admin/help.php:4
+msgid "About"
+msgstr "Super Socializer について"

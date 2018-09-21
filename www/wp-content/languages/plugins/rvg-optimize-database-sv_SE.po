@@ -1,0 +1,483 @@
+# Translation of Plugins - Optimize Database after Deleting Revisions - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Optimize Database after Deleting Revisions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-10 20:13:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Optimize Database after Deleting Revisions - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://cagewebdev.com"
+msgstr "http://cagewebdev.com"
+
+#. Author of the plugin/theme
+msgid "CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands"
+msgstr "CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands"
+
+#. Plugin URI of the plugin/theme
+msgid "http://cagewebdev.com/index.php/optimize-database-after-deleting-revisions-wordpress-plugin/"
+msgstr "http://cagewebdev.com/index.php/optimize-database-after-deleting-revisions-wordpress-plugin/"
+
+#: rvg-optimize-db.php:1987
+msgid "SAVINGS"
+msgstr "BESPARINGAR"
+
+#: rvg-optimize-db.php:1986
+msgid "database size AFTER"
+msgstr "databasstorlek EFTER"
+
+#: rvg-optimize-db.php:1985
+msgid "database size BEFORE"
+msgstr "databasstorlek FÖRE"
+
+#: rvg-optimize-db.php:1984
+msgid "nr of optimized tables"
+msgstr "antal optimerade tabeller"
+
+#: rvg-optimize-db.php:1983
+msgid "deleted<br />orphans"
+msgstr "borttagna<br />föräldralösa objekt"
+
+#: rvg-optimize-db.php:1982
+msgid "deleted<br />pingbacks<br />trackbacks"
+msgstr "borttagna<br />pingbacks<br />trackbacks"
+
+#: rvg-optimize-db.php:1981
+msgid "deleted<br />transients"
+msgstr "borttagna<br />temporära objekt"
+
+#: rvg-optimize-db.php:1980
+msgid "deleted<br />tags"
+msgstr "borttagna<br />etiketter"
+
+#: rvg-optimize-db.php:1979
+msgid "deleted<br />spam"
+msgstr "bortagen<br />spam"
+
+#: rvg-optimize-db.php:1978
+msgid "deleted<br />trash"
+msgstr "deleted<br />trash"
+
+#: rvg-optimize-db.php:1977
+msgid "deleted<br />revisions"
+msgstr "revisioni<br />cancellate"
+
+#: rvg-optimize-db.php:1976
+msgid "time"
+msgstr "tid"
+
+#: rvg-optimize-db.php:1972
+msgid "The Netherlands"
+msgstr "Nederländerna"
+
+#: rvg-optimize-db.php:1972
+msgid "A WordPress Plugin by"
+msgstr "Ett WordPress-tillägg av"
+
+#: rvg-optimize-db.php:1897
+msgid "Table is already up to date"
+msgstr "Tabellen är redan uppdaterad"
+
+#: rvg-optimize-db.php:1896
+msgid "<span class=\"odb-optimized\">TABLE OPTIMIZED</span>"
+msgstr "<span class=\"odb-optimized\">TABELL OPTIMERAD</span>"
+
+#: rvg-optimize-db.php:1890
+msgid "InnoDB table: skipped..."
+msgstr "InnoDB-tabell: överhoppad..."
+
+#: rvg-optimize-db.php:1285
+msgid "seconds"
+msgstr "sekunder"
+
+#: rvg-optimize-db.php:1283
+msgid "Optimization took"
+msgstr "Optimering tog"
+
+#: rvg-optimize-db.php:1277
+msgid "DONE!"
+msgstr "KLAR!"
+
+#: rvg-optimize-db.php:1262
+msgid "TOTAL SAVINGS SINCE THE FIRST RUN"
+msgstr "TOTAL BESPARING SEDAN FÖRSTA KÖRNING"
+
+#: rvg-optimize-db.php:1258
+msgid "SAVINGS THIS TIME"
+msgstr "BESPARING DENNA GÅNG"
+
+#: rvg-optimize-db.php:1254
+msgid "AFTER optimization"
+msgstr "EFTER optimering"
+
+#: rvg-optimize-db.php:1250
+msgid "BEFORE optimization"
+msgstr "FÖRE optimering"
+
+#: rvg-optimize-db.php:1247
+msgid "size of the database"
+msgstr "storlek på databasen"
+
+#: rvg-optimize-db.php:1239
+msgid "Savings"
+msgstr "Besparingar"
+
+#: rvg-optimize-db.php:1213
+msgid "table size"
+msgstr "tabellstorlek"
+
+#: rvg-optimize-db.php:1212
+msgid "table rows"
+msgstr "tabellrader"
+
+#: rvg-optimize-db.php:1211
+msgid "engine"
+msgstr "motor"
+
+#: rvg-optimize-db.php:1210
+msgid "optimization result"
+msgstr "optimeringsresultat"
+
+#: rvg-optimize-db.php:1209
+msgid "table name"
+msgstr "tabellnamn"
+
+#: rvg-optimize-db.php:1201
+msgid "Optimizing Database Tables"
+msgstr "Optimerar Databastabeller"
+
+#: rvg-optimize-db.php:1184
+msgid "No POSTMETA ORPHANS found to delete"
+msgstr "Inga FÖRÄLDRALÖSA POSTMETAOBJEKT funna att ta bort"
+
+#: rvg-optimize-db.php:1176
+msgid "NUMBER OF POSTMETA ORPHANS DELETED"
+msgstr "ANTAL FÖRÄLDRALÖSA POSTMETAOBJEKT BORTTAGNA"
+
+#: rvg-optimize-db.php:1155
+msgid "No PINGBACKS nor TRACKBACKS found to delete"
+msgstr "Inga PINGBACKS eller TRACKBACKS funna att ta bort"
+
+#: rvg-optimize-db.php:1147
+msgid "NUMBER OF PINGBACKS AND TRACKBACKS DELETED"
+msgstr "ANTAL PINGBACKS OCH TRACKBACKS BORTTAGNA"
+
+#: rvg-optimize-db.php:1123
+msgid "No EXPIRED TRANSIENTS found to delete"
+msgstr "Inga UTGÅNGNA TEMPORÄRA OBJEKT funna att ta bort"
+
+#: rvg-optimize-db.php:1115
+msgid "NUMBER OF EXPIRED TRANSIENTS DELETED"
+msgstr "ANTAL UTGÅNGNA TEMPORÄRA OBJEKT BORTTAGNA"
+
+#: rvg-optimize-db.php:1091
+msgid "No UNUSED TAGS found to delete"
+msgstr "Inga OANVÄNDA ETIKETTER funna att ta bort"
+
+#: rvg-optimize-db.php:1083
+msgid "NUMBER OF UNUSED TAGS DELETED"
+msgstr "ANTAL OANVÄNDA ETIKETTER BORTTAGNA"
+
+#: rvg-optimize-db.php:1059
+msgid "No SPAMMED ITEMS found to delete"
+msgstr "Ingen SPAM funnen att ta bort"
+
+#: rvg-optimize-db.php:1049
+msgid "total number of spammed items deleted"
+msgstr "totalt antal spam-objekt som togs bort"
+
+#: rvg-optimize-db.php:1042
+msgid "comment date"
+msgstr "kommentarsdatum"
+
+#: rvg-optimize-db.php:1041
+msgid "comment author email"
+msgstr "kommentarsförfattarens e-post"
+
+#: rvg-optimize-db.php:1040
+msgid "comment author"
+msgstr "kommentarsförfattare"
+
+#: rvg-optimize-db.php:1034
+msgid "DELETEED SPAMMED ITEMS"
+msgstr "TOG BORT ALL SPAM"
+
+#: rvg-optimize-db.php:1007
+msgid "No TRASHED ITEMS found to delete"
+msgstr "Inget SKRÄP funnet i papperskorgen att ta bort"
+
+#: rvg-optimize-db.php:997
+msgid "total number of trashed items deleted"
+msgstr "Totalt antal objekt som tagits bort från papperskorgen"
+
+#: rvg-optimize-db.php:990
+msgid "date"
+msgstr "datum"
+
+#: rvg-optimize-db.php:989
+msgid "IP address / title"
+msgstr "IP-adress / titel"
+
+#: rvg-optimize-db.php:988
+msgid "type"
+msgstr "typ"
+
+#: rvg-optimize-db.php:982
+msgid "DELETED TRASHED ITEMS"
+msgstr "TÖMDE PAPPERSKORGEN"
+
+#: rvg-optimize-db.php:956
+msgid "No REVISIONS found to delete"
+msgstr "Inga REVISIONER funna att ta bort"
+
+#: rvg-optimize-db.php:946
+msgid "total number of revisions deleted"
+msgstr "totalt antal revisioner borttagna"
+
+#: rvg-optimize-db.php:939
+msgid "revisions deleted"
+msgstr "revisioner borttagna"
+
+#: rvg-optimize-db.php:938
+msgid "revision date"
+msgstr "revisionsdatum"
+
+#: rvg-optimize-db.php:937
+msgid "post / page"
+msgstr "inlägg / sida"
+
+#: rvg-optimize-db.php:936 rvg-optimize-db.php:987 rvg-optimize-db.php:1039
+msgid "prefix"
+msgstr "prefix"
+
+#: rvg-optimize-db.php:931
+msgid "DELETED REVISIONS"
+msgstr "BORTTAGNA REVISIONER"
+
+#: rvg-optimize-db.php:908
+msgid "Cleaning Database"
+msgstr "Städar Databas"
+
+#: rvg-optimize-db.php:895
+msgid "Start Optimization"
+msgstr "Starta Optimering"
+
+#: rvg-optimize-db.php:886 rvg-optimize-db.php:1296
+msgid "Delete Log File"
+msgstr "Ta Bort Loggfil"
+
+#: rvg-optimize-db.php:884 rvg-optimize-db.php:1294
+msgid "View Log File"
+msgstr "Visa Loggfil"
+
+#: rvg-optimize-db.php:878
+msgid "Change Settings"
+msgstr "Ändra Inställningar"
+
+#: rvg-optimize-db.php:872
+msgid "Total savings since the first run"
+msgstr "Total besparing sedan första körning"
+
+#: rvg-optimize-db.php:864
+msgid "Next scheduled run"
+msgstr "Nästa schemalagda körning"
+
+#: rvg-optimize-db.php:855
+msgid "Number of excluded tables"
+msgstr "Antal exkluderade tabeller"
+
+#: rvg-optimize-db.php:841
+msgid "Maximum number of - most recent - revisions to keep per post / page"
+msgstr "Maximalt antal av - de senaste - revisionerna som skall behållas per inlägg / sida"
+
+#: rvg-optimize-db.php:839
+msgid "Current settings"
+msgstr "Nuvarande inställningar"
+
+#: rvg-optimize-db.php:820
+msgid "Optimize your WordPress Database"
+msgstr "Optimera din WordPress-databas"
+
+#: rvg-optimize-db.php:792
+msgid "ONCE WEEKLY"
+msgstr "EN GÅNG I VECKAN"
+
+#: rvg-optimize-db.php:790
+msgid "ONCE DAILY"
+msgstr "EN GÅNG OM DAN"
+
+#: rvg-optimize-db.php:788
+msgid "TWICE DAILY"
+msgstr "TVÅ GÅNGER OM DAN"
+
+#: rvg-optimize-db.php:786
+msgid "ONCE HOURLY"
+msgstr "EN GÅNG I TIMMEN"
+
+#: rvg-optimize-db.php:741 rvg-optimize-db.php:748 rvg-optimize-db.php:755
+#: rvg-optimize-db.php:762 rvg-optimize-db.php:770 rvg-optimize-db.php:777
+msgid "YES"
+msgstr "JA"
+
+#: rvg-optimize-db.php:741 rvg-optimize-db.php:748 rvg-optimize-db.php:755
+#: rvg-optimize-db.php:762 rvg-optimize-db.php:770 rvg-optimize-db.php:777
+msgid "NO"
+msgstr "NEJ"
+
+#: rvg-optimize-db.php:679
+msgid "Go To Optimizer"
+msgstr "Gå Till Optimeraren"
+
+#: rvg-optimize-db.php:677
+msgid "Save Settings"
+msgstr "Spara Inställningar"
+
+#: rvg-optimize-db.php:653
+msgid "check all NON-WordPress tables"
+msgstr "markera alla ICKE-WordPresstabeller"
+
+#: rvg-optimize-db.php:651
+msgid "uncheck all tables"
+msgstr "avmarkera alla tabeller"
+
+#: rvg-optimize-db.php:649
+msgid "check all tables"
+msgstr "markera alla tabeller"
+
+#: rvg-optimize-db.php:646
+msgid "EXCLUDE DATABASE TABLES FROM OPTIMIZATION: <span class=\"odb-underline-red\">CHECKED</span> TABLES <span class=\"odb-underline-red\">WON'T</span> BE OPTIMIZED!</span>"
+msgstr "EXKLUDERA DATABASTABELLER FRÅN OPTIMERING: <span class=\"odb-underline-red\">MARKERADE</span> TABELLER <span class=\"odb-underline-red\">KOMMER EJ</span> ATT OPTIMERAS!</span>"
+
+#: rvg-optimize-db.php:638
+msgid "Show an icon in the Admin Menu"
+msgstr "Visa en ikon i Adminmenyraden"
+
+#: rvg-optimize-db.php:634 rvg-optimize-db.php:641
+msgid "(change will be visible after loading the next page)"
+msgstr "(ändringen kommer att synas efter nästa sidladdning)"
+
+#: rvg-optimize-db.php:631
+msgid "Show '1-click' link in Admin Bar"
+msgstr "Visa '1 klick' länken i Adminmenyraden"
+
+#: rvg-optimize-db.php:618
+msgid "hrs"
+msgstr "tim"
+
+#: rvg-optimize-db.php:611
+msgid "Time"
+msgstr "Tid"
+
+#: rvg-optimize-db.php:603
+msgid "run optimization WEEKLY"
+msgstr "kör optimering EN GÅNG I VECKAN"
+
+#: rvg-optimize-db.php:600
+msgid "run optimization DAILY"
+msgstr "kör optimering DAGLIGEN"
+
+#: rvg-optimize-db.php:597
+msgid "run optimization TWICE A DAY"
+msgstr "kör optimering TVÅ GÅNGER OM DAN"
+
+#: rvg-optimize-db.php:594
+msgid "run optimization HOURLY"
+msgstr "kör optimering EN GÅNG I TIMMEN"
+
+#: rvg-optimize-db.php:591 rvg-optimize-db.php:798
+msgid "NOT SCHEDULED"
+msgstr "EJ SCHEMALAGT"
+
+#: rvg-optimize-db.php:587 rvg-optimize-db.php:857
+msgid "Scheduler"
+msgstr "Schemaläggare"
+
+#: rvg-optimize-db.php:581 rvg-optimize-db.php:853
+msgid "Keep a log"
+msgstr "Logga händelser"
+
+#: rvg-optimize-db.php:575 rvg-optimize-db.php:851
+msgid "Delete pingbacks and trackbacks"
+msgstr "Ta bort pingbacks och trackbacks"
+
+#: rvg-optimize-db.php:569 rvg-optimize-db.php:849
+msgid "Delete expired transients"
+msgstr "Ta bort utgångna temporära objekt"
+
+#: rvg-optimize-db.php:563 rvg-optimize-db.php:847
+msgid "Delete unused tags"
+msgstr "Ta bort oanvända etiketter"
+
+#: rvg-optimize-db.php:557 rvg-optimize-db.php:845
+msgid "Delete spammed items"
+msgstr "Ta bort all spam"
+
+#: rvg-optimize-db.php:551 rvg-optimize-db.php:843
+msgid "Delete trashed items"
+msgstr "Töm papperskorgen"
+
+#: rvg-optimize-db.php:547
+msgid "('0' means: delete <u>ALL</u> revisions)"
+msgstr "('0' betyder: ta bort <u>ALLA</u> revisioner)"
+
+#: rvg-optimize-db.php:543
+msgid "Maximum number of - most recent - revisions<br />to keep per post / page"
+msgstr "Maximalt antal av - de senaste - revisionerna<br />som skall behållas per inlägg / sida"
+
+#: rvg-optimize-db.php:535
+msgid "Settings"
+msgstr "Inställningar"
+
+#: rvg-optimize-db.php:529 rvg-optimize-db.php:835
+msgid "Donation page"
+msgstr "Donationssida"
+
+#: rvg-optimize-db.php:528 rvg-optimize-db.php:834
+msgid "Company"
+msgstr "Företag"
+
+#: rvg-optimize-db.php:527 rvg-optimize-db.php:833
+msgid "Author"
+msgstr "Skapare"
+
+#: rvg-optimize-db.php:524 rvg-optimize-db.php:830
+msgid "Plugin version"
+msgstr "Tilläggsversion"
+
+#: rvg-optimize-db.php:521
+msgid "is an one-click plugin to clean and optimize your WordPress database"
+msgstr "är ett enklickstillägg för att städa upp och optimera din WordPress-databas"
+
+#. #-#-#-#-#  tmp-rvg-optimize-database.pot (Optimize Database after Deleting
+#. Revisions 3.4.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: rvg-optimize-db.php:517
+msgid "Optimize Database after Deleting Revisions"
+msgstr "Optimize Database after Deleting Revisions"
+
+#: rvg-optimize-db.php:451
+msgid "Click <a href=\"tools.php?page=rvg-optimize-db.php\" class=\"odb-bold\">HERE</a> to run the optimization"
+msgstr "Klicka <a href=\"tools.php?page=rvg-optimize-db.php\" class=\"odb-bold\">QUI</a> för att köra optimeringen"
+
+#: rvg-optimize-db.php:449
+msgid "Optimize Database after Deleting Revisions SETTINGS UPDATED"
+msgstr "Optimize Database after Deleting Revisions INSTÄLLNINGAR UPPDATERADE"
+
+#: rvg-optimize-db.php:178
+msgid "Once Weekly"
+msgstr "En Gång i Veckan"
+
+#: rvg-optimize-db.php:149
+msgid "Optimize DB (1 click)"
+msgstr "Optimera DB (1 klick)"
+
+#: rvg-optimize-db.php:47 rvg-optimize-db.php:48 rvg-optimize-db.php:69
+#: rvg-optimize-db.php:70 rvg-optimize-db.php:90 rvg-optimize-db.php:91
+#: rvg-optimize-db.php:110 rvg-optimize-db.php:111
+msgid "Optimize Database"
+msgstr "Optimera databas"

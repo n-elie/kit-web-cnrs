@@ -1,0 +1,495 @@
+# Translation of Plugins - Optimize Database after Deleting Revisions - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Optimize Database after Deleting Revisions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-13 16:58:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Optimize Database after Deleting Revisions - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://cagewebdev.com"
+msgstr "http://cagewebdev.com"
+
+#. Author of the plugin/theme
+msgid "CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands"
+msgstr "CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands"
+
+#. Description of the plugin/theme
+msgid "Optimizes the Wordpress Database after Cleaning it out"
+msgstr "Ottimizza il database di WordPress dopo la pulizia"
+
+#. Plugin URI of the plugin/theme
+msgid "http://cagewebdev.com/index.php/optimize-database-after-deleting-revisions-wordpress-plugin/"
+msgstr "http://cagewebdev.com/index.php/optimize-database-after-deleting-revisions-wordpress-plugin/"
+
+#: rvg-optimize-db.php:1987
+msgid "SAVINGS"
+msgstr "RISPARMI"
+
+#: rvg-optimize-db.php:1986
+msgid "database size AFTER"
+msgstr "dimensione del database DOPO"
+
+#: rvg-optimize-db.php:1985
+msgid "database size BEFORE"
+msgstr "dimensione del database PRIMA"
+
+#: rvg-optimize-db.php:1984
+msgid "nr of optimized tables"
+msgstr "numero di tabelle ottimizzate"
+
+#: rvg-optimize-db.php:1983
+msgid "deleted<br />orphans"
+msgstr "orfani<br />cancellati"
+
+#: rvg-optimize-db.php:1982
+msgid "deleted<br />pingbacks<br />trackbacks"
+msgstr "pingback<br />trackbacks<br />cancellati"
+
+#: rvg-optimize-db.php:1981
+msgid "deleted<br />transients"
+msgstr "transienti<br />cancellati"
+
+#: rvg-optimize-db.php:1980
+msgid "deleted<br />tags"
+msgstr "tags<br />cancellati"
+
+#: rvg-optimize-db.php:1979
+msgid "deleted<br />spam"
+msgstr "spam<br />cancellato"
+
+#: rvg-optimize-db.php:1978
+msgid "deleted<br />trash"
+msgstr "cestino<br/>cancellato"
+
+#: rvg-optimize-db.php:1977
+msgid "deleted<br />revisions"
+msgstr "revisioni<br />cancellate"
+
+#: rvg-optimize-db.php:1976
+msgid "time"
+msgstr "tempo"
+
+#: rvg-optimize-db.php:1972
+msgid "The Netherlands"
+msgstr "Paesi Bassi"
+
+#: rvg-optimize-db.php:1972
+msgid "A WordPress Plugin by"
+msgstr "Un Plugin Wordpress di"
+
+#: rvg-optimize-db.php:1897
+msgid "Table is already up to date"
+msgstr "La tabella è già aggiornata"
+
+#: rvg-optimize-db.php:1896
+msgid "<span class=\"odb-optimized\">TABLE OPTIMIZED</span>"
+msgstr "<span class=\"odb-optimized\">TABELLA OTTIMIZZATA</span>"
+
+#: rvg-optimize-db.php:1890
+msgid "InnoDB table: skipped..."
+msgstr "Tabella InnoDB: saltata"
+
+#: rvg-optimize-db.php:1285
+msgid "seconds"
+msgstr "secondi"
+
+#: rvg-optimize-db.php:1283
+msgid "Optimization took"
+msgstr "L'ottimizzazione ha impiegato"
+
+#: rvg-optimize-db.php:1277
+msgid "DONE!"
+msgstr "FATTO!"
+
+#: rvg-optimize-db.php:1262
+msgid "TOTAL SAVINGS SINCE THE FIRST RUN"
+msgstr "RISPARMI TOTALI DALLA PRIMA ESECUZIONE"
+
+#: rvg-optimize-db.php:1258
+msgid "SAVINGS THIS TIME"
+msgstr "RISPARMI DI QUESTA ESECUZIONE"
+
+#: rvg-optimize-db.php:1254
+msgid "AFTER optimization"
+msgstr "DOPO l'ottimizzazione"
+
+#: rvg-optimize-db.php:1250
+msgid "BEFORE optimization"
+msgstr "PRIMA dell'ottimizzazione"
+
+#: rvg-optimize-db.php:1247
+msgid "size of the database"
+msgstr "dimensione del database"
+
+#: rvg-optimize-db.php:1239
+msgid "Savings"
+msgstr "Risparmi"
+
+#: rvg-optimize-db.php:1213
+msgid "table size"
+msgstr "dimensione tabella"
+
+#: rvg-optimize-db.php:1212
+msgid "table rows"
+msgstr "righe tabella"
+
+#: rvg-optimize-db.php:1211
+msgid "engine"
+msgstr "motore"
+
+#: rvg-optimize-db.php:1210
+msgid "optimization result"
+msgstr "risultato ottimizzazione"
+
+#: rvg-optimize-db.php:1209
+msgid "table name"
+msgstr "nome tabella"
+
+#: rvg-optimize-db.php:1201
+msgid "Optimizing Database Tables"
+msgstr "Ottimizzazione tabelle database"
+
+#: rvg-optimize-db.php:1184
+msgid "No POSTMETA ORPHANS found to delete"
+msgstr "Nessun POSTMETA ORFANO trovato da cancellare"
+
+#: rvg-optimize-db.php:1176
+msgid "NUMBER OF POSTMETA ORPHANS DELETED"
+msgstr "NUMERO DI POSTMETA ORFANI CANCELLATI"
+
+#: rvg-optimize-db.php:1155
+msgid "No PINGBACKS nor TRACKBACKS found to delete"
+msgstr "Nessun PINGBACK o TRACKBACK da cancellare"
+
+#: rvg-optimize-db.php:1147
+msgid "NUMBER OF PINGBACKS AND TRACKBACKS DELETED"
+msgstr "NUMERO DI PINGBACKS e TRACKBACKS CANCELLATI"
+
+#: rvg-optimize-db.php:1123
+msgid "No EXPIRED TRANSIENTS found to delete"
+msgstr "Nessun TRANSIENTE SCADUTO trovato da cancellare"
+
+#: rvg-optimize-db.php:1115
+msgid "NUMBER OF EXPIRED TRANSIENTS DELETED"
+msgstr "NUMERO DI TRANSIENTI SCADUTI CANCELLATI"
+
+#: rvg-optimize-db.php:1091
+msgid "No UNUSED TAGS found to delete"
+msgstr "Nessun TAG NON USATO trovato da cancellare"
+
+#: rvg-optimize-db.php:1083
+msgid "NUMBER OF UNUSED TAGS DELETED"
+msgstr "NUMERO DI TAG NON USATI CANCELLATI"
+
+#: rvg-optimize-db.php:1059
+msgid "No SPAMMED ITEMS found to delete"
+msgstr "Nessun elemento trovato nello SPAM"
+
+#: rvg-optimize-db.php:1049
+msgid "total number of spammed items deleted"
+msgstr "numero totale di elementi di spam cancellati"
+
+#: rvg-optimize-db.php:1042
+msgid "comment date"
+msgstr "data del commento"
+
+#: rvg-optimize-db.php:1041
+msgid "comment author email"
+msgstr "email dell'autore del commento"
+
+#: rvg-optimize-db.php:1040
+msgid "comment author"
+msgstr "autore del commenti"
+
+#: rvg-optimize-db.php:1034
+msgid "DELETEED SPAMMED ITEMS"
+msgstr "ELEMENTI DI SPAM CANCELLATI"
+
+#: rvg-optimize-db.php:1007
+msgid "No TRASHED ITEMS found to delete"
+msgstr "Nessun elemento trovato nel CESTINO"
+
+#: rvg-optimize-db.php:997
+msgid "total number of trashed items deleted"
+msgstr "numero totale di elementi rimossi dal cestino"
+
+#: rvg-optimize-db.php:990
+msgid "date"
+msgstr "data"
+
+#: rvg-optimize-db.php:989
+msgid "IP address / title"
+msgstr "indirizzo IP / titolo"
+
+#: rvg-optimize-db.php:988
+msgid "type"
+msgstr "tipo"
+
+#: rvg-optimize-db.php:982
+msgid "DELETED TRASHED ITEMS"
+msgstr "ELEMENTI RIMOSSI DAL CESTINO"
+
+#: rvg-optimize-db.php:956
+msgid "No REVISIONS found to delete"
+msgstr "Nessuna REVISIONE trovata da cancellare"
+
+#: rvg-optimize-db.php:946
+msgid "total number of revisions deleted"
+msgstr "numero totale di revisioni cancellate"
+
+#: rvg-optimize-db.php:939
+msgid "revisions deleted"
+msgstr "revisioni cancellate"
+
+#: rvg-optimize-db.php:938
+msgid "revision date"
+msgstr "data di revisione"
+
+#: rvg-optimize-db.php:937
+msgid "post / page"
+msgstr "articolo / pagina"
+
+#: rvg-optimize-db.php:936 rvg-optimize-db.php:987 rvg-optimize-db.php:1039
+msgid "prefix"
+msgstr "prefisso"
+
+#: rvg-optimize-db.php:931
+msgid "DELETED REVISIONS"
+msgstr "REVISIONI CANCELLATE"
+
+#: rvg-optimize-db.php:908
+msgid "Cleaning Database"
+msgstr "Pulizia Database"
+
+#: rvg-optimize-db.php:895
+msgid "Start Optimization"
+msgstr "Inizia l'ottimizzazione"
+
+#: rvg-optimize-db.php:886 rvg-optimize-db.php:1296
+msgid "Delete Log File"
+msgstr "Cancella il log"
+
+#: rvg-optimize-db.php:884 rvg-optimize-db.php:1294
+msgid "View Log File"
+msgstr "Vedi il file di blog"
+
+#: rvg-optimize-db.php:878
+msgid "Change Settings"
+msgstr "Modifica le impostazioni"
+
+#: rvg-optimize-db.php:872
+msgid "Total savings since the first run"
+msgstr "Risparmio totale dalla prima esecuzione"
+
+#: rvg-optimize-db.php:864
+msgid "Next scheduled run"
+msgstr "Prossima esecuzione pianficata"
+
+#: rvg-optimize-db.php:855
+msgid "Number of excluded tables"
+msgstr "Numero di tabelle escluse"
+
+#: rvg-optimize-db.php:841
+msgid "Maximum number of - most recent - revisions to keep per post / page"
+msgstr "Massimo numero di revisioni recenti da mantenere per ogni articolo / pagina"
+
+#: rvg-optimize-db.php:839
+msgid "Current settings"
+msgstr "Attuali impostazioni"
+
+#: rvg-optimize-db.php:820
+msgid "Optimize your WordPress Database"
+msgstr "Ottimizza il tuo Database WordPress"
+
+#: rvg-optimize-db.php:792
+msgid "ONCE WEEKLY"
+msgstr "UNA VOLTA A SETTIMANA"
+
+#: rvg-optimize-db.php:790
+msgid "ONCE DAILY"
+msgstr "UNA VOLTA AL GIORNO"
+
+#: rvg-optimize-db.php:788
+msgid "TWICE DAILY"
+msgstr "DUE VOLTE AL GIORNO"
+
+#: rvg-optimize-db.php:786
+msgid "ONCE HOURLY"
+msgstr "UNA VOLTA L'ORA"
+
+#: rvg-optimize-db.php:741 rvg-optimize-db.php:748 rvg-optimize-db.php:755
+#: rvg-optimize-db.php:762 rvg-optimize-db.php:770 rvg-optimize-db.php:777
+msgid "YES"
+msgstr "SI"
+
+#: rvg-optimize-db.php:741 rvg-optimize-db.php:748 rvg-optimize-db.php:755
+#: rvg-optimize-db.php:762 rvg-optimize-db.php:770 rvg-optimize-db.php:777
+msgid "NO"
+msgstr "NO"
+
+#: rvg-optimize-db.php:679
+msgid "Go To Optimizer"
+msgstr "Vai all'ottimizzatore"
+
+#: rvg-optimize-db.php:677
+msgid "Save Settings"
+msgstr "Salva le impostazioni"
+
+#: rvg-optimize-db.php:653
+msgid "check all NON-WordPress tables"
+msgstr "seleziona tutte le tabelle NON-WordPress"
+
+#: rvg-optimize-db.php:651
+msgid "uncheck all tables"
+msgstr "deseleziona tutte le tabelle"
+
+#: rvg-optimize-db.php:649
+msgid "check all tables"
+msgstr "seleziona tutte le tabelle"
+
+#: rvg-optimize-db.php:646
+msgid "EXCLUDE DATABASE TABLES FROM OPTIMIZATION: <span class=\"odb-underline-red\">CHECKED</span> TABLES <span class=\"odb-underline-red\">WON'T</span> BE OPTIMIZED!</span>"
+msgstr "ESCLUDI TABELLE DALL'OTTIMIZZAZIONE: <span class=\"odb-underline-red\">LE TABELLE SELEZIONATE </span><span class=\"odb-underline-red\">NON</span> SARANNO OTTIMIZZATE!</span>"
+
+#: rvg-optimize-db.php:638
+msgid "Show an icon in the Admin Menu"
+msgstr "Mostra un'icona nel Menu Amministratore"
+
+#: rvg-optimize-db.php:634 rvg-optimize-db.php:641
+msgid "(change will be visible after loading the next page)"
+msgstr "(la modifica sarà visibile dopo il caricamento della prossima pagina)"
+
+#: rvg-optimize-db.php:631
+msgid "Show '1-click' link in Admin Bar"
+msgstr "Mostra il link '1-click' nella Barra di amministrazione"
+
+#: rvg-optimize-db.php:618
+msgid "hrs"
+msgstr "ore"
+
+#: rvg-optimize-db.php:611
+msgid "Time"
+msgstr "Ora"
+
+#: rvg-optimize-db.php:603
+msgid "run optimization WEEKLY"
+msgstr "esegui l'ottimizzazione UNA VOLTA A SETTIMANA"
+
+#: rvg-optimize-db.php:600
+msgid "run optimization DAILY"
+msgstr "esegui l'ottimizzazione UNA VOLTA AL GIORNO"
+
+#: rvg-optimize-db.php:597
+msgid "run optimization TWICE A DAY"
+msgstr "esegui l'ottimizzazione DUE VOLTE AL GIORNO"
+
+#: rvg-optimize-db.php:594
+msgid "run optimization HOURLY"
+msgstr "esegui l'ottimizzazione OGNI ORA"
+
+#: rvg-optimize-db.php:591 rvg-optimize-db.php:798
+msgid "NOT SCHEDULED"
+msgstr "NON PIANIFICATO"
+
+#: rvg-optimize-db.php:587 rvg-optimize-db.php:857
+msgid "Scheduler"
+msgstr "Pianificatore"
+
+#: rvg-optimize-db.php:581 rvg-optimize-db.php:853
+msgid "Keep a log"
+msgstr "Mantieni un log"
+
+#: rvg-optimize-db.php:575 rvg-optimize-db.php:851
+msgid "Delete pingbacks and trackbacks"
+msgstr "Cancella pingbacks e trackbacks"
+
+#: rvg-optimize-db.php:569 rvg-optimize-db.php:849
+msgid "Delete expired transients"
+msgstr "Cancella transienti scaduti"
+
+#: rvg-optimize-db.php:563 rvg-optimize-db.php:847
+msgid "Delete unused tags"
+msgstr "Cancella tags non usati"
+
+#: rvg-optimize-db.php:557 rvg-optimize-db.php:845
+msgid "Delete spammed items"
+msgstr "Elementi di spam cancellati"
+
+#: rvg-optimize-db.php:551 rvg-optimize-db.php:843
+msgid "Delete trashed items"
+msgstr "Elementi cestinati eliminati"
+
+#: rvg-optimize-db.php:547
+msgid "('0' means: delete <u>ALL</u> revisions)"
+msgstr "('0' significa: cancella <u>TUTTE</u> le revisioni)"
+
+#: rvg-optimize-db.php:543
+msgid "Maximum number of - most recent - revisions<br />to keep per post / page"
+msgstr "Numero massimo di revisioni - più recenti -<br />da mantenere per ogni articolo/pagina"
+
+#: rvg-optimize-db.php:535
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: rvg-optimize-db.php:529 rvg-optimize-db.php:835
+msgid "Donation page"
+msgstr "Pagina per le donazioni"
+
+#: rvg-optimize-db.php:528 rvg-optimize-db.php:834
+msgid "Company"
+msgstr "Società"
+
+#: rvg-optimize-db.php:527 rvg-optimize-db.php:833
+msgid "Author"
+msgstr "Autore"
+
+#: rvg-optimize-db.php:526 rvg-optimize-db.php:832
+msgid "Download page"
+msgstr "Pagina di download"
+
+#: rvg-optimize-db.php:525 rvg-optimize-db.php:831
+msgid "Plugin page"
+msgstr "Pagina del Plugin"
+
+#: rvg-optimize-db.php:524 rvg-optimize-db.php:830
+msgid "Plugin version"
+msgstr "Versione del plugin"
+
+#: rvg-optimize-db.php:521
+msgid "is an one-click plugin to clean and optimize your WordPress database"
+msgstr "è un plugin per pulire e ottimizzare il vostro database Wordpress con un click"
+
+#. #-#-#-#-#  tmp-rvg-optimize-database.pot (Optimize Database after Deleting
+#. Revisions 3.4.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: rvg-optimize-db.php:517
+msgid "Optimize Database after Deleting Revisions"
+msgstr "Optimize Database after Deleting Revisions"
+
+#: rvg-optimize-db.php:451
+msgid "Click <a href=\"tools.php?page=rvg-optimize-db.php\" class=\"odb-bold\">HERE</a> to run the optimization"
+msgstr "Clicca <a href=\"tools.php?page=rvg-optimize-db.php\" class=\"odb-bold\">QUI</a> per eseguire l'ottimizzazione"
+
+#: rvg-optimize-db.php:449
+msgid "Optimize Database after Deleting Revisions SETTINGS UPDATED"
+msgstr "Optimize Database after Deleting Revisions IMPOSTAZIONI AGGIORNATE"
+
+#: rvg-optimize-db.php:178
+msgid "Once Weekly"
+msgstr "Una volta a settimana"
+
+#: rvg-optimize-db.php:149
+msgid "Optimize DB (1 click)"
+msgstr "Ottimizza il DB (con 1 click)"
+
+#: rvg-optimize-db.php:47 rvg-optimize-db.php:48 rvg-optimize-db.php:69
+#: rvg-optimize-db.php:70 rvg-optimize-db.php:90 rvg-optimize-db.php:91
+#: rvg-optimize-db.php:110 rvg-optimize-db.php:111
+msgid "Optimize Database"
+msgstr "Ottimizza il Database"

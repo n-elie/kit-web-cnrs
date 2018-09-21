@@ -1,0 +1,1196 @@
+# Translation of Plugins - Newsletter - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Newsletter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-01 08:48:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Newsletter - Stable (latest release)\n"
+
+#: emails/index.php:136
+msgid "No"
+msgstr "Nee"
+
+#: main/index.php:173
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: includes/controls.php:758
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+#: main/extensions.php:242 tnp-header.php:178
+msgid "Subscribe"
+msgstr "Abonneer"
+
+#: subscription/options.php:269
+msgid "Forced lists"
+msgstr "Geforceerde lijsten"
+
+#: widget/minimal.php:79 widget/standard.php:200
+msgid "Automatically subscribe to"
+msgstr "Automatisch aanmelden op"
+
+#: subscription/template.php:114
+msgid "Template"
+msgstr "Template"
+
+#: main/extensions.php:62
+msgid "Activated"
+msgstr "Geactiveerd"
+
+#: main/extensions.php:42
+msgid "Installed and activated"
+msgstr "Geïnstalleerd en geactiveerd"
+
+#: main/extensions.php:40 main/extensions.php:60
+msgid "Error while activating:"
+msgstr "Fout bij het activeren:"
+
+#: main/extensions.php:33
+msgid "Error while installing"
+msgstr "Fout bij het installeren"
+
+#: main/extensions.php:121 main/extensions.php:159 main/extensions.php:190
+msgid "Activate"
+msgstr "Activeren"
+
+#: tnp-header.php:116
+msgid "Licence not valid"
+msgstr "Licentie is niet geldig"
+
+#: main/extensions.php:118 main/extensions.php:156 main/extensions.php:187
+msgid "Plugin active"
+msgstr "Plugin actief"
+
+#: main/extensions.php:94
+msgid "Extensions"
+msgstr "Extensie"
+
+#: main/status.php:175
+msgid "Send a test message"
+msgstr "Verzend een testbericht"
+
+#: tnp-header.php:59
+msgid "Subscription Form Fields, Buttons, Labels"
+msgstr "Aanmeldformulier velden, knoppen, labels"
+
+#: main/status.php:124
+msgid "System Status"
+msgstr "Systeemstatus"
+
+#: subscription/options.php:243
+msgid "Custom styles"
+msgstr "Aangepaste style"
+
+#: includes/controls.php:382
+msgid "Done."
+msgstr "Gereed"
+
+#: subscription/template.php:16
+msgid "The tag {message} is missing in your template"
+msgstr "De tag {message} is niet gevonden in je template"
+
+#: subscription/template.php:30
+msgid "No test subscribers found."
+msgstr "Geen testabonnee gevonden."
+
+#: main/diagnostic.php:232
+msgid "Tests"
+msgstr "Test"
+
+#: main/diagnostic.php:233
+msgid "Scheduler"
+msgstr "Planner"
+
+#: main/diagnostic.php:234
+msgid "Logging"
+msgstr "Loggen"
+
+#: emails/tnp-composer/edit.php:8
+msgid "SOURCE"
+msgstr "BRON"
+
+#: emails/tnp-composer/edit.php:13
+msgid "ALT TEXT"
+msgstr "ALTERNATIEVE TEKST"
+
+#: emails/tnp-composer/edit.php:15
+msgid "LINK"
+msgstr "LINK"
+
+#: emails/tnp-composer/edit.php:63 emails/tnp-composer/edit.php:80
+msgid "TITLE"
+msgstr "TITEL"
+
+#: emails/tnp-composer/edit.php:65 emails/tnp-composer/edit.php:82
+msgid "URL"
+msgstr "URL"
+
+#: emails/tnp-composer/edit.php:84 emails/tnp-composer/edit.php:103
+msgid "Text Color"
+msgstr "Tekst Kleur"
+
+#: emails/tnp-composer/edit.php:101
+msgid "Title"
+msgstr "Titel"
+
+#: emails/tnp-composer/edit.php:119
+msgid "Text"
+msgstr "Tekst"
+
+#: emails/tnp-composer/edit.php:135
+msgid "Select Icon"
+msgstr "Selecteer Icoon"
+
+#: emails/tnp-composer/edit.php:1461
+msgid "Number of posts"
+msgstr "Aantal Berichten"
+
+#: emails/tnp-composer/edit.php:1463
+msgid "Categories"
+msgstr "Categorieën"
+
+#: emails/tnp-composer/edit.php:1468
+msgid "Tags (comma separated)"
+msgstr "Labels (gescheiden met komma)"
+
+#: emails/tnp-composer/edit.php:1402 emails/tnp-composer/edit.php:1438
+msgid "Font Family"
+msgstr "Lettertype familie"
+
+#: emails/tnp-composer/edit.php:20 emails/tnp-composer/edit.php:70
+#: emails/tnp-composer/edit.php:91 emails/tnp-composer/edit.php:108
+#: emails/tnp-composer/edit.php:124 emails/tnp-composer/edit.php:1390
+#: emails/tnp-composer/edit.php:1426 emails/tnp-composer/edit.php:1474
+#: emails/tnp-composer/edit.php:1485
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: emails/tnp-composer/edit.php:60
+msgid "Edit Link"
+msgstr "Link bewerken"
+
+#: emails/tnp-composer/edit.php:86 emails/tnp-composer/edit.php:1400
+#: emails/tnp-composer/edit.php:1436
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: emails/tnp-composer/edit.php:98
+msgid "Edit Title"
+msgstr "Titel bewerken"
+
+#: emails/tnp-composer/edit.php:116
+msgid "Edit Text"
+msgstr "Tekst bewerken"
+
+#: emails/tnp-composer/edit.php:132
+msgid "Edit Icon"
+msgstr "Icoon bewerken"
+
+#: emails/tnp-composer/edit.php:77
+msgid "Edit Button"
+msgstr "Knop bewerken"
+
+#: emails/tnp-composer/edit.php:1397 emails/tnp-composer/edit.php:1433
+msgid "Edit Block"
+msgstr "Blok aanpassen"
+
+#: emails/tnp-composer/edit.php:1472
+msgid "Any prior changes to single posts will be lost when editing these settings."
+msgstr "Alle eerdere aanpassingen aan berichten zullen verloren gaan als je deze instellingen aanpast."
+
+#: emails/tnp-composer/edit.php:6
+msgid "Edit Image"
+msgstr "Afbeelding bewerken"
+
+#: users/export.php:37
+msgid "Field separator"
+msgstr "Scheidingsteken"
+
+#: statistics/view.php:38
+msgid "No data, newsletter not sent yet."
+msgstr "Geen data, nieuwsbrief nog niet verzonden"
+
+#: emails/composer.php:94
+msgid "Read the guide"
+msgstr "Lees de handleiding"
+
+#: emails/composer.php:101
+msgid "Save & Preview"
+msgstr "Opslaan en voorbeeld bekijken"
+
+#: emails/theme.php:69
+msgid "Responsive Drag & Drop Composer"
+msgstr "Responsieve Drag & Drop Ontwerp Module"
+
+#: includes/module.php:608
+msgid "Sent"
+msgstr "Verzonden"
+
+#: includes/module.php:610
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+#: statistics/index.php:93
+msgid "Global Newsletter Statistics"
+msgstr "Algemene Nieuwsbrief-statistieken"
+
+#: statistics/index.php:112
+msgid "Update Charts"
+msgstr "Statistieken bijwerken"
+
+#: statistics/index.php:191
+msgid "Total Sent Messages"
+msgstr "Totaal verzonden berichten"
+
+#: statistics/index.php:198
+msgid "Opened Newsletters"
+msgstr "Geopende nieuwsbrieven"
+
+#: statistics/index.php:205
+msgid "Clicked Newsletters"
+msgstr "Geklikte nieuwsbrieven"
+
+#: statistics/index.php:218 statistics/settings.php:39
+msgid "Countries"
+msgstr "Landen"
+
+#: statistics/index.php:242
+msgid "Details"
+msgstr "Gegevens"
+
+#: statistics/settings.php:38
+msgid "Configuration"
+msgstr "Instellingen"
+
+#: tnp-header.php:122
+msgid "Licence active"
+msgstr "Licentie actief"
+
+#: tnp-header.php:127
+msgid "Licence expired"
+msgstr "Licentie verlopen"
+
+#: lock/index.php:42
+msgid "Enabled"
+msgstr "Inschakelen"
+
+#: includes/controls.php:737
+msgid "Reset"
+msgstr "Resetten"
+
+#: users/edit.php:84
+msgid "Editing"
+msgstr "Bewerken"
+
+#: users/index.php:145
+msgid "Reset Filters"
+msgstr "Reset filters"
+
+#: tnp-header.php:97
+msgid "Diagnostics"
+msgstr "Analyserapport"
+
+#: tnp-header.php:96
+msgid "External mail servers"
+msgstr "Externe mailservers"
+
+#: users/index.php:125
+msgid "Search and Edit"
+msgstr "Zoeken en bewerken"
+
+#: tnp-header.php:92
+msgid "Delivery speed, sender details, ..."
+msgstr "Verzendingssnelheid, afzendergegevens..."
+
+#: statistics/index.php:283 tnp-header.php:89
+msgid "Settings"
+msgstr "Configuratie"
+
+#: tnp-header.php:52
+msgid "Subscription"
+msgstr "Inschrijving"
+
+#: main/diagnostic.php:235 tnp-header.php:41
+msgid "Maintenance"
+msgstr "Onderhoud"
+
+#: tnp-header.php:44
+msgid "All about your subscribers"
+msgstr "Alles over je abonnees"
+
+#: tnp-header.php:33
+msgid "Subscribers"
+msgstr "Abonnees"
+
+#: tnp-header.php:35
+msgid "Search And Edit"
+msgstr "Zoeken en bewerken"
+
+#: tnp-header.php:36
+msgid "Add, edit, search"
+msgstr "Toevoegen, bewerken, zoeken"
+
+#: tnp-footer.php:14
+msgid "Forum"
+msgstr "Forum"
+
+#: tnp-footer.php:15
+msgid "Blog"
+msgstr "Site"
+
+#: tnp-footer.php:13
+msgid "Your Account"
+msgstr "Je account"
+
+#: wp/index.php:113
+msgid "Confirmation"
+msgstr "Bevestigd"
+
+#: lock/index.php:53
+msgid "comma separated"
+msgstr "door komma gescheiden"
+
+#: main/smtp.php:103
+msgid "SMTP Settings"
+msgstr "SMTP-instellingen"
+
+#: statistics/view.php:27
+msgid "Statistics of"
+msgstr "Statistieken van"
+
+#: main/main.php:108 tnp-header.php:91
+msgid "General Settings"
+msgstr "Instellingen"
+
+#: main/index.php:300
+msgid "Premium"
+msgstr "Premium-versie"
+
+#: main/index.php:302
+msgid "Buy"
+msgstr "Kopen"
+
+#: includes/module.php:612 main/index.php:267
+msgid "Draft"
+msgstr "Voorstel"
+
+#: main/index.php:245 main/index.php:331
+msgid "New"
+msgstr "Nieuw"
+
+#: main/index.php:207
+msgid "Read all"
+msgstr "Alles lezen"
+
+#: main/index.php:106
+msgid "Overall"
+msgstr "Algemeen"
+
+#: emails/cpreview.php:372 emails/edit.php:427 subscription/lists.php:27
+#: tnp-header.php:61
+msgid "Lists"
+msgstr "Lijsten"
+
+#: emails/cpreview.php:435 emails/edit.php:490
+msgid "Keep private"
+msgstr "Laat prive"
+
+#: includes/controls.php:745
+msgid "Back"
+msgstr "Terug"
+
+#: emails/cpreview.php:292 emails/edit.php:363
+msgid "Stop"
+msgstr "Stoppen"
+
+#: emails/cpreview.php:291 emails/edit.php:362
+msgid "Continue"
+msgstr "Voortzetten"
+
+#: emails/cpreview.php:290 emails/edit.php:361
+msgid "Pause the delivery?"
+msgstr "Verzenden pauzeren?"
+
+#: emails/cpreview.php:289 emails/edit.php:360
+msgid "Send"
+msgstr "Versturen"
+
+#: emails/cpreview.php:290 emails/edit.php:361
+msgid "Pause"
+msgstr "Pause"
+
+#: emails/cpreview.php:289 emails/edit.php:360
+msgid "Start real delivery?"
+msgstr "Echte verzending starten?"
+
+#: emails/edit.php:340
+msgid "Edit Newsletter"
+msgstr "Nieuwsbrief aanpassen"
+
+#: emails/cpreview.php:190 emails/cpreview.php:218 emails/edit.php:191
+#: emails/edit.php:219
+msgid "A subject is required to send"
+msgstr "Een onderwerp is vereist om te verzenden"
+
+#: emails/index.php:139 main/index.php:86 main/index.php:88 main/index.php:289
+#: tnp-header.php:43 tnp-header.php:82
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: includes/controls.php:771
+msgid "Delete"
+msgstr "Verwijder"
+
+#: emails/index.php:96
+msgid "Date"
+msgstr "Datum"
+
+#: emails/composer.php:100 emails/tnp-composer/edit.php:19
+#: emails/tnp-composer/edit.php:69 emails/tnp-composer/edit.php:90
+#: emails/tnp-composer/edit.php:107 emails/tnp-composer/edit.php:123
+#: emails/tnp-composer/edit.php:1425 emails/tnp-composer/edit.php:1473
+#: emails/tnp-composer/edit.php:1484 includes/controls.php:729
+msgid "Save"
+msgstr "Bewaar"
+
+#: users/index.php:143
+msgid "Search"
+msgstr "Zoeken"
+
+#: emails/index.php:137 main/index.php:288 main/index.php:353
+#: users/index.php:238
+msgid "Edit"
+msgstr "Bewerk"
+
+#: tnp-header.php:95
+msgid "SMTP"
+msgstr "SMTP"
+
+#: main/main.php:136
+msgid "Sender email address"
+msgstr "E-mailadres van de afzender"
+
+#: main/main.php:150
+msgid "Sender name"
+msgstr "Naam afzender"
+
+#: emails/index.php:136
+msgid "Yes"
+msgstr "Ja"
+
+#: users/index.php:239
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: emails/index.php:93 statistics/index.php:252 statistics/newsletters.php:46
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: main/main.php:121
+msgid "Advanced Settings"
+msgstr "Geavanceerde Instellingen"
+
+#: emails/index.php:95
+msgid "Progress"
+msgstr "Voortgang"
+
+#: emails/index.php:97 statistics/newsletters.php:51
+msgid "Tracking"
+msgstr "Volgen"
+
+#: emails/index.php:127 includes/module.php:604 main/index.php:264
+msgid "Sending"
+msgstr "Verzenden"
+
+#: emails/index.php:134 includes/module.php:643 statistics/newsletters.php:64
+msgid "of"
+msgstr "van"
+
+#: emails/composer.php:23 emails/new.php:16 emails/new.php:71
+msgid "Here the email subject"
+msgstr "Hier het e-mail onderwerp"
+
+#: emails/new.php:144
+msgid "Create a newsletter"
+msgstr "Maak een nieuwsbrief aan"
+
+#: emails/new.php:161
+msgid "Refresh the preview"
+msgstr "Vernieuw de preview"
+
+#: emails/theme.php:57
+msgid "Select a theme"
+msgstr "Selecteer een thema"
+
+#: includes/controls.php:697
+msgid "Valid email address"
+msgstr "Geldig e-mailadres"
+
+#: main/main.php:120
+msgid "Delivery Speed"
+msgstr "Verzendingssnelheid"
+
+#: main/main.php:174
+msgid "Reply to"
+msgstr "Antwoord aan"
+
+#: emails/themes/vimeo-like/theme-options.php:25 main/info.php:47
+msgid "Social"
+msgstr "Social"
+
+#: main/main.php:219
+msgid "Max emails per hour"
+msgstr "Max e-mails per uur"
+
+#: includes/controls.php:375 main/main.php:56
+msgid "Saved."
+msgstr "Opgeslagen."
+
+#: main/main.php:119
+msgid "Basic Settings"
+msgstr "Basis-instellingen"
+
+#: users/import.php:210
+msgid "CSV file"
+msgstr "CSV-bestand"
+
+#: users/index.php:137
+msgid "Search text"
+msgstr "Tekst doorzoeken"
+
+#: users/index.php:139
+msgid "filter by"
+msgstr "filteren op"
+
+#: users/index.php:155 users/index.php:257
+msgid "Go"
+msgstr "Ga"
+
+#: users/index.php:173
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: users/index.php:246
+msgid "Profile page"
+msgstr "Profielpagina"
+
+#: users/massive.php:178 users/massive.php:283
+msgid "Total"
+msgstr "Totaal"
+
+#: users/massive.php:179
+msgid "Actions"
+msgstr "Acties"
+
+#: users/massive.php:188
+msgid "Delete all"
+msgstr "Allen verwijderen"
+
+#: users/massive.php:197 users/massive.php:219 users/massive.php:229
+#: users/massive.php:258 users/massive.php:259 users/massive.php:260
+#: users/massive.php:316
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: emails/cpreview.php:304 emails/cpreview.php:390 emails/edit.php:375
+#: emails/edit.php:445 emails/index.php:94 main/status.php:139
+#: statistics/index.php:254 statistics/newsletters.php:48 tnp-header.php:104
+#: users/index.php:171 users/massive.php:177
+msgid "Status"
+msgstr "Status"
+
+#: emails/cpreview.php:443 emails/edit.php:498
+msgid "Required"
+msgstr "Vereist"
+
+#: emails/cpreview.php:300 emails/edit.php:371
+msgid "Message"
+msgstr "Bericht"
+
+#: emails/cpreview.php:363 emails/edit.php:418 users/massive.php:235
+#: users/massive.php:244
+msgid "Gender"
+msgstr "Geslacht"
+
+#: emails/cpreview.php:392 emails/edit.php:447 users/import.php:172
+#: users/massive.php:192 wp/index.php:147
+msgid "Confirmed"
+msgstr "Bevestigd"
+
+#: emails/cpreview.php:392 emails/edit.php:447 users/import.php:172
+#: wp/index.php:147
+msgid "Not confirmed"
+msgstr "Niet bevestigd"
+
+#: emails/composer.php:93
+msgid "Compose a newsletter"
+msgstr "Nieuwsbrief opstellen"
+
+#: emails/cpreview.php:268
+msgid "Preview Newsletter"
+msgstr "nieuwsbrief voorbeeld"
+
+#: statistics/index.php:242
+msgid "Last newsletters"
+msgstr "Laatste nieuwsbrieven"
+
+#: statistics/settings.php:26
+msgid "Statistics Settings"
+msgstr "Instellingen statistieken"
+
+#. Author of the plugin/theme
+msgid "Stefano Lissa & The Newsletter Team"
+msgstr "Stefano Lissa & Het Newsletter Team"
+
+#: users/index.php:148
+msgid "Show lists"
+msgstr "Toon lijsten"
+
+#: emails/cpreview.php:411 emails/edit.php:466
+msgid "Subscribers count"
+msgstr "Aantal abonnees"
+
+#: users/new.php:31
+msgid "New Subscriber"
+msgstr "Nieuwe abonnee"
+
+#: tnp-header.php:56
+msgid "WP Registration"
+msgstr "WP Registratie"
+
+#: tnp-footer.php:23
+msgid "Stay updated"
+msgstr "Blijf op de hoogte"
+
+#: tnp-header.php:38
+msgid "Import from external sources"
+msgstr "Importeren vanuit externe bronnen"
+
+#: main/index.php:102
+msgid "Last Newsletter"
+msgstr "Laatste nieuwsbrief"
+
+#: emails/index.php:84 includes/controls.php:734 includes/controls.php:755
+#: includes/controls.php:768 users/index.php:239 users/index.php:244
+#: users/index.php:245 wp/index.php:148
+msgid "Proceed?"
+msgstr "Verder gaan?"
+
+#: emails/index.php:125 includes/module.php:602 main/index.php:262
+msgid "Scheduled"
+msgstr "Gepland"
+
+#: subscription/unsubscription.php:101
+msgid "Goodbye email"
+msgstr "\"Tot ziens\"-e-mail"
+
+#: subscription/unsubscription.php:91
+msgid "Goodbye message"
+msgstr "\"Tot ziens\"-bericht"
+
+#: wp/index.php:145
+msgid "Import with status"
+msgstr "Importeren met status"
+
+#: subscription/forms.php:24 tnp-header.php:69
+msgid "Custom Forms"
+msgstr "Aangepaste formulieren"
+
+#: main/index.php:222
+msgid "All Video Tutorials"
+msgstr "Alle videohandleidingen"
+
+#: emails/index.php:44
+msgid "Message deleted."
+msgstr "Bericht verwijderd."
+
+#: emails/index.php:61 main/index.php:240 statistics/newsletters.php:33
+#: tnp-header.php:78
+msgid "Newsletters"
+msgstr "Nieuwsbrieven"
+
+#: emails/index.php:83
+msgid "New newsletter"
+msgstr "Nieuwe nieuwsbrief"
+
+#: statistics/settings.php:46
+msgid "Secret key"
+msgstr "Geheime sleutel"
+
+#: users/import.php:170
+msgid "Import Subscribers As"
+msgstr "Importeer abonnees als"
+
+#: users/index.php:159
+msgid "subscriber(s) found"
+msgstr "Abonnee(s) gevonden"
+
+#: main/index.php:342 users/index.php:214
+msgid "NOT CONFIRMED"
+msgstr "NIET BEVESTIGD"
+
+#: main/index.php:344 users/index.php:215
+msgid "CONFIRMED"
+msgstr "BEVESTIGD"
+
+#: main/index.php:346 users/index.php:216
+msgid "UNSUBSCRIBED"
+msgstr "UITGESCHREVEN"
+
+#: users/massive.php:44
+msgid "Subscribers deleted: "
+msgstr "Abonnees verwijderd:"
+
+#: users/massive.php:214
+msgid "Unsubscribed"
+msgstr "Uitgeschreven"
+
+#: users/massive.php:219
+msgid "Delete all unsubscribed"
+msgstr "Verwijder alle uitgeschreven adressen"
+
+#: users/massive.php:224
+msgid "Bounced"
+msgstr "Bounced"
+
+#: users/massive.php:282
+msgid "Preference"
+msgstr "Voorkeur"
+
+#: users/massive.php:306
+msgid "Bounced addresses"
+msgstr "Adressen die een bounce gaven"
+
+#. Plugin Name of the plugin/theme
+msgid "Newsletter"
+msgstr "Nieuwsbrief"
+
+#: emails/cpreview.php:301 emails/edit.php:372
+msgid "Message (textual)"
+msgstr "Bericht (tekstueel)"
+
+#: emails/cpreview.php:302 emails/edit.php:373
+msgid "Targeting"
+msgstr "Doel"
+
+#: emails/cpreview.php:303 emails/edit.php:374 users/massive.php:169
+msgid "Other"
+msgstr "Andere"
+
+#: emails/edit-html.php:32 emails/edit.php:388
+msgid "Available tags"
+msgstr "Beschikbare tags"
+
+#: users/massive.php:281
+msgid "Number"
+msgstr "Aantal"
+
+#: tnp-footer.php:8
+msgid "Get Premium"
+msgstr "Ga naar Premium"
+
+#: subscription/template.php:86
+msgid "Messages template"
+msgstr "Berichten-template"
+
+#: subscription/unsubscription.php:79
+msgid "Unsubscription message"
+msgstr "Bericht voor uitschrijven"
+
+#: tnp-header.php:71
+msgid "Messages Template"
+msgstr "Berichten-template"
+
+#: tnp-header.php:63
+msgid "Unsubscription"
+msgstr "Uitschrijving"
+
+#: main/index.php:326
+msgid "Last Subscribers"
+msgstr "Laatste inschrijvers"
+
+#: main/index.php:348 users/index.php:217
+msgid "BOUNCED"
+msgstr "BOUNCED"
+
+#: users/index.php:245
+msgid "Resend welcome"
+msgstr "Welkomstbericht opnieuw versturen"
+
+#: users/index.php:244
+msgid "Resend confirmation"
+msgstr "Bevestiging opnieuw versturen"
+
+#: users/massive.php:207
+msgid "Confirm all"
+msgstr "Allen bevestigen"
+
+#: emails/cpreview.php:194 emails/edit.php:195
+msgid "Now sending, see the progress on newsletter list"
+msgstr "Wordt verzonden, zie de vooruitgang in de lijst met nieuwsbrieven"
+
+#: emails/cpreview.php:213 emails/edit.php:214
+msgid "Delivery definitively cancelled"
+msgstr "Verzending definitief geannuleerd"
+
+#: emails/cpreview.php:222 emails/edit.php:223
+msgid "There are no test subscribers to send to"
+msgstr "Er zijn geen test ontvangers om naar te verzenden"
+
+#: emails/cpreview.php:225 emails/edit.php:226
+msgid "Test newsletter sent to:"
+msgstr "Test nieuwsbrief verzonden naar:"
+
+#: emails/cpreview.php:234 emails/edit.php:235
+msgid "Read more about test subscribers"
+msgstr "Lees meer over test ontvangers"
+
+#: emails/cpreview.php:292 emails/edit.php:363
+msgid "This totally stop the delivery, ok?"
+msgstr "Dit zal de aflevering volledig stopzetten, ok?"
+
+#: emails/cpreview.php:378 emails/edit.php:433
+msgid "checked below"
+msgstr "Hieronder bevestigd"
+
+#: emails/cpreview.php:395 emails/edit.php:450
+msgid "Send to not confirmed subscribers ONLY to ask for confirmation including the {subscription_confirm_url} tag."
+msgstr "Wordt ENKEL naar niet bevestigde ontvangers verzonden met het {subscription_confirm_url} label bijgevoegd."
+
+#: emails/cpreview.php:442 emails/edit.php:497
+msgid "Hide/show from public sent newsletter list."
+msgstr "Toon/verberg de lijst met verzonden nieuwsbrieven voor de bezoekers."
+
+#: emails/cpreview.php:448 emails/edit.php:503
+msgid "Track clicks and message opening"
+msgstr "Traceer aantal kliks en aantal geopende berichten"
+
+#: emails/cpreview.php:454 emails/edit.php:509
+msgid "Send on"
+msgstr "Verzonden op"
+
+#: emails/index.php:39
+msgid "Message duplicated."
+msgstr "Bericht gekopieerd."
+
+#: emails/index.php:84
+msgid "Delete selected newsletters"
+msgstr "Verwijder geselecteerde nieuwsbrieven"
+
+#: emails/index.php:86
+msgid "Trigger the delivery engine"
+msgstr "Activeer de verzend engine"
+
+#: lock/index.php:28 tnp-header.php:66
+msgid "Locked Content"
+msgstr "Vergrendelde inhoud"
+
+#: lock/index.php:51
+msgid "Tags or categories to block"
+msgstr "Labels of categorieën om te blokkeren"
+
+#: main/main.php:30
+msgid "The sender email address is not correct."
+msgstr "het mailadres van de verzender is niet correct."
+
+#: tnp-header.php:53
+msgid "The subscription process in detail"
+msgstr "Het inschrijven in detail"
+
+#: tnp-header.php:60
+msgid "When and what data to collect"
+msgstr "Welke data en wanneer deze bij te houden"
+
+#: tnp-header.php:80
+msgid "Single Newsletter"
+msgstr "Enkele Nieuwsbrief"
+
+#: tnp-header.php:81
+msgid "The classic \"write & send\" newsletters"
+msgstr "De klassieke \"schrijf & zend\" nieuwsbrief"
+
+#: tnp-header.php:83
+msgid "Tracking configuration and basic data"
+msgstr "Traceer configuratie en basis data"
+
+#: tnp-header.php:94
+msgid "Social, address, logo and general info"
+msgstr "Social, adres, logo en algemene info"
+
+#: emails/new.php:145
+msgid "Back to newsletter themes"
+msgstr "Terug naar nieuwsbrief thema's"
+
+#: lock/index.php:73
+msgid "Denied content message"
+msgstr "Bericht voor geweigerde inhoud"
+
+#: tnp-header.php:109
+msgid "Get Professional Extensions"
+msgstr "Verkrijg Professionele Extensies"
+
+#: users/index.php:126
+msgid "Add a new subscriber"
+msgstr "Voeg nieuwe abonnee toe"
+
+#: users/massive.php:19
+msgid "Subscribers not confirmed deleted: "
+msgstr "Niet bevestigde abonnees verwijderd:"
+
+#: users/massive.php:24
+msgid "Subscribers unsubscribed deleted: "
+msgstr "Uitgeschreven abonnees verwijderd:"
+
+#: users/massive.php:146
+msgid "Subscribers Maintenance"
+msgstr "Beheer van de Abonnees"
+
+#: users/massive.php:78
+msgid "Confirmation email sent to:"
+msgstr "Bevestigingsmail verzonden naar:"
+
+#: users/massive.php:39
+msgid "Subscribers changed to confirmed: "
+msgstr "Abonnee aangepast naar status bevestigd:"
+
+#: users/massive.php:34
+msgid "Subscribers changed to not confirmed: "
+msgstr "Abonnee aangepast naar status niet bevestigd:"
+
+#: wp/index.php:68
+msgid "subscriptions added"
+msgstr "inschrijvingen toegevoegd"
+
+#: wp/index.php:127
+msgid "Send welcome email to registered users"
+msgstr "Zend een verwelkoming per mail naar geregistreerde gebruikers"
+
+#: wp/index.php:133
+msgid "Subscription delete"
+msgstr "Verwijder inschrijving"
+
+#: wp/index.php:142
+msgid "Import already registered users"
+msgstr "Importeer reeds geregistreerde gebruikers"
+
+#: emails/index.php:20
+msgid "Delivery engine triggered."
+msgstr "Verzend engine geactiveerd."
+
+#: lock/index.php:65
+msgid "URL where redirect subscribers when they click on unlocking URL ({unlock_url}) inserted in newsletters and welcome message."
+msgstr "URL waarnaar de abonnees worden doorgestuurd indien ze op de ontgrendel URL ({unlock_url}) klikken die is ingevoegd in de nieuwsbrieven en de welkomst mail."
+
+#: lock/index.php:61
+msgid "Unlock destination URL"
+msgstr "Ontgrendel URL"
+
+#: emails/index.php:149
+msgid "Expected total at the end of the delivery may differ, due to subscriptions/unsubscriptions occured meanwhile."
+msgstr "Verwacht totaal op het einde van de aflevering kan afwijken, door eventuele inschrijvingen/uitschrijvingen die ondertussen zijn doorgevoerd."
+
+#: users/import.php:174
+msgid "Override status of existing users"
+msgstr "Overschrijf de status van bestaande gebruikers"
+
+#: users/import.php:184
+msgid "user data will be updated, existing preferences will be left untouched and new ones will be added."
+msgstr "gebruikersdata wordt geüpdatet, bestaande voorkeuren blijven onaangeroerd en nieuwe voorkeuren zullen worden toegevoegd."
+
+#: users/import.php:185
+msgid "user data will be overwritten with new informations (like name and preferences)."
+msgstr "gebruikersdata zullen worden overschreven met nieuwe informatie (zoals naam en voorkeuren)."
+
+#: users/import.php:186
+msgid "user data will be left untouched if already present."
+msgstr "gebruikersdata zal onaangeroerd blijven indien deze reeds voorhanden is."
+
+#: users/massive.php:168 users/massive.php:255
+msgid "Preferences/lists management"
+msgstr "Voorkeuren/lijst beheer"
+
+#: users/massive.php:206
+msgid "Delete all not confirmed"
+msgstr "Verwijder alle niet bevestigde"
+
+#: main/main.php:141
+msgid "Email address from which subscribers will see your email coming."
+msgstr "Het mailadres van welke de abonnees je mail zullen ontvangen."
+
+#: main/main.php:155
+msgid "Name from which subscribers will see your email coming (for example your blog title)."
+msgstr "De (verzend)naam die de abonnees zullen zien bij het ontvangen van je mails (bijv. je blog-titel)."
+
+#: statistics/settings.php:50
+msgid "This auto-generated key is used to protect the click tracking. If you change it old tracking links to external domains won't be registered anymore."
+msgstr "Deze automatisch gegenereerde sleutel wordt gebruikt om de tracering van de kliks te beveiligen. Indien je deze aanpast zullen eerder gebruikte traceer koppelingen naar externe domeinen niet meer bijgehouden worden."
+
+#: tnp-header.php:40
+msgid "Export your subscribers list"
+msgstr "Exporteer je lijst van abonnees"
+
+#: tnp-header.php:42
+msgid "Massive actions: change list, clean up, ..."
+msgstr "Bulkacties: wijzig lijst, opschonen..."
+
+#: main/smtp.php:21
+msgid "Saved. Remember to test your changes right now!"
+msgstr "Bewaard. Vergeet niet je aanpassingen onmiddellijk te testen."
+
+#: users/massive.php:188
+msgid "Are you sure you want to remove ALL subscribers?"
+msgstr "Weet je zeker dat je ALLE abonnees wilt verwijderen?"
+
+#: users/massive.php:183
+msgid "Total collected emails"
+msgstr "Totaal aantal verzamelde e-mailadressen"
+
+#: wp/index.php:67
+msgid "WordPress users processed"
+msgstr "WordPress gebruikers verwerkt"
+
+#: wp/index.php:78
+msgid "WordPress Registration Integration"
+msgstr "Integreren in de WordPress registratie"
+
+#: wp/index.php:106
+msgid "Check box label"
+msgstr "Checkbox label"
+
+#: wp/index.php:151
+msgid "Please, carefully read the documentation before taking this action!"
+msgstr "Lees de documentatie aandachtig alvorens deze actie te ondernemen."
+
+#: main/index.php:216
+msgid "Problem sending messages? Start here!"
+msgstr "Probleem met het versturen van een bericht? Start hier."
+
+#: main/index.php:75
+msgid "Your powerful control panel"
+msgstr "Je uitgebreide configuratiescherm"
+
+#: main/index.php:95
+msgid "These charts are only for example:<br>create and send your first newsletter to have real statistics!"
+msgstr "Deze grafieken zijn enkel bedoeld als voorbeeld:<br>maak je eerste nieuwsbrief aan om echte grafieken te hebben."
+
+#: users/massive.php:147
+msgid "Please, backup before run a massive action."
+msgstr "Neem een backup alvorens een bulkactie te ondernemen."
+
+#: users/massive.php:167
+msgid "Massive actions"
+msgstr "Bulkacties"
+
+#: users/massive.php:206
+msgid "Are you sure you want to delete ALL not confirmed subscribers?"
+msgstr "Weet je zeker dat je ALLE niet bevestigde abonnees wil verwijderen?"
+
+#: users/massive.php:207
+msgid "Are you sure you want to mark ALL subscribers as confirmed?"
+msgstr "Weet je zeker dat je ALLE abonnees als bevestigd wil markeren?"
+
+#: users/massive.php:209
+msgid "We have some tips about global actions, read more."
+msgstr "Wij hebben enkele tips over bulkacties, lees meer."
+
+#: users/massive.php:310
+msgid "One email address per line."
+msgstr "Eén e-mailadres per regel."
+
+#: users/statistics.php:29
+msgid "Subscriber statistics"
+msgstr "Statistieken van de geabonneerde"
+
+#: users/massive.php:229
+msgid "Delete all bounced"
+msgstr "Verwijder alle teruggekaatste mails"
+
+#: main/index.php:74
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: main/index.php:205
+msgid "Documentation"
+msgstr "Handleiding"
+
+#: main/index.php:242 main/index.php:328 users/export.php:45
+msgid "List"
+msgstr "Lijst"
+
+#: main/index.php:354
+msgid "Profile"
+msgstr "Profiel"
+
+#: main/info.php:25 tnp-header.php:93
+msgid "Company Info"
+msgstr "Bedrijfsinformatie"
+
+#: emails/themes/vimeo-like/theme-options.php:24 main/info.php:46
+msgid "General"
+msgstr "Algemeen"
+
+#: tnp-header.php:37 users/import.php:146 wp/index.php:148
+msgid "Import"
+msgstr "Importeren"
+
+#: tnp-header.php:39 users/export.php:23 users/export.php:52
+msgid "Export"
+msgstr "Exporteren"
+
+#: users/massive.php:197
+msgid "Unconfirm all"
+msgstr "Meld alle af"
+
+#: tnp-header.php:57
+msgid "Subscribe on WP registration"
+msgstr "Aanmelden bij WP registratie"
+
+#: tnp-header.php:50
+msgid "List Building"
+msgstr "Lijst maken"
+
+#: users/massive.php:277
+msgid "Totals refer only to confirmed subscribers."
+msgstr "Totalen verwijzen enkel naar bevestigde abonnees."
+
+#: tnp-header.php:98
+msgid "Something not working? Start here!"
+msgstr "Iets ging niet goed? Start hier."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.thenewsletterplugin.com/plugins/newsletter"
+msgstr "https://www.thenewsletterplugin.com/plugins/newsletter"
+
+#. Author URI of the plugin/theme
+msgid "https://www.thenewsletterplugin.com"
+msgstr "https://www.thenewsletterplugin.com"
+
+#. Description of the plugin/theme
+msgid "Newsletter is a cool plugin to create your own subscriber list, to send newsletters, to build your business. <strong>Before update give a look to <a href=\"https://www.thenewsletterplugin.com/category/release\">this page</a> to know what's changed.</strong>"
+msgstr "Newsletter in een leuke plugin die je in staat stelt je eigen mailinglijst aan te maken, nieuwsbrieven te verzenden, je bedrijf op te bouwen. <strong>Alvorens op te waarderen, bezoek <a href=\"https://www.thenewsletterplugin.com/category/release\">deze pagina</a> om te kijken wat er veranderd is.</strong>"
+
+#: main/main.php:49
+msgid "Reply to email is not correct."
+msgstr "Antwoord op e-mail is niet correct."
+
+#: main/index.php:227
+msgid "Learn how to segment your suscribers"
+msgstr "Ontdek hoe abonnee's te segmenteren"
+
+#: tnp-header.php:67
+msgid "Make your best content available only upon subscription"
+msgstr "Maak je beste inhoud alleen beschikbaar na abonneren"
+
+#: main/main.php:163
+msgid "Return path"
+msgstr "Return pad"
+
+#: main/main.php:35
+msgid "Return path email is not correct."
+msgstr "Return pad e-mail is niet correct."

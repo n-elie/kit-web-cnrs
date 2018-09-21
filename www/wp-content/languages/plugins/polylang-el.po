@@ -1,0 +1,1846 @@
+# Translation of Stable (latest release) in Greek
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-02 17:00:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: include/widget-calendar.php:224
+msgid "Posts published on %s"
+msgstr ""
+
+#: include/widget-calendar.php:223
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: settings/table-string.php:208
+msgid "Filter by group"
+msgstr "Φιλτράρισμα ανά ομάδα"
+
+#: settings/view-tab-lang.php:115
+msgid "Choose a flag for the language."
+msgstr "Επιλογή σημαίας για γλώσσα."
+
+#. translators: %s is a string potentially in any language
+#: settings/table-string.php:61
+msgid "Select %s"
+msgstr "Επιλογή %s"
+
+#: settings/table-settings.php:139
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: settings/table-settings.php:138
+msgid "Module"
+msgstr "Άρθρωμα"
+
+#: settings/table-settings.php:65
+msgid "Save Changes"
+msgstr "Αποθηκεύσετε τις Αλλαγές"
+
+#: settings/table-settings.php:65
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: settings/settings-tools.php:19
+msgid "Decide whether to remove all data when deleting Polylang."
+msgstr "Αποφασίστε αν επιθυμείτε να διαγραφούν όλα τα δεδομένα με την αφαίρεση του Polylang."
+
+#: settings/settings-tools.php:32
+msgid "Remove all Polylang data when using the \"Delete\" link on the plugins screen."
+msgstr "Διαγραφή όλων των δεδομένων του Polylang όταν πατείτε ο σύνδεσμος «Διαγραφή» στην σελίδα των πρόσθετων."
+
+#: settings/settings-url.php:21
+msgid "Decide how your URLs will look like."
+msgstr "Ρύθμιση εμφάνισης URL."
+
+#. translators: %s is a native language name
+#: settings/settings-url.php:197
+msgid "Please enter a valid URL for %s."
+msgstr "Παρακαλώ εισάγετε μια έγκυρη URL για %s."
+
+#. translators: %s is an url
+#: settings/settings-url.php:241
+msgid "Polylang was unable to access the URL %s. Please check that the URL is valid."
+msgstr "Το Polylang δεν μπόρεσε να επικοινωνήσει με τη URL %s. Παρακαλώ βεβαιωθείτε ότι η διεύθυνση είναι σωστή."
+
+#: settings/settings.php:381
+msgid "There are posts, pages, categories or tags without language."
+msgstr "Υπάρχουν άρθρα, σελίδες, κατηγορίες ή ετικέτες χωρίς γλώσσα. "
+
+#: settings/settings.php:383
+msgid "You can set them all to the default language."
+msgstr "Μπορείτε να τα ορίσετε όλα στην προκαθορισμένη γλώσσα."
+
+#: settings/table-languages.php:77 settings/table-languages.php:171
+msgid "Edit this language"
+msgstr "Επεξεργασία γλώσσας"
+
+#: settings/table-languages.php:100
+msgid "Select as default language"
+msgstr "Επιλογή ως προκαθορισμένη γλώσσα"
+
+#. translators: %s is a native language name
+#: settings/table-languages.php:103
+msgid "Choose %s as default language"
+msgstr "Επιλέξτε τα %s σαν προκαθορισμένη γλώσσα"
+
+#: settings/table-languages.php:177
+msgid "Delete this language and all its associated data"
+msgstr "Διαγραφή γλώσσας και όλων των σχετικών δεδομένων της"
+
+#: settings/settings-module.php:55
+msgid "Activate this module"
+msgstr "Ενεργοποίηση επιλεγμένου αρθρώματος"
+
+#: settings/settings-module.php:62
+msgid "Deactivated"
+msgstr "Απενεργοποιημένο"
+
+#: settings/settings-tools.php:18
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: settings/flags.php:261
+msgid "Zambia"
+msgstr "Ζάμπια"
+
+#: settings/flags.php:262
+msgid "Zimbabwe"
+msgstr "Ζιμπάμπουε"
+
+#: settings/settings-cpt.php:19
+msgid "Custom post types and Taxonomies"
+msgstr "Εξατομικευμένοι τύποι άρθρων και ταξινομήσεις."
+
+#: settings/settings-cpt.php:20
+msgid "Activate the languages and translations management for the custom post types and taxonomies."
+msgstr "Ενεργοποίηση διαχείρισης γλωσσών και μεταφράσεων για εξατομικευμένους τύπους άρθρων και ταξινομήσεων."
+
+#: settings/settings-module.php:41
+msgid "Configure this module"
+msgstr "Ρύθμιση επιλεγμένου αρθρώματος"
+
+#: settings/settings-module.php:48
+msgid "Deactivate this module"
+msgstr "Απενεργοποίηση επιλεγμένου αρθρώματος "
+
+#: settings/settings-module.php:50
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#: settings/flags.php:258
+msgid "Yemen"
+msgstr "Υεμένη"
+
+#: settings/flags.php:259
+msgid "Mayotte"
+msgstr "Μαγιότ"
+
+#: settings/flags.php:260
+msgid "South Africa"
+msgstr "Νότια Αφρική"
+
+#: settings/flags.php:254
+msgid "Vanuatu"
+msgstr "Βανουάτου"
+
+#: settings/flags.php:255
+msgid "Wales"
+msgstr "Ουαλία"
+
+#: settings/flags.php:256
+msgid "Wallis and Futuna"
+msgstr "Νήσοι Ουαλλίς και Φουτουνά"
+
+#: settings/flags.php:257
+msgid "Western Samoa"
+msgstr "Δυτική Σαμόα"
+
+#: settings/flags.php:248
+msgid "Saint Vincent and the Grenadines"
+msgstr "Άγιος Βικέντιος και Γρεναδίνες"
+
+#: settings/flags.php:249
+msgid "Venezuela"
+msgstr "Βενεζουέλα"
+
+#: settings/flags.php:250
+msgid "Veneto"
+msgstr "Βένετο"
+
+#: settings/flags.php:251
+msgid "British Virgin Islands"
+msgstr "Βρετανικές Παρθένοι Νήσοι"
+
+#: settings/flags.php:252
+msgid "United States Virgin Islands"
+msgstr "Παρθένες νήσοι"
+
+#: settings/flags.php:253
+msgid "Vietnam"
+msgstr "Βιετνάμ"
+
+#: settings/flags.php:245
+msgid "Uruguay"
+msgstr "Ουρουγουάη"
+
+#: settings/flags.php:246
+msgid "Uzbekistan"
+msgstr "Ουζμπεκιστάν"
+
+#: settings/flags.php:247
+msgid "Vatican"
+msgstr "Βατικανό"
+
+#: settings/flags.php:242
+msgid "Ukraine"
+msgstr "Ουκρανία"
+
+#: settings/flags.php:243
+msgid "Uganda"
+msgstr "Ουγκάντα"
+
+#: settings/flags.php:244
+msgid "United States"
+msgstr "Ηνωμένες Πολιτείες Αμερικής"
+
+#: settings/flags.php:238
+msgid "Trinidad and Tobago"
+msgstr "Τρινιντάντ και Τομπάγκο"
+
+#: settings/flags.php:239
+msgid "Tuvalu"
+msgstr "Τουβαλού"
+
+#: settings/flags.php:240
+msgid "Taiwan"
+msgstr "Ταϊβάν"
+
+#: settings/flags.php:241
+msgid "Tanzania"
+msgstr "Τανζανία"
+
+#: settings/flags.php:235
+msgid "Tunisia"
+msgstr "Τυνησία"
+
+#: settings/flags.php:236
+msgid "Tonga"
+msgstr "Τοκελάου"
+
+#: settings/flags.php:237
+msgid "Turkey"
+msgstr "Τουρκία"
+
+#: settings/flags.php:231
+msgid "Tajikistan"
+msgstr "Τατζικιστάν"
+
+#: settings/flags.php:232
+msgid "Tokelau"
+msgstr "Τοκελάου"
+
+#: settings/flags.php:233
+msgid "Timor-Leste"
+msgstr "Τιμόρ-Λέστε"
+
+#: settings/flags.php:234
+msgid "Turkmenistan"
+msgstr "Τουρκμενιστάν"
+
+#: settings/flags.php:227
+msgid "Chad"
+msgstr "Τσαντ"
+
+#: settings/flags.php:228
+msgid "French Southern Territories"
+msgstr "Γαλλικά Νότια Εδάφη"
+
+#: settings/flags.php:229
+msgid "Togo"
+msgstr "Τόγκο"
+
+#: settings/flags.php:230
+msgid "Thailand"
+msgstr "Ταϊλάνδη"
+
+#: settings/flags.php:224
+msgid "Syria"
+msgstr "Συρία"
+
+#: settings/flags.php:225
+msgid "Swaziland"
+msgstr "Ζουαζιλάνδη"
+
+#: settings/flags.php:226
+msgid "Turks and Caicos Islands"
+msgstr "Νήσοι Τερκς και Κάικος"
+
+#: settings/flags.php:220
+msgid "Suriname"
+msgstr "Σουρινάμ"
+
+#: settings/flags.php:221
+msgid "South Sudan"
+msgstr "Νότιο Σουδάν"
+
+#: settings/flags.php:222
+msgid "São Tomé and Príncipe"
+msgstr "Σάο Τομέ και Πρίνσιπε"
+
+#: settings/flags.php:223
+msgid "El Salvador"
+msgstr "Ελ Σαλβαδόρ"
+
+#: settings/flags.php:218
+msgid "Senegal"
+msgstr "Σενεγάλη"
+
+#: settings/flags.php:219
+msgid "Somalia"
+msgstr "Σομαλία"
+
+#: settings/flags.php:213
+msgid "Saint Helena"
+msgstr "Αγία Ελένη"
+
+#: settings/flags.php:214
+msgid "Slovenia"
+msgstr "Σλοβενία"
+
+#: settings/flags.php:215
+msgid "Slovakia"
+msgstr "Σλοβακία"
+
+#: settings/flags.php:216
+msgid "Sierra Leone"
+msgstr "Σιέρα Λεόνε"
+
+#: settings/flags.php:217
+msgid "San Marino"
+msgstr "Σαν Μαρίνο"
+
+#: settings/flags.php:211
+msgid "Sweden"
+msgstr "Σουηδία"
+
+#: settings/flags.php:212
+msgid "Singapore"
+msgstr "Σιγκαπούρη"
+
+#: settings/flags.php:207
+msgid "Solomon Islands"
+msgstr "Νησιά Σολομώντα"
+
+#: settings/flags.php:208
+msgid "Seychelles"
+msgstr "Σεϋχέλλες"
+
+#: settings/flags.php:209
+msgid "Scotland"
+msgstr "Σκωτία"
+
+#: settings/flags.php:210
+msgid "Sudan"
+msgstr "Σουδάν"
+
+#: settings/flags.php:204
+msgid "Russia"
+msgstr "Ρωσία"
+
+#: settings/flags.php:205
+msgid "Rwanda"
+msgstr "Ρουάντα"
+
+#: settings/flags.php:206
+msgid "Saudi Arabia"
+msgstr "Σαουδική Αραβία"
+
+#: settings/flags.php:201
+msgid "Quebec"
+msgstr "Κεμπέκ"
+
+#: settings/flags.php:202
+msgid "Romania"
+msgstr "Ρουμανία"
+
+#: settings/flags.php:203
+msgid "Serbia"
+msgstr "Σερβία"
+
+#: settings/flags.php:198
+msgid "Belau"
+msgstr "Μπελάου"
+
+#: settings/flags.php:199
+msgid "Paraguay"
+msgstr "Παραγουάη"
+
+#: settings/flags.php:200
+msgid "Qatar"
+msgstr "Κατάρ"
+
+#: settings/flags.php:196
+msgid "Palestinian Territory"
+msgstr "Παλαιστίνη"
+
+#: settings/flags.php:197
+msgid "Portugal"
+msgstr "Πορτογαλία"
+
+#: settings/flags.php:193
+msgid "Saint Pierre and Miquelon"
+msgstr "Σεν Πιερ και Μικελόν"
+
+#: settings/flags.php:194
+msgid "Pitcairn"
+msgstr "Πίτκερν"
+
+#: settings/flags.php:195
+msgid "Puerto Rico"
+msgstr "Πουέρτο Ρίκο"
+
+#: settings/flags.php:190
+msgid "Philippines"
+msgstr "Φιλιππίνες"
+
+#: settings/flags.php:191
+msgid "Pakistan"
+msgstr "Πακιστάν"
+
+#: settings/flags.php:192
+msgid "Poland"
+msgstr "Πολωνία"
+
+#: settings/flags.php:187
+msgid "Peru"
+msgstr "Περού"
+
+#: settings/flags.php:188
+msgid "French Polynesia"
+msgstr "Γαλλική Πολυνησία"
+
+#: settings/flags.php:189
+msgid "Papua New Guinea"
+msgstr "Παπούα Νέα Γουινέα"
+
+#: settings/flags.php:183
+msgid "New Zealand"
+msgstr "Νέα Ζηλανδία"
+
+#: settings/flags.php:184
+msgid "Occitania"
+msgstr "Οξιτανία"
+
+#: settings/flags.php:185
+msgid "Oman"
+msgstr "Ομάν"
+
+#: settings/flags.php:186
+msgid "Panama"
+msgstr "Παναμάς"
+
+#: settings/flags.php:181
+msgid "Nauru"
+msgstr "Ναούρου"
+
+#: settings/flags.php:182
+msgid "Niue"
+msgstr "Νιούε"
+
+#: settings/flags.php:178
+msgid "Netherlands"
+msgstr "Ολλανδία"
+
+#: settings/flags.php:179
+msgid "Norway"
+msgstr "Νορβηγία"
+
+#: settings/flags.php:180
+msgid "Nepal"
+msgstr "Νεπάλ"
+
+#: settings/flags.php:174
+msgid "Niger"
+msgstr "Νίγηρας"
+
+#: settings/flags.php:175
+msgid "Norfolk Island"
+msgstr "Νήσος Νόρφολκ"
+
+#: settings/flags.php:176
+msgid "Nigeria"
+msgstr "Νιγηρία"
+
+#: settings/flags.php:177
+msgid "Nicaragua"
+msgstr "Νικαράγουα"
+
+#: settings/flags.php:170
+msgid "Malaysia"
+msgstr "Μαλαισία"
+
+#: settings/flags.php:171
+msgid "Mozambique"
+msgstr "Μοζαμβίκη"
+
+#: settings/flags.php:172
+msgid "Namibia"
+msgstr "Ναμίμπια"
+
+#: settings/flags.php:173
+msgid "New Caledonia"
+msgstr "Νέα Καληδονία"
+
+#: settings/flags.php:167
+msgid "Maldives"
+msgstr "Μαλδίβες"
+
+#: settings/flags.php:168
+msgid "Malawi"
+msgstr "Μαλάουι"
+
+#: settings/flags.php:169
+msgid "Mexico"
+msgstr "Μεξικό"
+
+#: settings/flags.php:166
+msgid "Mauritius"
+msgstr "Μαυρίκιος"
+
+#: settings/flags.php:163
+msgid "Mauritania"
+msgstr "Μαυριτανία"
+
+#: settings/flags.php:164
+msgid "Montserrat"
+msgstr "Μονσεράτ"
+
+#: settings/flags.php:165
+msgid "Malta"
+msgstr "Μάλτα"
+
+#: settings/flags.php:161
+msgid "Northern Mariana Islands"
+msgstr "Βόρειες Μαριάνες Νήσοι"
+
+#: settings/flags.php:162
+msgid "Martinique"
+msgstr "Μαρτινίκα"
+
+#: settings/flags.php:158
+msgid "Myanmar"
+msgstr "Μιανμάρ"
+
+#: settings/flags.php:159
+msgid "Mongolia"
+msgstr "Μονγκολία"
+
+#: settings/flags.php:160
+msgid "Macao"
+msgstr "Μακάου"
+
+#: settings/flags.php:155
+msgid "Marshall Islands"
+msgstr "Νήσοι Μάρσαλ"
+
+#: settings/flags.php:156
+msgid "Macedonia"
+msgstr "Π.Γ.Δ.Μ."
+
+#: settings/flags.php:157
+msgid "Mali"
+msgstr "Μάλι"
+
+#: settings/flags.php:152
+msgid "Moldova"
+msgstr "Μολδαβία"
+
+#: settings/flags.php:153
+msgid "Montenegro"
+msgstr "Μαυροβούνιο"
+
+#: settings/flags.php:154
+msgid "Madagascar"
+msgstr "Μαδαγασκάρη"
+
+#: settings/flags.php:149
+msgid "Libya"
+msgstr "Λιβύη"
+
+#: settings/flags.php:150
+msgid "Morocco"
+msgstr "Μαρόκο"
+
+#: settings/flags.php:151
+msgid "Monaco"
+msgstr "Μονακό"
+
+#: settings/flags.php:147
+msgid "Luxembourg"
+msgstr "Λουξεμβούργο"
+
+#: settings/flags.php:148
+msgid "Latvia"
+msgstr "Λετονία"
+
+#: settings/flags.php:144
+msgid "Liberia"
+msgstr "Λιβερία"
+
+#: settings/flags.php:145
+msgid "Lesotho"
+msgstr "Λεσόθο"
+
+#: settings/flags.php:146
+msgid "Lithuania"
+msgstr "Λιθουανία"
+
+#: settings/flags.php:141
+msgid "Saint Lucia"
+msgstr "Αγία Λουκία"
+
+#: settings/flags.php:142
+msgid "Liechtenstein"
+msgstr "Λιχτενστάιν"
+
+#: settings/flags.php:143
+msgid "Sri Lanka"
+msgstr "Σρι Λάνκα"
+
+#: settings/flags.php:138
+msgid "Kazakhstan"
+msgstr "Καζακστάν"
+
+#: settings/flags.php:139
+msgid "Laos"
+msgstr "Λάος"
+
+#: settings/flags.php:140
+msgid "Lebanon"
+msgstr "Λίβανος"
+
+#: settings/flags.php:135
+msgid "Kurdistan"
+msgstr "Κουρδιστάν"
+
+#: settings/flags.php:136
+msgid "Kuwait"
+msgstr "Κουβέιτ"
+
+#: settings/flags.php:137
+msgid "Cayman Islands"
+msgstr "Νησιά Καϊμάν"
+
+#: settings/flags.php:132
+msgid "Saint Kitts and Nevis"
+msgstr "Άγιος Χριστόφορος και Νέβις"
+
+#: settings/flags.php:133
+msgid "North Korea"
+msgstr "Βόρεια Κορέα"
+
+#: settings/flags.php:134
+msgid "South Korea"
+msgstr "Νότια Κορέα"
+
+#: settings/flags.php:129
+msgid "Cambodia"
+msgstr "Καμπότζη"
+
+#: settings/flags.php:130
+msgid "Kiribati"
+msgstr "Κιριμπάτι"
+
+#: settings/flags.php:131
+msgid "Comoros"
+msgstr "Κομόρες"
+
+#: settings/flags.php:125
+msgid "Jordan"
+msgstr "Ιορδανία"
+
+#: settings/flags.php:126
+msgid "Japan"
+msgstr "Ιαπωνία"
+
+#: settings/flags.php:127
+msgid "Kenya"
+msgstr "Κένυα"
+
+#: settings/flags.php:128
+msgid "Kyrgyzstan"
+msgstr "Κιργιστάν"
+
+#: settings/flags.php:124
+msgid "Jamaica"
+msgstr "Ιαμαϊκή"
+
+#: settings/flags.php:120
+msgid "Iraq"
+msgstr "Ιράκ"
+
+#: settings/flags.php:121
+msgid "Iran"
+msgstr "Ιράν"
+
+#: settings/flags.php:122
+msgid "Iceland"
+msgstr "Ισλανδία"
+
+#: settings/flags.php:123
+msgid "Italy"
+msgstr "Ιταλία"
+
+#: settings/flags.php:117
+msgid "Israel"
+msgstr "Ισραήλ"
+
+#: settings/flags.php:118
+msgid "India"
+msgstr "Ινδία"
+
+#: settings/flags.php:119
+msgid "British Indian Ocean Territory"
+msgstr "Βρετανικά εδάφη του Ινδικού Ωκεανού"
+
+#: settings/flags.php:113
+msgid "Haiti"
+msgstr "Αϊτή"
+
+#: settings/flags.php:114
+msgid "Hungary"
+msgstr "Ουγγαρία"
+
+#: settings/flags.php:115
+msgid "Indonesia"
+msgstr "Ινδονησία"
+
+#: settings/flags.php:116
+msgid "Republic of Ireland"
+msgstr "Ιρλανδία"
+
+#: settings/flags.php:110
+msgid "Heard Island and McDonald Islands"
+msgstr "Νήσοι Χερντ και Μακ Ντόναλντ"
+
+#: settings/flags.php:111
+msgid "Honduras"
+msgstr "Ονδούρα"
+
+#: settings/flags.php:112
+msgid "Croatia"
+msgstr "Κροατία"
+
+#: settings/flags.php:109
+msgid "Hong Kong"
+msgstr "Χόνγκ Κόνγκ"
+
+#: settings/flags.php:107
+msgid "Guinea-Bissau"
+msgstr "Γουινέα-Μπισάου"
+
+#: settings/flags.php:108
+msgid "Guyana"
+msgstr "Γουιάνα"
+
+#: settings/flags.php:106
+msgid "Guam"
+msgstr "Γκουάμ"
+
+#: settings/flags.php:104
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς"
+
+#: settings/flags.php:105
+msgid "Guatemala"
+msgstr "Γουατεμάλα"
+
+#: settings/flags.php:102
+msgid "Equatorial Guinea"
+msgstr "Ισημερινή Γουινέα"
+
+#: settings/flags.php:103
+msgid "Greece"
+msgstr "Ελλάδα"
+
+#: settings/flags.php:99
+msgid "Gambia"
+msgstr "Γκάμπια"
+
+#: settings/flags.php:100
+msgid "Guinea"
+msgstr "Γουινέα"
+
+#: settings/flags.php:101
+msgid "Guadeloupe"
+msgstr "Γουαδελούπη"
+
+#: settings/flags.php:97
+msgid "Gibraltar"
+msgstr "Γιβλαρτάρ"
+
+#: settings/flags.php:98
+msgid "Greenland"
+msgstr "Γροιλανδία"
+
+#: settings/flags.php:95
+msgid "Georgia"
+msgstr "Γεωργία"
+
+#: settings/flags.php:96
+msgid "Ghana"
+msgstr "Γκάνα"
+
+#: settings/flags.php:92
+msgid "Galicia"
+msgstr "Γαλικία"
+
+#: settings/flags.php:93
+msgid "United Kingdom"
+msgstr "Ηνωμένο Βασίλειο"
+
+#: settings/flags.php:94
+msgid "Grenada"
+msgstr "Γρενάδα"
+
+#: settings/flags.php:89
+msgid "Faroe Islands"
+msgstr "Νησιά Φερόε"
+
+#: settings/flags.php:90
+msgid "France"
+msgstr "Γαλλία"
+
+#: settings/flags.php:91
+msgid "Gabon"
+msgstr "Γκαμπόν"
+
+#: settings/flags.php:87
+msgid "Falkland Islands"
+msgstr "Νήσοι Φώκλαντ"
+
+#: settings/flags.php:88
+msgid "Micronesia"
+msgstr "Μικρονησία"
+
+#: settings/flags.php:83
+msgid "Esperanto"
+msgstr "Εσπεράντο"
+
+#: settings/flags.php:84
+msgid "Ethiopia"
+msgstr "Αιθιοπία"
+
+#: settings/flags.php:85
+msgid "Finland"
+msgstr "Φιλανδία"
+
+#: settings/flags.php:86
+msgid "Fiji"
+msgstr "Φίτζι"
+
+#: settings/flags.php:80
+msgid "England"
+msgstr "Αγγλία"
+
+#: settings/flags.php:81
+msgid "Eritrea"
+msgstr "Ερυθραία"
+
+#: settings/flags.php:82
+msgid "Spain"
+msgstr "Ισπανία"
+
+#: settings/flags.php:77
+msgid "Estonia"
+msgstr "Εσθονία"
+
+#: settings/flags.php:78
+msgid "Egypt"
+msgstr "Αίγυπτος"
+
+#: settings/flags.php:79
+msgid "Western Sahara"
+msgstr "Δυτική Σαχάρα"
+
+#: settings/flags.php:74
+msgid "Dominican Republic"
+msgstr "Δομινικανή Δημοκρατία"
+
+#: settings/flags.php:75
+msgid "Algeria"
+msgstr "Αλγερία"
+
+#: settings/flags.php:76
+msgid "Ecuador"
+msgstr "Ισημερινός"
+
+#: settings/flags.php:73
+msgid "Dominica"
+msgstr "Ντομίνικα"
+
+#: settings/flags.php:72
+msgid "Denmark"
+msgstr "Δανία"
+
+#: settings/flags.php:70
+msgid "Germany"
+msgstr "Γερμανία"
+
+#: settings/flags.php:71
+msgid "Djibouti"
+msgstr "Τζιμπουτί"
+
+#: settings/flags.php:67
+msgid "Christmas Island"
+msgstr "Νήσος των Χριστουγέννων"
+
+#: settings/flags.php:68
+msgid "Cyprus"
+msgstr "Κύπρος"
+
+#: settings/flags.php:69
+msgid "Czech Republic"
+msgstr "Τσεχία"
+
+#: settings/flags.php:65
+msgid "Cuba"
+msgstr "Κούβα"
+
+#: settings/flags.php:66
+msgid "Cape Verde"
+msgstr "Πράσινο Ακρωτήριο"
+
+#: settings/flags.php:62
+msgid "China"
+msgstr "Κίνα"
+
+#: settings/flags.php:63
+msgid "Colombia"
+msgstr "Κολομβία"
+
+#: settings/flags.php:64
+msgid "Costa Rica"
+msgstr "Κόστα Ρίκα"
+
+#: settings/flags.php:60
+msgid "Chile"
+msgstr "Χιλή"
+
+#: settings/flags.php:61
+msgid "Cameroon"
+msgstr "Καμερούν"
+
+#: settings/flags.php:58
+msgid "Ivory Coast"
+msgstr "Ακτή Ελεφαντοστού"
+
+#: settings/flags.php:59
+msgid "Cook Islands"
+msgstr "Νήσοι Κουκ"
+
+#: settings/flags.php:55
+msgid "Central African Republic"
+msgstr "Κεντροαφρικανική Δημοκρατία"
+
+#: settings/flags.php:56
+msgid "Congo"
+msgstr "Κονγκό"
+
+#: settings/flags.php:57
+msgid "Switzerland"
+msgstr "Ελβετία"
+
+#: settings/flags.php:54
+msgid "Democratic Republic of the Congo"
+msgstr "Λαϊκή Δημοκρατία του Κονγκό"
+
+#: settings/flags.php:51
+msgid "Canada"
+msgstr "Καναδάς"
+
+#: settings/flags.php:52
+msgid "Catalonia"
+msgstr "Καταλονία"
+
+#: settings/flags.php:53
+msgid "Cocos"
+msgstr "Κόκος"
+
+#: settings/flags.php:49
+msgid "Belarus"
+msgstr "Λευκορωσία"
+
+#: settings/flags.php:50
+msgid "Belize"
+msgstr "Μπελίσε"
+
+#: settings/flags.php:46
+msgid "Bahamas"
+msgstr "Μπαχάμες"
+
+#: settings/flags.php:47
+msgid "Bhutan"
+msgstr "Μπουτάν"
+
+#: settings/flags.php:48
+msgid "Botswana"
+msgstr "Μποτσουάνα"
+
+#: settings/flags.php:44
+msgid "Bolivia"
+msgstr "Βολιβία"
+
+#: settings/flags.php:45
+msgid "Brazil"
+msgstr "Βραζιλία"
+
+#: settings/flags.php:43
+msgid "Brunei"
+msgstr "Μπρουνέι"
+
+#: settings/flags.php:42
+msgid "Bermuda"
+msgstr "Βερμούδα"
+
+#: settings/flags.php:40
+msgid "Burundi"
+msgstr "Μπουρούντι"
+
+#: settings/flags.php:41
+msgid "Benin"
+msgstr "Μπενίν"
+
+#: settings/flags.php:37
+msgid "Burkina Faso"
+msgstr "Μπουρκίνα Φάσο"
+
+#: settings/flags.php:38
+msgid "Bulgaria"
+msgstr "Βουλγαρία"
+
+#: settings/flags.php:39
+msgid "Bahrain"
+msgstr "Μπαχρέιν"
+
+#: settings/flags.php:35
+msgid "Bangladesh"
+msgstr "Μπανγκλαντές"
+
+#: settings/flags.php:36
+msgid "Belgium"
+msgstr "Βέλγιο"
+
+#: settings/flags.php:34
+msgid "Barbados"
+msgstr "Μπαρμπάντος"
+
+#: settings/flags.php:30
+msgid "Åland Islands"
+msgstr "Νήσοι Ώλαντ"
+
+#: settings/flags.php:31
+msgid "Azerbaijan"
+msgstr "Αζερμπαϊτζάν"
+
+#: settings/flags.php:32
+msgid "Bosnia and Herzegovina"
+msgstr "Βοσνία-Ερζεγοβίνη"
+
+#: settings/flags.php:33
+msgid "Basque Country"
+msgstr "Χώρα των Βάσκων"
+
+#: settings/flags.php:29
+msgid "Aruba"
+msgstr "Αρούμπα"
+
+#: settings/flags.php:28
+msgid "Australia"
+msgstr "Αυστραλία"
+
+#: settings/flags.php:25
+msgid "Arab league"
+msgstr "Αραβικός Σύνδεσμος"
+
+#: settings/flags.php:26
+msgid "American Samoa"
+msgstr "Αμερικανικοί Νήσοι Σαμόα"
+
+#: settings/flags.php:27
+msgid "Austria"
+msgstr "Αυστρία"
+
+#: settings/flags.php:22
+msgid "Netherlands Antilles"
+msgstr "Ολλανδικές Αντίλλες"
+
+#: settings/flags.php:23
+msgid "Angola"
+msgstr "Ανγκόλα"
+
+#: settings/flags.php:24
+msgid "Argentina"
+msgstr "Αργεντινή"
+
+#: settings/flags.php:20
+msgid "Albania"
+msgstr "Αλβανία"
+
+#: settings/flags.php:21
+msgid "Armenia"
+msgstr "Αρμενία"
+
+#: settings/flags.php:17
+msgid "Afghanistan"
+msgstr "Αφγανιστάν"
+
+#: settings/flags.php:18
+msgid "Antigua and Barbuda"
+msgstr "Αντίγκουα και Μπαρμπούντα"
+
+#: settings/flags.php:19
+msgid "Anguilla"
+msgstr "Ανγκουίλλα"
+
+#: settings/flags.php:16
+msgid "United Arab Emirates"
+msgstr "Ηνωμένα Αραβικά Εμιράτα"
+
+#: modules/wpml/settings-wpml.php:19
+msgid "WPML Compatibility"
+msgstr "Συμβατότητα με WPML"
+
+#: modules/wpml/settings-wpml.php:20
+msgid "WPML compatibility mode of Polylang"
+msgstr "Λειτουργία συμβατότητας Polylang με WPML"
+
+#: settings/flags.php:15
+msgid "Andorra"
+msgstr "Ανδόρα"
+
+#: admin/admin-static-pages.php:45
+msgid "Posts Page"
+msgstr "Σελίδα Άρθρων"
+
+#: admin/view-translations-post.php:45 admin/view-translations-term.php:63
+msgid "Translation"
+msgstr "Μετάφραση"
+
+#: admin/admin-static-pages.php:41
+msgid "Front Page"
+msgstr "Αρχική Σελίδα"
+
+#. translators: %s is a native language name
+#: admin/admin-filters-columns.php:135 admin/admin-filters-columns.php:246
+msgid "Edit this item in %s"
+msgstr "Επεξεργασία επιλεγμένου στοιχείου σε %s"
+
+#. translators: %s is a native language name
+#: admin/admin-filters-columns.php:139 admin/admin-filters-columns.php:250
+#: admin/admin-links.php:82 admin/admin-links.php:152
+msgid "Edit the translation in %s"
+msgstr "Επεξεργασία επιλεγμένης μετάφρασης σε %s"
+
+#. translators: %s is a native language name
+#: admin/admin-filters-columns.php:149 admin/admin-filters-columns.php:260
+msgid "This item is in %s"
+msgstr "Αυτό το στοιχείο βρίσκεται σε %s"
+
+#. translators: %s is a native language name
+#: admin/admin-links.php:63 admin/admin-links.php:131
+msgid "Add a translation in %s"
+msgstr "Προσθήκη μετάφρασης σε %s"
+
+#: admin/admin-model.php:268
+msgid "The flag does not exist"
+msgstr "Αδυναμία εύρεσης σημαίας"
+
+#: admin/admin-nav-menu.php:87
+msgid "Add to Menu"
+msgstr "Προσθήκη στο Μενού"
+
+#: lingotek/lingotek.php:92 settings/settings-module.php:60
+msgid "Activated"
+msgstr "Ενεργοποιημένο"
+
+#: lingotek/lingotek.php:92 settings/settings-module.php:57
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: lingotek/lingotek.php:97
+msgid "Request Translation"
+msgstr "Ζήτα Μετάφραση"
+
+#: lingotek/lingotek.php:103
+msgid "Request Services"
+msgstr "Αίτηση Υπηρεσιών"
+
+#: lingotek/lingotek.php:110
+msgid "Polylang is now fully integrated with Lingotek, a professional translation management system!"
+msgstr "Το Polylang είναι πλέον πλήρως ενωποιημένο με το Lingotek, ένα επαγγελματικό σύστημα διαχείρισης  μεταφράσεων!"
+
+#: lingotek/lingotek.php:113
+msgid "Automatically Translate My Site"
+msgstr "Μετέφρασε αυτόματα τον ιστότοπο μου."
+
+#: lingotek/lingotek.php:114
+msgid "Polylang is now fully integrated with Lingotek!"
+msgstr "Το Polylang είναι πλέον πλήρως ενωποιημένο με το Lingotek!"
+
+#: lingotek/lingotek.php:116 lingotek/lingotek.php:127
+msgid "Access free machine translation for your site for up to 100,000 characters."
+msgstr "Απόκτησε πρόσβαση σε δωρεάν αυτόματες μεταφράσεις για τον ιστότοπο σου μέχρι 100.000 χαρακτήρες."
+
+#: lingotek/lingotek.php:117
+msgid "Machine translation is an excellent option if you're on a tight budget, looking for near-instant results, and are okay with less-than-perfect quality."
+msgstr "Οι Αυτόματες Μεταφράσεις είναι μία τέλεια επιλογή έαν έχετε περιορισμένο προϋπολογισμό, έαν αναζητάτε σχεδόν άμεσα αποτελέσματα, και έαν είστε ικανοποιημένοι με ποιότητα λίγο-κάτω-από-το-τέλειο."
+
+#: lingotek/lingotek.php:124
+msgid "Translation Management System"
+msgstr "Σύστημα Διαχείρισης Μεταφράσεων"
+
+#: lingotek/lingotek.php:125
+msgid "Do you need to connect to a professional translation management system?"
+msgstr "Μήπως χρειάζεται να συνδεθείτε σε ένα επαγγελματικό σύστημα διαχείρισης για την μετάφραση;"
+
+#: lingotek/lingotek.php:128
+msgid "Access an online translator workbench."
+msgstr "Αποκτήστε πρόσβαση σε ένα online σύστημα μετάφρασης."
+
+#: lingotek/lingotek.php:129
+msgid "Have linguists compare side-by-side versions of original and translated text."
+msgstr "Αποκτήστε πρόσβαση σε μεταφραστές-γλωσσολόγους για σύγκριση πλάι-πλάι του πρωτότυπου και του μεταφρασμένου κειμένου."
+
+#: lingotek/lingotek.php:130
+msgid "Save and re-use previously translated material (leverage translation memory (TM))."
+msgstr "Αποθηκέυστε και επαναχρησιμοποιήστε προηγούμενα μεταφρασμένο υλικό (leverage translation memory (TM))."
+
+#: lingotek/lingotek.php:137
+msgid "Professionally Translate My Site"
+msgstr "Επαγγελματική μετάφραση του ιστοτόπου μου."
+
+#: lingotek/lingotek.php:138
+msgid "Do you need to professionally translate your site?"
+msgstr "Χρειάζεστε να μεταφράσετε επαγγελματικά τον ιστότοπο σας?"
+
+#: lingotek/lingotek.php:140
+msgid "Start the process of getting a professional translation bid."
+msgstr "Ξεκινήστε την διαδικασία για να πάρετε προσφορά επαγγελματικής μετάφρασης."
+
+#: lingotek/lingotek.php:141
+msgid "Activate account so Lingotek can get an accurate count of how many words you have on your site and which languages you wish to translate into."
+msgstr "Ενεργοποιήστε το λογαριασμό  Lingotek για να πάρετε μια ακριβή καταμέτρηση του πόσες λέξεις που έχετε στο site σας και ποιες γλώσσες θέλετε να μεταφραστεί σε αυτό."
+
+#: lingotek/lingotek.php:142
+msgid "Once activated click on the request translation bid and a certified translation project manager will contact you to give a no obligations translation bid."
+msgstr "Όταν ενεργοποιηθεί, κάντε κλίκ στο Ζήτηση Πρσοφοράς Μετάφρασης και ένα πιστοποιημένος μεταφραστής θα επικοινωνήσει μαζί σας για να σας δώσει μία μη δεσμευτική προσφορά μετάφρασης."
+
+#: lingotek/lingotek.php:149
+msgid "Need Extra Services?"
+msgstr "Χρειάζεστε επιπλέον υπηρεσίες;"
+
+#: lingotek/lingotek.php:150
+msgid "Do you need help translating your site?"
+msgstr "Χρειάζεστε βοήθεια για να μεταφράσετε τον ιστότοπο σας?"
+
+#: lingotek/lingotek.php:152
+msgid "Start the process of getting extra services."
+msgstr "Ξεκινήστε την διαδικασία για να λάβετε επιπλέον υπηρεσίες."
+
+#: lingotek/lingotek.php:153
+msgid "Do you need someone to run your localization project?"
+msgstr "Χρειάζεστε κάποιον για να τρέξει το έργο σας για προσαρμογή του ιστοτόπου σας για διάφορες χώρες?"
+
+#: lingotek/lingotek.php:154
+msgid "Do you need customized workflows?"
+msgstr "Χρειάζεστε προσαρμοσμένες ροές εργασιών;"
+
+#: lingotek/lingotek.php:155
+msgid "Do you have existing Translation Memories you would like to use?"
+msgstr "Έχετε υπάρχουσες Μεταφράσεις που θα θέλατε να χρησιμοποιήσετε?"
+
+#: lingotek/lingotek.php:156
+msgid "Do you need help creating glossaries and terminologies?"
+msgstr "Χρειάζεστε βοήθεια για να δημιουργήσετε γλωσσάριο και ορολογίες?"
+
+#: lingotek/lingotek.php:262
+msgid "Learn more..."
+msgstr "Μάθετε περισσότερα..."
+
+#. Plugin Name of the plugin/theme
+msgid "Polylang"
+msgstr "Polylang"
+
+#. Plugin URI of the plugin/theme
+msgid "http://polylang.wordpress.com/"
+msgstr "http://polylang.wordpress.com/"
+
+#. Description of the plugin/theme
+msgid "Adds multilingual capability to WordPress"
+msgstr "Προσθέτει πολυγλωσσική δυνατότητα στο WordPress"
+
+#. Author of the plugin/theme
+msgid "Frédéric Demarle"
+msgstr "Frédéric Demarle"
+
+#. Author URI of the plugin/theme
+msgid "http://polylang.wordpress.com"
+msgstr "http://polylang.wordpress.com"
+
+#: admin/admin-filters-columns.php:173
+msgid "&mdash; No Change &mdash;"
+msgstr "&mdash; Χωρίς Αλλαγή &mdash;"
+
+#: admin/admin-filters-columns.php:187 admin/admin-filters-media.php:54
+#: admin/admin-filters-post.php:167 admin/admin-filters-term.php:86
+#: admin/admin-filters-term.php:140 include/translated-post.php:87
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: admin/admin-base.php:70 admin/admin-filters-post.php:139
+#: include/translated-post.php:86 settings/settings.php:74
+#: settings/settings.php:106 settings/settings.php:147
+#: settings/view-languages.php:11
+msgid "Languages"
+msgstr "Γλώσσες"
+
+#: admin/admin-filters-post.php:252
+msgid "(no parent)"
+msgstr "(χωρίς γονέα)"
+
+#: settings/table-languages.php:173
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: admin/admin-filters-term.php:93 admin/admin-filters-term.php:148
+msgid "Sets the language"
+msgstr "Ορισμός γλώσσας"
+
+#: admin/admin-filters-term.php:472
+msgid "None"
+msgstr "Όχι"
+
+#: admin/admin-filters.php:49
+msgid "The widget is displayed for:"
+msgstr "Η μικροεφαρμογή εμφανίζεται για:"
+
+#: admin/admin-filters.php:52 include/translated-post.php:88
+msgid "All languages"
+msgstr "Όλες οι γλώσσες"
+
+#: admin/admin-filters.php:122
+msgid "Admin language"
+msgstr "Γλώσσα διαχείρισης"
+
+#: admin/admin-filters.php:125
+msgid "WordPress default"
+msgstr "Προκαθορισμένο στο WordPress"
+
+#: admin/admin-filters.php:160
+msgid "Upgrading language files&#8230;"
+msgstr "Αναβάθμιση αρχείων γλώσσας&#8230;"
+
+#: admin/admin-static-pages.php:83
+msgid "The chosen static front page must be translated in all languages."
+msgstr "Η επιλεγμένη στατική πρώτη σελίδα πρέπει να μεταφραστεί σε όλες τις γλώσσες"
+
+#: admin/admin-model.php:39
+msgid "Impossible to add the language."
+msgstr "Αδυναμία προσθήκης γλώσσας."
+
+#: admin/admin-model.php:69
+msgid "Language added."
+msgstr "Η γλώσσα προστέθηκε"
+
+#: admin/admin-model.php:149
+msgid "Language deleted."
+msgstr "Η γλώσσα διαγράφηκε."
+
+#: admin/admin-model.php:230
+msgid "Language updated."
+msgstr "Η γλώσσα ενημερώθηκε."
+
+#: admin/admin-model.php:247
+msgid "Enter a valid WordPress locale"
+msgstr "Εισάγετε μια έγκυρη τοπικοποίηση WordPress"
+
+#: admin/admin-model.php:252
+msgid "The language code contains invalid characters"
+msgstr "Το όνομα του κώδικα γλώσσας περιέχει μη έγκυρους χαρακτήρες."
+
+#: admin/admin-model.php:257
+msgid "The language code must be unique"
+msgstr "Ο κώδικας γλώσσας θα πρέπει να είναι μοναδικός"
+
+#: admin/admin-model.php:263
+msgid "The language must have a name"
+msgstr "Η γλώσσα πρέπει να έχει όνομα"
+
+#: admin/admin-nav-menu.php:56 admin/admin-nav-menu.php:77
+#: admin/admin-nav-menu.php:80 admin/admin-nav-menu.php:113
+#: admin/admin-nav-menu.php:179 install/upgrade.php:320
+msgid "Language switcher"
+msgstr "Επιλογέας γλώσσας"
+
+#: admin/admin-strings.php:55
+msgid "Site Title"
+msgstr "Τίτλος Ιστοτόπου"
+
+#: admin/admin-strings.php:56
+msgid "Tagline"
+msgstr "Tagline"
+
+#: admin/admin-strings.php:57
+msgid "Date Format"
+msgstr "Μορφή Ημερομηνίας"
+
+#: admin/admin-strings.php:58
+msgid "Time Format"
+msgstr "Μορφή Ώρας"
+
+#: admin/admin-strings.php:60
+msgid "Widget title"
+msgstr "Τίτλος της μικροεφαρμογής"
+
+#: admin/admin-strings.php:61
+msgid "Widget text"
+msgstr "Κείμενο μικροεφαρμογής"
+
+#: admin/admin.php:71 settings/settings-module.php:43 settings/settings.php:152
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/admin-base.php:246
+msgid "Show all languages"
+msgstr "Εμφάνιση όλων των γλωσσών"
+
+#: admin/admin-base.php:255
+msgid "Filters content by language"
+msgstr "Φιλτράρισμα περιεχομένου βάση γλώσσας"
+
+#: settings/settings.php:228
+msgid "The language was created, but the WordPress language file was not downloaded. Please install it manually."
+msgstr "Η γλώσσα δημιουργήθηκε αλλά το αρχείο γλώσσας του WordPress δεν έχει κατέβει. Παρακαλώ εγκαταστήστε το εσείς."
+
+#: settings/settings.php:98
+msgid "About Polylang"
+msgstr "Σχετικά με το Polylang"
+
+#: include/mo.php:17 settings/settings.php:116 settings/settings.php:151
+msgid "Strings translations"
+msgstr "Μετάφραση συμβολοσειρών"
+
+#: settings/settings.php:315
+msgid "Translations updated."
+msgstr "Η μεταφράσεις ενημερώθηκαν."
+
+#: settings/settings-module.php:176
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν!"
+
+#: modules/sync/settings-sync.php:84
+msgid "Taxonomies"
+msgstr "Ταξινομήσεις"
+
+#: modules/sync/settings-sync.php:85
+msgid "Custom fields"
+msgstr "Προσαρμοσμένα πεδία"
+
+#: modules/sync/settings-sync.php:86
+msgid "Comment status"
+msgstr "Κατάσταση σχολίου"
+
+#: modules/sync/settings-sync.php:87
+msgid "Ping status"
+msgstr "Κατάσταση ping"
+
+#: modules/sync/settings-sync.php:88
+msgid "Sticky posts"
+msgstr "Μόνιμα άρθρα"
+
+#: modules/sync/settings-sync.php:89
+msgid "Published date"
+msgstr "Ημερομηνία δημοσίευσης"
+
+#: modules/sync/settings-sync.php:90
+msgid "Post format"
+msgstr "Μορφή άρθρου"
+
+#: modules/sync/settings-sync.php:91
+msgid "Page parent"
+msgstr "Μητρική σελίδα"
+
+#: modules/sync/settings-sync.php:92
+msgid "Page template"
+msgstr "Πρότυπο σελίδας"
+
+#: modules/sync/settings-sync.php:93
+msgid "Page order"
+msgstr "Διάταξη σελίδων"
+
+#: modules/sync/settings-sync.php:94
+msgid "Featured image"
+msgstr "Επιλεγμένη εικόνα"
+
+#: settings/table-languages.php:179
+msgid "You are about to permanently delete this language. Are you sure?"
+msgstr "Πρόκειται να διαγράψετε οριστικά αυτή τη γλώσσα. Είστε σίγουροι για αυτό;"
+
+#: settings/table-languages.php:180 settings/table-string.php:180
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: settings/table-languages.php:126 settings/view-tab-lang.php:60
+msgid "Full name"
+msgstr "Πλήρες όνομα"
+
+#: settings/table-languages.php:127 settings/view-tab-lang.php:69
+msgid "Locale"
+msgstr "Τοπικοποίηση"
+
+#: settings/table-languages.php:128
+msgid "Code"
+msgstr "Κώδικας"
+
+#: settings/table-languages.php:130 settings/view-tab-lang.php:119
+msgid "Order"
+msgstr "Εντολή"
+
+#: settings/table-languages.php:131 settings/view-tab-lang.php:102
+msgid "Flag"
+msgstr "Σημαία"
+
+#: settings/table-languages.php:132
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: settings/table-string.php:111
+msgid "String"
+msgstr "Συμβολοσειρά"
+
+#: settings/table-string.php:112
+msgid "Name"
+msgstr "Όνομα"
+
+#: settings/table-string.php:113
+msgid "Group"
+msgstr "Ομάδα"
+
+#: admin/view-translations-media.php:12 admin/view-translations-post.php:11
+#: admin/view-translations-term.php:13 admin/view-translations-term.php:18
+#: settings/table-string.php:114
+msgid "Translations"
+msgstr "Μεταφράσεις"
+
+#: settings/table-string.php:213
+msgid "View all groups"
+msgstr "Προβολή όλων των ομάδων"
+
+#: settings/table-string.php:226
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#. translators: %s are html tags
+#: settings/view-about.php:13
+msgid "Polylang is provided with an extensive %sdocumentation%s (in English only). It includes information on how to set up your multilingual site and use it on a daily basis, a FAQ, as well as a documentation for programmers to adapt their plugins and themes."
+msgstr "Το Polylang παρέχει εκτενή %sτεκμηρίωση%s (μόνο στα Αγγλικά). Περιέχει πληροφορίες πως να ρυθμίσετε τον πολυγλωσσικό σας ιστοτόπο και να τον χρησιμοποιήσετε σε καθημερινή βάση, λίστα συχνών ερωτήσεων (FAQ), καθώς και τεκμηρίωση για προγραμματιστές για προσαρμογή των προσθέτων και θεμάτων τους."
+
+#: settings/view-about.php:19
+msgid "You will also find useful information in the %ssupport forum%s. However don't forget to make a search before posting a new topic."
+msgstr "Θα βρείτε επίσης χρήσιμες πληροφορίες στο %sφόρουμ%s υποστήριξης. Μην παραλείψετε να ψάξετε πρώτα αν έχει απαντηθεί το ερώτημα σας πριν ανοίξετε καινούργιο θέμα."
+
+#. translators: %s are html tags
+#: settings/view-about.php:27
+msgid "Polylang is free of charge and is released under the same license as WordPress, the %sGPL%s."
+msgstr "Το Polylang είναι δωρεάν και διανέμεται κάτω από την ίδια άδεια χρήσης όπως και το WordPress, την %sΓενική Άδεια Χρήσης - GPL%s."
+
+#. translators: %s are html tags
+#: settings/view-about.php:34
+msgid "If you wonder how you can help the project, just %sread this%s."
+msgstr "Αν θέλετε να βοηθήσετε, απλά, %sδιαβάστε εδώ%s."
+
+#: settings/view-about.php:39
+msgid "Finally if you like this plugin or if it helps your business, donations to the author are greatly appreciated."
+msgstr "Τέλος αν σας αρέσει αυτό το πρόσθετο ή αν σας βοηθά στην επιχείρηση σας, οι δωρεές στο δημιουργό θα εκτιμηθούν ιδιαίτερα. "
+
+#: settings/view-tab-lang.php:26
+msgid "Edit language"
+msgstr "Επεξεργασία γλώσσας"
+
+#: settings/view-tab-lang.php:26 settings/view-tab-lang.php:133
+msgid "Add new language"
+msgstr "Προσθήκη νέας γλώσσας"
+
+#: settings/view-tab-lang.php:41
+msgid "Choose a language"
+msgstr "Επιλογή γλώσσας"
+
+#: settings/view-tab-lang.php:56
+msgid "You can choose a language in the list or directly edit it below."
+msgstr "Μπορείτε να επιλέξετε μια γλώσσα από την λίστα ή να την επεξεργαστείτε πιο κάτω."
+
+#: settings/view-tab-lang.php:65
+msgid "The name is how it is displayed on your site (for example: English)."
+msgstr "Το όνομα καθορίζει πως θα εμφανίζεται στην σελίδα σας (πχ: Ελληνικά)."
+
+#: settings/view-tab-lang.php:74
+msgid "WordPress Locale for the language (for example: en_US). You will need to install the .mo file for this language."
+msgstr "Τοπικοποίηση WordPress για την γλώσσα (πχ: en_US). Θα χρειαστεί να εγκαταστήσετε το αρχείο .mo για αυτή την γλώσσα."
+
+#: settings/view-tab-lang.php:78
+msgid "Language code"
+msgstr "Κώδικας γλώσσας"
+
+#: settings/view-tab-lang.php:83
+msgid "Language code - preferably 2-letters ISO 639-1  (for example: en)"
+msgstr "Κώδικας γλώσσας - κατά προτίμηση 2 γράμματα ISO 631-1 (για παράδειγμα: el)"
+
+#: settings/view-tab-lang.php:87
+msgid "Text direction"
+msgstr "Κατεύθυνση κειμένου"
+
+#: settings/view-tab-lang.php:91
+msgid "left to right"
+msgstr "αριστερά προς δεξιά"
+
+#: settings/view-tab-lang.php:96
+msgid "right to left"
+msgstr "δεξιά προς αριστερά"
+
+#: settings/view-tab-lang.php:98
+msgid "Choose the text direction for the language"
+msgstr "Επιλογή κατεύθυνσης κειμένου για γλώσσα"
+
+#: settings/view-tab-lang.php:124
+msgid "Position of the language in the language switcher"
+msgstr "Θέση της γλώσσας στον επιλογέα γλώσσας"
+
+#: settings/view-tab-lang.php:133
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: settings/table-languages.php:109 settings/table-languages.php:129
+msgid "Default language"
+msgstr "Προκαθορισμένη γλώσσα"
+
+#: settings/settings-url.php:20
+msgid "URL modifications"
+msgstr "Τροποποιήσεις URL"
+
+#: settings/settings-url.php:39
+msgid "The language is set from content"
+msgstr "Η γλώσσα ορίζεται μέσω περιεχομένου"
+
+#: settings/settings-url.php:42
+msgid "Posts, pages, categories and tags urls are not modified."
+msgstr "Δεν έχουν αλλαχθεί, άρθρα, σελίδες, κατηγορίες ή ετικέτες διευθύνσεων URL"
+
+#: settings/settings-url.php:47
+msgid "The language is set from the directory name in pretty permalinks"
+msgstr "Η γλώσσα ορίζεται από το όνομα καταλόγου σε κομψούς μόνιμους συνδέσμους"
+
+#: settings/settings-url.php:47
+msgid "The language is set from the code in the URL"
+msgstr "Η γλώσσα ορίζεται από τον κώδικα στην διεύθυνση URL"
+
+#: settings/settings-url.php:50 settings/settings-url.php:59
+#: settings/settings-url.php:110 settings/settings-url.php:119
+msgid "Example:"
+msgstr "Παράδειγμα:"
+
+#: settings/settings-url.php:56
+msgid "The language is set from the subdomain name in pretty permalinks"
+msgstr "Η γλώσσα ορίζεται από τον υπο-τομέα σε κομψούς μόνιμους συνδέσμους"
+
+#: settings/settings-url.php:65
+msgid "The language is set from different domains"
+msgstr "Η γλώσσα ορίζεται από διαφορετικούς τομείς"
+
+#: settings/settings-url.php:91
+msgid "Hide URL language information for default language"
+msgstr "Απόκρυψη των πληροφοριών γλώσσας από URL, για την προκαθορισμένη γλώσσα"
+
+#: settings/settings-url.php:107
+msgid "Remove /language/ in pretty permalinks"
+msgstr "Αφαίρεση /language/ από μόνιμους συνδέσμους"
+
+#: settings/settings-url.php:116
+msgid "Keep /language/ in pretty permalinks"
+msgstr "Διατήρηση /language/ σε μόνιμους συνδέσμους"
+
+#: settings/settings-url.php:132
+msgid "The front page url contains the language code instead of the page name or page id"
+msgstr "Ο κώδικας γλώσσας να περιέχεται στη διεύθυνση της αρχικής σελίδας αντί στο όνομα τη ταυτότητα της σελίδας"
+
+#. translators: %s are urls
+#: settings/settings-url.php:141
+msgid "Example: %s instead of %s"
+msgstr "Παράδειγμα: %s αντί %s"
+
+#: settings/settings-browser.php:19
+msgid "Detect browser language"
+msgstr "Αναγνώριση γλώσσας φυλλομετρητή"
+
+#: settings/settings-browser.php:20
+msgid "When the front page is visited, set the language according to the browser preference"
+msgstr "Όταν καλείται η αρχική σελίδα, να καθορίζεται η γλώσσα βάση των προτιμήσεων του φυλλομετρητή"
+
+#: settings/settings-media.php:19
+msgid "Media"
+msgstr "Μέσα"
+
+#: settings/settings-media.php:20
+msgid "Activate languages and translations for media"
+msgstr "Ενεργοποίηση γλωσσών και μεταφράσεων για μέσο"
+
+#: settings/settings-cpt.php:51
+msgid "Custom post types"
+msgstr "Ειδικοί τύποι άρθρων"
+
+#: settings/settings-cpt.php:63
+msgid "Activate languages and translations for custom post types."
+msgstr "Ενεργοποίηση γλωσσών και μεταφράσεων για ειδικούς τύπους άρθρων"
+
+#: settings/settings-cpt.php:67
+msgid "Custom taxonomies"
+msgstr "Ειδικές ταξινομίσεις"
+
+#: settings/settings-cpt.php:79
+msgid "Activate languages and translations for custom taxonomies."
+msgstr "Ενεργοποίηση γλωσσών και μεταφράσεων για ειδικές ταξινομίσεις"
+
+#: modules/sync/settings-sync.php:19
+msgid "Synchronization"
+msgstr "Συγχρονισμός"
+
+#: modules/sync/settings-sync.php:20
+msgid "The synchronization options allow to maintain exact same values (or translations in the case of taxonomies and page parent) of meta content between the translations of a post or page."
+msgstr "Η επιλογές συγχρονισμού επιτρέπουν την διατήρηση των ίδιων ακριβώς τιμών (ή μεταφράσεων στην περίπτωση ταξονομιών και μητρικών σελίδων) μετα- περιεχομένου μεταξύ των μεταφράσεων ενός άρθρου ή μιας σελίδας. "
+
+#: settings/view-tab-strings.php:13
+msgid "Search translations"
+msgstr "Αναζήτηση μεταφράσεων"
+
+#: settings/view-tab-strings.php:16
+msgid "Clean strings translation database"
+msgstr "Καθαρισμός βάσης δεδομένων συμβολοσειρών μετάφρασης"
+
+#: settings/view-tab-strings.php:17
+msgid "Use this to remove unused strings from database, for example after a plugin has been uninstalled."
+msgstr "Χρησιμοποιείστε αυτό για να αφαιρέσετε αχρησιμοποίητες συμβολοσειρές από την βάση δεδομένων, για παράδειγμα μετά την αφαίρεση κάποιου πρόσθετου."
+
+#: frontend/frontend-filters-search.php:83
+#: frontend/frontend-filters-search.php:84
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: include/model.php:328
+msgid "Uncategorized"
+msgstr "Μη κατηγοριοποιημένο"
+
+#: modules/plugins/plugins-compat.php:94
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Εισαγωγή <strong>αναρτήσεις, σελίδες,σχόλια, προσαρμοσμένα πεδία, κατηγορίες και ετικέτες</strong> από το αρχείο εξαγωγής WordPress ."
+
+#: include/switcher.php:22
+msgid "Displays language names"
+msgstr "Εμφάνιση ονομάτων γλώσσας"
+
+#: include/switcher.php:23
+msgid "Displays flags"
+msgstr "Εμφάνιση σημαιών"
+
+#: include/switcher.php:24
+msgid "Forces link to front page"
+msgstr "Υποχρεωτική παραπομπή συνδέσμου στην αρχική σελίδα"
+
+#: include/switcher.php:25
+msgid "Hides the current language"
+msgstr "Απόκρυψη τρέχουσας γλώσσας"
+
+#: include/switcher.php:26
+msgid "Hides languages with no translation"
+msgstr "Απόκρυψη γλωσσών χωρίς μετάφραση"
+
+#: include/switcher.php:30
+msgid "Displays as dropdown"
+msgstr "Εμφάνιση σαν κυλιόμενο μενού"
+
+#. translators: Calendar caption: 1: month name, 2: 4-digit year
+#: include/widget-calendar.php:130
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: include/widget-languages.php:16
+msgid "Language Switcher"
+msgstr "Επιλογέας γλώσσας"
+
+#: include/widget-languages.php:16
+msgid "Displays a language switcher"
+msgstr "Εμφάνιση επιλογέα γλώσσας"
+
+#: include/widget-languages.php:77
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: include/widget-recent-comments.php:47
+msgid "Recent Comments"
+msgstr "Πρόσφατα Σχόλια"
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: include/widget-recent-comments.php:85
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s σε %2$s"
+
+#: include/widget-recent-posts.php:47
+msgid "Recent Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#. translators: %s are WordPress version numbers
+#: install/install.php:25
+msgid "You are using WordPress %s. Polylang requires at least WordPress %s."
+msgstr "Χρησιμοποιείτε WordPress %s. Το Polylang χρειάζεται τουλάχιστον WordPress %s."
+
+#: install/upgrade.php:74
+msgid "Polylang has been deactivated because you upgraded from a too old version."
+msgstr "Το Polylang έχει απενεργοποιηθεί γιατί αναβαθμίσατε από πολύ παλιά έκδοση."
+
+#. translators: %s are Polylang version numbers
+#: install/upgrade.php:77
+msgid "Please upgrade first to %s before ugrading to %s."
+msgstr "Παρακαλώ αναβαθμίστε πρώτα σε %s πριν αναβαθμίσετε σε %s"
+
+#: lingotek/lingotek.php:32
+msgid "You’ve just upgraded to the latest version of Polylang! Would you like to automatically translate your website for free?"
+msgstr "Μόλις έγινε αναβάθμιση στην τελευταία έκδοση του Polylang! Επιθυμείτε να μεταφράσετε αυτόματα τον ιστότοπο σας δωρεάν?"
+
+#: lingotek/lingotek.php:36
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: lingotek/lingotek.php:39
+msgid "Learn more"
+msgstr "Μάθετε περισσότερα"
+
+#: lingotek/lingotek.php:45
+msgid "Click on Activate Lingotek to start translating."
+msgstr "Κάνετε κλίκ στο Ενεργοποίηση Lingotek για να ξεκινήση η μετάφραση."
+
+#: lingotek/lingotek.php:48
+msgid "Activate Lingotek"
+msgstr "Ενεργοποίηση Lingotek"
+
+#: lingotek/lingotek.php:61
+msgid "Congratulations!"
+msgstr "Συγχαρητήρια!"

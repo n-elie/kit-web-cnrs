@@ -1,0 +1,161 @@
+# Translation of Stable (latest release) in Polish
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-20 07:28:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/PodsInit.php:952
+msgid "Uploaded to this %s"
+msgstr "Wgrane do %s"
+
+#: classes/PodsInit.php:970
+msgid "No %s"
+msgstr "Nie %s"
+
+#: classes/PodsInit.php:950
+msgid "%s Archives"
+msgstr "Archiwa: %s"
+
+#: classes/PodsInit.php:951
+msgid "Insert into %s"
+msgstr "Wstaw do %s"
+
+#: classes/PodsInit.php:949 ui/admin/setup-edit.php:394
+msgid "Use as featured image"
+msgstr "Użyj jako wyróżnionego zdjęcia"
+
+#: classes/PodsInit.php:947 ui/admin/setup-edit.php:386
+msgid "Set featured image"
+msgstr "Ustaw obraz"
+
+#: classes/PodsInit.php:948 ui/admin/setup-edit.php:390
+msgid "Remove featured image"
+msgstr "Usuń obraz"
+
+#: classes/PodsAdmin.php:2748
+msgid "Depth"
+msgstr "Głębokosć"
+
+#: classes/PodsAdmin.php:2741
+msgid "Full"
+msgstr "Pełen obraz"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:148
+#: ui/admin/upgrade/upgrade_2_0_0.php:264
+msgid "Content"
+msgstr "Zawartość"
+
+#: ui/admin/setup-edit.php:497
+msgid "Author"
+msgstr "Autor"
+
+#: ui/admin/setup-edit-field-fluid.php:100
+msgid "Options"
+msgstr "Opcje"
+
+#: ui/admin/setup-edit.php:487 ui/admin/widgets/field.php:15
+#: ui/admin/widgets/form.php:15 ui/admin/widgets/list.php:17
+#: ui/admin/widgets/single.php:17 ui/admin/widgets/view.php:15
+msgid "Title"
+msgstr "Tytuł"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:174
+msgid "Taxonomy Template"
+msgstr "Szablon taksonomii"
+
+#: components/Roles/ui/edit.php:47 ui/admin/form-settings.php:79
+#: ui/admin/form.php:120
+msgid "Save"
+msgstr "Zapisz"
+
+#: classes/widgets/PodsWidgetForm.php:43 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:70
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:41
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:133
+msgid "Submit"
+msgstr "Wyślij"
+
+#: classes/fields/pick.php:478 components/Roles/Roles.php:94
+#: ui/admin/setup-add.php:241
+msgid "Users"
+msgstr "Użytkownicy"
+
+#: classes/PodsUI.php:2560 classes/PodsUI.php:2899 classes/PodsUI.php:3086
+#: classes/fields/boolean.php:64 classes/fields/boolean.php:243
+#: classes/fields/boolean.php:267
+msgid "Yes"
+msgstr "Tak"
+
+#: classes/PodsUI.php:2561 classes/PodsUI.php:2900 classes/PodsUI.php:3087
+#: classes/fields/boolean.php:69 classes/fields/boolean.php:245
+#: classes/fields/boolean.php:268
+msgid "No"
+msgstr "Nie"
+
+#: classes/PodsUI.php:2682 ui/admin/setup-edit-field-fluid.php:190
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: classes/PodsAdmin.php:2117
+msgid "Integration"
+msgstr "Integracje"
+
+#: classes/PodsAdmin.php:2094 ui/admin/setup-edit-field-fluid.php:70
+msgid "Description"
+msgstr "Opis"
+
+#: classes/PodsInit.php:940 classes/PodsInit.php:960
+msgid "All %s"
+msgstr "Wszystko %s"
+
+#: classes/PodsAdmin.php:444 classes/PodsAdmin.php:467
+#: ui/admin/components-admin.php:10 ui/admin/upgrade/upgrade_2_0_0.php:221
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: classes/PodsAdmin.php:743 classes/PodsAdmin.php:2078
+#: classes/PodsAdmin.php:2743 classes/PodsUI.php:958
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:50
+#: ui/admin/setup-edit-field-fluid.php:66
+msgid "Name"
+msgstr "Nazwa"
+
+#: classes/PodsAdmin.php:1520 classes/PodsUI.php:929 classes/PodsUI.php:3529
+#: ui/admin/setup-edit-field-fluid.php:20 ui/admin/setup-edit-field.php:70
+msgid "Duplicate"
+msgstr "Duplikuj"
+
+#: classes/Pods.php:3208 classes/PodsUI.php:932 classes/PodsUI.php:2598
+#: classes/PodsUI.php:2823
+msgid "Search"
+msgstr "Szukaj"
+
+#: classes/PodsAdmin.php:245 classes/PodsAdmin.php:300
+#: classes/PodsAdmin.php:1519 classes/PodsInit.php:936 classes/PodsUI.php:928
+#: classes/PodsUI.php:3520 ui/admin/setup-edit-field-fluid.php:17
+#: ui/admin/setup-edit-field.php:67 ui/admin/setup-edit.php:350
+msgid "Edit"
+msgstr "Edytuj"
+
+#: classes/PodsAdmin.php:247 classes/PodsAdmin.php:267
+#: classes/PodsAdmin.php:268 classes/PodsAdmin.php:302
+#: classes/PodsAdmin.php:316 classes/PodsAdmin.php:434
+#: classes/PodsAdmin.php:1518 classes/PodsInit.php:933 classes/PodsUI.php:927
+#: classes/PodsUI.php:948 ui/admin/setup-edit.php:338
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: classes/Pods.php:3443 classes/PodsAdmin.php:631 classes/PodsForm.php:319
+#: ui/admin/components-admin.php:99
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: classes/PodsAdmin.php:449 classes/PodsAdmin.php:472
+msgid "Help"
+msgstr "Pomoc"

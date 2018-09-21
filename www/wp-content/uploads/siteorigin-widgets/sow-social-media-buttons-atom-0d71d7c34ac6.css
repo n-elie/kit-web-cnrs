@@ -1,0 +1,170 @@
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .social-media-button-container {
+  zoom: 1;
+  text-align: right;
+  /*
+    &:after {
+        content:"";
+        display:inline-block;
+        width:100%;
+    }
+    */
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .social-media-button-container:before {
+  content: '';
+  display: block;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .social-media-button-container:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+@media (max-width: 780) {
+  .so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .social-media-button-container {
+    text-align: left;
+  }
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-facebook {
+  border: 1px solid;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  background: #000000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #000000), color-stop(1, #000000));
+  background: -ms-linear-gradient(bottom, #000000, #000000);
+  background: -moz-linear-gradient(center bottom, #000000 0%, #000000 100%);
+  background: -o-linear-gradient(#000000, #000000);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
+  border-color: #050505 #000000 #000000 #000000;
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-facebook.ow-button-hover:hover {
+  background: #050505;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #050505), color-stop(1, #050505));
+  background: -ms-linear-gradient(bottom, #050505, #050505);
+  background: -moz-linear-gradient(center bottom, #050505 0%, #050505 100%);
+  background: -o-linear-gradient(#050505, #050505);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#050505', endColorstr='#050505', GradientType=0);
+  border-color: #0a0a0a #050505 #000000 #050505;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-facebook:visited,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-facebook:active,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-facebook:hover {
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-facebook.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-twitter {
+  border: 1px solid;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  background: #000000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #000000), color-stop(1, #000000));
+  background: -ms-linear-gradient(bottom, #000000, #000000);
+  background: -moz-linear-gradient(center bottom, #000000 0%, #000000 100%);
+  background: -o-linear-gradient(#000000, #000000);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
+  border-color: #050505 #000000 #000000 #000000;
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-twitter.ow-button-hover:hover {
+  background: #050505;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #050505), color-stop(1, #050505));
+  background: -ms-linear-gradient(bottom, #050505, #050505);
+  background: -moz-linear-gradient(center bottom, #050505 0%, #050505 100%);
+  background: -o-linear-gradient(#050505, #050505);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#050505', endColorstr='#050505', GradientType=0);
+  border-color: #0a0a0a #050505 #000000 #050505;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-twitter:visited,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-twitter:active,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-twitter:hover {
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-twitter.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-instagram {
+  border: 1px solid;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  background: #000000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #000000), color-stop(1, #000000));
+  background: -ms-linear-gradient(bottom, #000000, #000000);
+  background: -moz-linear-gradient(center bottom, #000000 0%, #000000 100%);
+  background: -o-linear-gradient(#000000, #000000);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
+  border-color: #050505 #000000 #000000 #000000;
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-instagram.ow-button-hover:hover {
+  background: #050505;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #050505), color-stop(1, #050505));
+  background: -ms-linear-gradient(bottom, #050505, #050505);
+  background: -moz-linear-gradient(center bottom, #050505 0%, #050505 100%);
+  background: -o-linear-gradient(#050505, #050505);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#050505', endColorstr='#050505', GradientType=0);
+  border-color: #0a0a0a #050505 #000000 #050505;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-instagram:visited,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-instagram:active,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-instagram:hover {
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-instagram.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-vimeo-square {
+  border: 1px solid;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  background: #000000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #000000), color-stop(1, #000000));
+  background: -ms-linear-gradient(bottom, #000000, #000000);
+  background: -moz-linear-gradient(center bottom, #000000 0%, #000000 100%);
+  background: -o-linear-gradient(#000000, #000000);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
+  border-color: #050505 #000000 #000000 #000000;
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-vimeo-square.ow-button-hover:hover {
+  background: #050505;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #050505), color-stop(1, #050505));
+  background: -ms-linear-gradient(bottom, #050505, #050505);
+  background: -moz-linear-gradient(center bottom, #050505 0%, #050505 100%);
+  background: -o-linear-gradient(#050505, #050505);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#050505', endColorstr='#050505', GradientType=0);
+  border-color: #0a0a0a #050505 #000000 #050505;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-vimeo-square:visited,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-vimeo-square:active,
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-vimeo-square:hover {
+  color: #ffffff !important;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button-vimeo-square.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button {
+  font-size: 1em;
+  padding: 1em 1em;
+  margin: 0.1em 0 0.1em 0.1em;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 1em;
+  -webkit-border-radius: 1.5em;
+  -moz-border-radius: 1.5em;
+  border-radius: 1.5em;
+}
+.so-widget-sow-social-media-buttons-atom-0d71d7c34ac6 .sow-social-media-button .sow-icon-fontawesome {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+}

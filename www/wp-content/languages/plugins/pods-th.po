@@ -1,0 +1,275 @@
+# Translation of Stable (latest release) in Thai
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-22 03:51:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/PodsInit.php:952
+msgid "Uploaded to this %s"
+msgstr "ได้อัปโหลดไปยัง %s นี้"
+
+#: classes/PodsInit.php:950
+msgid "%s Archives"
+msgstr "%s คลังเก็บ"
+
+#: classes/PodsInit.php:951
+msgid "Insert into %s"
+msgstr "แทรกไปยัง %s"
+
+#: classes/PodsInit.php:949 ui/admin/setup-edit.php:394
+msgid "Use as featured image"
+msgstr "ใช้เป็นรูปเฉพาะ"
+
+#: classes/PodsInit.php:947 ui/admin/setup-edit.php:386
+msgid "Set featured image"
+msgstr "ตั้งรูปพิเศษ"
+
+#: classes/PodsInit.php:948 ui/admin/setup-edit.php:390
+msgid "Remove featured image"
+msgstr "ลบรูปภาพพิเศษ"
+
+#: classes/PodsAdmin.php:2741
+msgid "Full"
+msgstr "ขยายให้เต็ม"
+
+#: ui/admin/setup-edit.php:487 ui/admin/widgets/field.php:15
+#: ui/admin/widgets/form.php:15 ui/admin/widgets/list.php:17
+#: ui/admin/widgets/single.php:17 ui/admin/widgets/view.php:15
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: ui/admin/setup-edit.php:497
+msgid "Author"
+msgstr "Author"
+
+#: classes/fields/pick.php:2370
+msgid "Washington"
+msgstr "Washington"
+
+#: classes/fields/pick.php:2371
+msgid "West Virginia"
+msgstr "West Virginia"
+
+#: classes/fields/pick.php:2372
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+#: classes/fields/pick.php:2373
+msgid "Wyoming"
+msgstr "Wyoming"
+
+#: classes/fields/pick.php:2355
+msgid "New York"
+msgstr "New York"
+
+#: classes/fields/pick.php:2356
+msgid "North Carolina"
+msgstr "North Carolina"
+
+#: classes/fields/pick.php:2357
+msgid "North Dakota"
+msgstr "North Dakota"
+
+#: classes/fields/pick.php:2358
+msgid "Ohio"
+msgstr "Ohio"
+
+#: classes/fields/pick.php:2359
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+#: classes/fields/pick.php:2360
+msgid "Oregon"
+msgstr "Oregon"
+
+#: classes/fields/pick.php:2361
+msgid "Pennsylvania"
+msgstr "Pennsylvania"
+
+#: classes/fields/pick.php:2362
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+#: classes/fields/pick.php:2363
+msgid "South Carolina"
+msgstr "South Carolina"
+
+#: classes/fields/pick.php:2364
+msgid "South Dakota"
+msgstr "South Dakota"
+
+#: classes/fields/pick.php:2365
+msgid "Tennessee"
+msgstr "Tennessee"
+
+#: classes/fields/pick.php:2366
+msgid "Texas"
+msgstr "Texas"
+
+#: classes/fields/pick.php:2368
+msgid "Vermont"
+msgstr "Vermont"
+
+#: classes/fields/pick.php:2369
+msgid "Virginia"
+msgstr "Virginia"
+
+#: classes/fields/pick.php:2367
+msgid "Utah"
+msgstr "Utah"
+
+#: classes/fields/pick.php:2339
+msgid "Kansas"
+msgstr "Kansas"
+
+#: classes/fields/pick.php:2340
+msgid "Kentucky"
+msgstr "Kentucky"
+
+#: classes/fields/pick.php:2341
+msgid "Louisiana"
+msgstr "Louisiana"
+
+#: classes/fields/pick.php:2342
+msgid "Maine"
+msgstr "Maine"
+
+#: classes/fields/pick.php:2343
+msgid "Maryland"
+msgstr "Maryland"
+
+#: classes/fields/pick.php:2344
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+#: classes/fields/pick.php:2345
+msgid "Michigan"
+msgstr "Michigan"
+
+#: classes/fields/pick.php:2346
+msgid "Minnesota"
+msgstr "Minnesota"
+
+#: classes/fields/pick.php:2347
+msgid "Mississippi"
+msgstr "Mississippi"
+
+#: classes/fields/pick.php:2348
+msgid "Missouri"
+msgstr "Missouri"
+
+#: classes/fields/pick.php:2350
+msgid "Nebraska"
+msgstr "Nebraska"
+
+#: classes/fields/pick.php:2351
+msgid "Nevada"
+msgstr "Nevada"
+
+#: classes/fields/pick.php:2352
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+#: classes/fields/pick.php:2353
+msgid "New Jersey"
+msgstr "New Jersey"
+
+#: classes/fields/pick.php:2354
+msgid "New Mexico"
+msgstr "New Mexico"
+
+#: classes/fields/pick.php:2324
+msgid "Alaska"
+msgstr "Alaska"
+
+#: classes/fields/pick.php:2323
+msgid "Alabama"
+msgstr "Alabama"
+
+#: classes/fields/pick.php:2325
+msgid "Arizona"
+msgstr "Arizona"
+
+#: classes/fields/pick.php:2326
+msgid "Arkansas"
+msgstr "Arkansas"
+
+#: classes/fields/pick.php:2327
+msgid "California"
+msgstr "California"
+
+#: classes/fields/pick.php:2328
+msgid "Colorado"
+msgstr "Colorado"
+
+#: classes/fields/pick.php:2329
+msgid "Connecticut"
+msgstr "Connecticut"
+
+#: classes/fields/pick.php:2330
+msgid "Delaware"
+msgstr "Delaware"
+
+#: classes/fields/pick.php:2331
+msgid "District Of Columbia"
+msgstr "District Of Columbia"
+
+#: classes/fields/pick.php:2332
+msgid "Florida"
+msgstr "Florida"
+
+#: classes/fields/pick.php:2334
+msgid "Hawaii"
+msgstr "Hawaii"
+
+#: classes/fields/pick.php:2335
+msgid "Idaho"
+msgstr "Idaho"
+
+#: classes/fields/pick.php:2336
+msgid "Illinois"
+msgstr "Illinois"
+
+#: classes/fields/pick.php:2337
+msgid "Indiana"
+msgstr "Indiana"
+
+#: classes/fields/pick.php:2338
+msgid "Iowa"
+msgstr "Iowa"
+
+#: classes/widgets/PodsWidgetForm.php:43 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:70
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:41
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:133
+msgid "Submit"
+msgstr "ส่ง"
+
+#: classes/fields/pick.php:504 ui/admin/setup-add.php:242
+#: ui/admin/setup-edit.php:522
+msgid "Comments"
+msgstr "ความเห็น"
+
+#: classes/fields/pick.php:2039
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: classes/PodsAdmin.php:2094 ui/admin/setup-edit-field-fluid.php:70
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#: classes/PodsAdmin.php:444 classes/PodsAdmin.php:467
+#: ui/admin/components-admin.php:10 ui/admin/upgrade/upgrade_2_0_0.php:221
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: classes/Pods.php:3443 classes/PodsAdmin.php:631 classes/PodsForm.php:319
+#: ui/admin/components-admin.php:99
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"

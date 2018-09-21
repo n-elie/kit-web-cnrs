@@ -1,0 +1,524 @@
+# Translation of Themes - Twenty Sixteen in French (France)
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-12 22:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fr_FR\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 22:50+0000\n"
+"Last-Translator: Super Administrateur <jean-marc.larroque.external@atos.net>"
+"\n"
+"Language-Team: French (France)"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:48 functions.php:89
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: header.php:58 functions.php:90
+msgid "Secondary Menu"
+msgstr ""
+
+#: header.php:75 functions.php:91
+msgid "Social Links Menu"
+msgstr "Menu des liens de réseaux sociaux"
+
+#: functions.php:160
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: functions.php:162
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+"Ajoutez des widgets ici pour les faire apparaître dans votre barre latérale."
+
+#: functions.php:170
+msgid "Content Bottom 1"
+msgstr "Contenu du bas 1"
+
+#: functions.php:172 functions.php:182
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "S&nbsp;affiche en bas du contenu des articles et des pages."
+
+#: functions.php:180
+msgid "Content Bottom 2"
+msgstr "Contenu du bas 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:209
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:214
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:219
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:289
+msgid "expand child menu"
+msgstr "ouvrir le sous-menu"
+
+#: functions.php:290
+msgid "collapse child menu"
+msgstr "fermer le sous-menu"
+
+#: index.php:46 archive.php:49 search.php:37
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: index.php:47 archive.php:50 search.php:38
+msgid "Next page"
+msgstr "Page suivante"
+
+#: index.php:48 image.php:60 archive.php:51 search.php:39
+#: template-parts/content-single.php:29 template-parts/content.php:36
+msgid "Page"
+msgstr "Page"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: image.php:56 template-parts/content-single.php:25
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Taille réelle"
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-single.php:45
+#: template-parts/content.php:48
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifier<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: image.php:102 single-publication.php:29 single-actualite.php:29
+#: single-evenement.php:29 single-mediatheque.php:29 single-partenaire.php:29
+#: single-emploi.php:29 single.php:29
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Publié dans</span><span class=\"post-title\">"
+"%title</span>"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Menu principal de pied"
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr "Menu de liens sociaux de pied"
+
+#: single-publication.php:34 single-actualite.php:34 single-evenement.php:34
+#: single-mediatheque.php:34 single-partenaire.php:34 single-emploi.php:34
+#: single.php:34
+msgid "Next"
+msgstr "Suivant"
+
+#: single-publication.php:35 single-actualite.php:35 single-evenement.php:35
+#: single-mediatheque.php:35 single-partenaire.php:35 single-emploi.php:35
+#: single.php:35
+msgid "Next post:"
+msgstr "Article suivant&nbsp;:"
+
+#: single-publication.php:37 single-actualite.php:37 single-evenement.php:37
+#: single-mediatheque.php:37 single-partenaire.php:37 single-emploi.php:37
+#: single.php:37
+msgid "Previous"
+msgstr "Précédent"
+
+#: single-publication.php:38 single-actualite.php:38 single-evenement.php:38
+#: single-mediatheque.php:38 single-partenaire.php:38 single-emploi.php:38
+#: single.php:38
+msgid "Previous post:"
+msgstr "Article précédent&nbsp;:"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour&nbsp;: %s"
+
+#. translators: %s: post title
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une pensée sur &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensée sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Recherche&hellip;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec une "
+"recherche&nbsp;?"
+
+#. Name of the template
+msgid "Page d'accueil du site"
+msgstr ""
+
+#: homepage.php:35
+msgid "Voir toutes les actualités"
+msgstr ""
+
+#: homepage.php:64
+msgid "télécharger"
+msgstr ""
+
+#. Name of the template
+msgid "Liste des rubriques"
+msgstr ""
+
+#. Name of the template
+msgid "Liste des emplois"
+msgstr ""
+
+#. Name of the template
+msgid "Liste des publications"
+msgstr ""
+
+#. Name of the template
+msgid "Liste des Événements"
+msgstr ""
+
+#. Name of the template
+msgid "Liste Médiathèque"
+msgstr ""
+
+#. Name of the template
+msgid "Liste des contacts"
+msgstr ""
+
+#. Name of the template
+msgid "Liste des actualités"
+msgstr ""
+
+#: template-parts/content-publication.php:38
+#: template-parts/content-evenement.php:39
+msgid "Ajouter au calendrier"
+msgstr ""
+
+#: template-parts/content-publication.php:49
+#: template-parts/content-evenement.php:60
+msgid "Partenaires de l'évènement"
+msgstr ""
+
+#: template-parts/bottom-actualite.php:14
+msgid "A lire aussi"
+msgstr ""
+
+#: template-parts/bottom-evenement.php:21
+msgid "Prochains évènements"
+msgstr ""
+
+#: template-parts/bottom-evenement.php:21
+msgid "Retour à l'agenda"
+msgstr ""
+
+#: template-parts/bottom-emploi.php:14
+msgid "Autres offres d'emploi"
+msgstr ""
+
+#: template-parts/bottom-emploi.php:14
+msgid "Retour à la liste"
+msgstr ""
+
+#: template-parts/home-top.php:21 loops/loop-publication.php:48
+msgid "En savoir plus"
+msgstr ""
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Mise en avant"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:28 inc/template-tags.php:184
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+"Continuer la lecture<span class=\"screen-reader-text\"> de &laquo;&nbsp;"
+"%s&nbsp;&raquo;</span>"
+
+#: template-parts/emploi_form.php:3 template-parts/contact_form.php:2
+msgid "Votre nom"
+msgstr ""
+
+#: template-parts/emploi_form.php:4 template-parts/contact_form.php:3
+msgid "Votre prénom"
+msgstr ""
+
+#: template-parts/emploi_form.php:5 template-parts/contact_form.php:4
+msgid "Votre adresse email"
+msgstr ""
+
+#: template-parts/emploi_form.php:6 template-parts/contact_form.php:5
+msgid "Votre message ici"
+msgstr ""
+
+#: template-parts/emploi_form.php:7 template-parts/contact_form.php:6
+msgid "Envoyer"
+msgstr ""
+
+#: template-parts/emploi_form.php:8 template-parts/contact_form.php:7
+msgid "Annuler"
+msgstr ""
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Auteur&nbsp;:"
+
+#: template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: template-parts/content-emploi.php:37
+msgid "Contacter"
+msgstr ""
+
+#: template-parts/content-emploi.php:39 loops/loop-emploi.php:28
+msgid "Télécharger la fiche de l'offre"
+msgstr ""
+
+#: template-parts/bottom-partenaire.php:12
+msgid "Partenaires"
+msgstr ""
+
+#: template-parts/bottom-partenaire.php:13
+msgid "En savoir plus sur les tutelles"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt(e) à publier votre premier article&nbsp;? <a href=\"%1$s\">Lancez-vous "
+"ici</a>."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec "
+"des mots différents."
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que ce que vous cherchez est introuvable. Essayez avec une "
+"recherche."
+
+#: loops/loop-publication.php:22
+msgid "Exporter la référence"
+msgstr ""
+
+#: loops/loop-contact.php:28
+msgid "Contacter cette personne"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:50
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Laisser un commentaire<span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publié le"
+
+#: inc/template-tags.php:95 inc/template-tags.php:103
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+#, php-format
+msgid ""
+"CNRS Web Kit requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "Jeu de couleurs de base"
+
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr "Couleur du fond de page"
+
+#: inc/customizer.php:160
+msgid "Link Color"
+msgstr "Couleur des liens"
+
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr "Couleur du texte principal"
+
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr "Seconde couleur du texte"
+
+#: inc/customizer.php:253
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/customizer.php:263
+msgid "Dark"
+msgstr "Foncé"
+
+#: inc/customizer.php:273
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/customizer.php:283
+msgid "Red"
+msgstr "Rouge"
+
+#: inc/customizer.php:293
+msgid "Yellow"
+msgstr "Jaune"
+
+#: inc/inc-pages-functions.php:71 inc/inc-pages-functions.php:93
+#: inc/inc-pages-functions.php:115 inc/inc-pages-functions.php:149
+#: inc/inc-pages-functions.php:171
+msgid "Catégorie"
+msgstr ""
+
+#: inc/inc-pages-functions.php:72 inc/inc-pages-functions.php:82
+#: inc/inc-pages-functions.php:94 inc/inc-pages-functions.php:104
+#: inc/inc-pages-functions.php:116 inc/inc-pages-functions.php:126
+#: inc/inc-pages-functions.php:138 inc/inc-pages-functions.php:150
+#: inc/inc-pages-functions.php:160 inc/inc-pages-functions.php:172
+msgid "Toutes"
+msgstr ""
+
+#: inc/inc-pages-functions.php:81 inc/inc-pages-functions.php:103
+#: inc/inc-pages-functions.php:125 inc/inc-pages-functions.php:159
+msgid "Typologie"
+msgstr ""
+
+#: inc/inc-pages-functions.php:137
+msgid "Organisation"
+msgstr ""
+
+#. Name of the theme
+msgid "CNRS Web Kit"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"CNRS Web Kit is a modernized take on an ever-popular WordPress layout — the "
+"horizontal masthead with an optional right sidebar that works perfectly for "
+"blogs and websites. It has custom color options with beautiful default color "
+"schemes, a harmonious fluid grid using a mobile-first approach, and "
+"impeccable polish in every detail. CNRS Web Kit will make your WordPress "
+"look beautiful everywhere."
+msgstr ""
+
+#. URI of the theme
+msgid "https://wordpress.org/themes/cnrswebkit/"
+msgstr ""
+
+#. Author of the theme
+msgid "the Atos team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://atos.net/"
+msgstr ""

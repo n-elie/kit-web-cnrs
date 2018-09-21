@@ -1,0 +1,589 @@
+# Translation of Plugins - Coming Soon Page &amp; Maintenance Mode by SeedProd - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Coming Soon Page &amp; Maintenance Mode by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-09 12:44:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Coming Soon Page &amp; Maintenance Mode by SeedProd - Stable (latest release)\n"
+
+#: framework/framework.php:364
+msgid "Got a Support Question"
+msgstr "Har du en supportfråga?"
+
+#: inc/config-settings.php:219
+msgid "Contain"
+msgstr "Innesluten"
+
+#: inc/config-settings.php:218
+msgid "Cover"
+msgstr "Täckande"
+
+#: inc/config-settings.php:216
+msgid "Responsive Size"
+msgstr "Responsiv storlek"
+
+#: inc/config-settings.php:215
+msgid "Cover (most users will use this setting), this setting will crop parts of the background that do not fit, Contain, this will force the background image to stay contained within the browser and parts that don't fit will show the background color."
+msgstr "Täckande (de flesta användare kommer använda denna inställning), detta beskär delar av bakgrunden som inte passar in. Innesluten tvingar bakgrundsbilden att vara kvar i webbläsarfönstret och delar som inte passar in kommer visa bakgrundsfärgen."
+
+#: framework/review.php:74
+msgid "I already did"
+msgstr "jag har redan gjort det"
+
+#: framework/review.php:73
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: framework/review.php:72
+msgid "Ok, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: framework/review.php:70
+msgid "~ John Turner<br>SeedProd"
+msgstr "~ John Turner<br>SeedProd"
+
+#: framework/review.php:69
+msgid "Hey %s, I noticed you created a %s with our plugin - that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word?"
+msgstr "Hej %s, jag märkter att du skapat en %s med vårt tillägg - det är fantastiskt! Kan du vara snäll och göra mig en stor tjänst och ge den ett 5-stjärnigt betyg på WordPress för att hjälpa oss att sprida ordet?"
+
+#: framework/review.php:16
+msgid "Please rate <strong>Coming Soon Page & Maintenance Mode by SeedProd</strong> <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Vänligen betygsätt <strong>Coming Soon Page & Maintenance Mode by SeedProd</strong> <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> på <a href=\"%s\" target=\"_blank\">WordPress.org</a> för att hjälpa oss sprida ordet. Tack från teamet SeedProd!"
+
+#: framework/framework.php:328
+msgid "Yo-Yo-Yo, Why Go Pro?"
+msgstr "Varför skaffa Pro?"
+
+#: inc/class-seed-csp4.php:249
+msgid "Only authenticated users can access the REST API."
+msgstr "Endast autentiserade användare kan komma åt REST API."
+
+#: framework/framework.php:398
+msgid "Rate It on WordPress.org"
+msgstr "Betygsätt det på WordPress.org"
+
+#: framework/framework.php:190
+msgid "Upgrade to Pro for More Features"
+msgstr "Uppgradera till Pro för fler funktioner"
+
+#: inc/config-settings.php:101
+msgid "Tell the visitor what to expect from your site. Check out the Pro Version if you need ShortCode support."
+msgstr "Berätta för besökaren vad de ska förvänta sig av din webbplats. Kolla in Pro-versionen om du behöver stöd för kortkoder."
+
+#: inc/config-settings.php:434
+msgid "This will append html to the bottom of the template using the current styles."
+msgstr "Detta kommer att lägga till HTML till botten av mallen med de nuvarande stilarna."
+
+#: inc/config-settings.php:433
+msgid "Append HTML"
+msgstr "Lägg till HTML"
+
+#: inc/config-settings.php:426
+msgid "This will replace the plugin's entire template with your custom html. Make sure to include the html, head and body tags when replacing the html."
+msgstr "Detta kommer att ersätta hela mallen för tillägget med din anpassade HTML. Se till att inkludera taggarna HTML, HEAD och BODY när du ersätter HTML."
+
+#: inc/config-settings.php:425
+msgid "Custom HTML"
+msgstr "Egendefinierad HTML"
+
+#: inc/config-settings.php:227
+msgid "This will add an overlay over your image dimming it."
+msgstr "Lägg till ett filter som tonar ner din bakgrund."
+
+#: inc/config-settings.php:226
+msgid "Dim Background"
+msgstr "Tona bakgrund"
+
+#: inc/config-settings.php:56
+msgid "When you are logged in you'll see your normal website. Logged out visitors will see the Coming Soon or Maintenance page. Coming Soon Mode will be available to search engines if your site is not private. Maintenance Mode will notify search engines that the site is unavailable. <a href='https://www.seedprod.com/coming-soon-vs-maintenance-mode/' target='_blank'>Learn the difference between Coming Soon and Maintenance Mode</a>"
+msgstr "När du är inloggad kommer du se din vanliga webbplats. Utloggade besökare kommer se sidan ”Kommer snart” eller ”Underhåll”. Läget ”Kommer snart” kommer vara tillgängligt för sökmotorer om din webbplats inte är privat. Läget ”Underhåll” kommer meddela sökmotorer att din webbplats inte är tillgänglig. <a href='https://www.seedprod.com/coming-soon-vs-maintenance-mode/' target='_blank'>Lär dig skillnaden mellan lägena ”Kommer snart” och ”Underhåll”</a>"
+
+#: framework/framework.php:309
+msgid "Getting Started Video - 60 sec"
+msgstr "Komma igång video - 60 sek"
+
+#: framework/framework.php:117 framework/framework.php:118
+msgid "Coming Soon Page & Maintenance Mode"
+msgstr "Coming Soon Page & Maintenance Mode"
+
+#. Author of the plugin/theme
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin/theme
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "#1-tillägget för ”Kommer snart”-, ”Under konstruktion”- och ”Underhåll”-sidor för WordPress."
+
+#. #-#-#-#-#  coming-soon-code.pot (Coming Soon Page & Maintenance Mode by
+#. SeedProd 5.0.17)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  coming-soon-code.pot (Coming Soon Page & Maintenance Mode by
+#. SeedProd 5.0.17)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.seedprod.com"
+msgstr "http://www.seedprod.com"
+
+#: inc/config-settings.php:418
+msgid "Enter any custom scripts. This will be rendered before the closing body tag."
+msgstr "Ange anpassade skript om sådana finns. Dessa kommer renderas före body-stängningstaggen."
+
+#: inc/config-settings.php:417
+msgid "Footer Scripts"
+msgstr "Sidfotsskript"
+
+#: inc/config-settings.php:410
+msgid "Enter any custom scripts. You can enter Javascript or CSS. This will be rendered before the closing head tag."
+msgstr "Ange anpassade skript om sådana finns. Du kan ange JavaScript eller CSS. Detta renderas innan stängningstaggen för body."
+
+#: inc/config-settings.php:409
+msgid "Header Scripts"
+msgstr "Sidhuvudsskript"
+
+#: inc/config-settings.php:401
+msgid "Disable"
+msgstr "Deaktivera"
+
+#: inc/config-settings.php:399
+msgid "By default we exclude urls with the terms: login, admin, dashboard and account to prevent lockouts. Check to disable."
+msgstr "Som standard så utesluter vi url:er med termerna: login, admin, dashboard och account för att undvika utestängningar. Kryssa i för att avaktivera."
+
+#: inc/config-settings.php:398
+msgid "Disable Default Excluded URLs"
+msgstr "Deaktivera Standardexluderade URL:er"
+
+#: inc/config-settings.php:392
+msgid "Scripts"
+msgstr "Skript"
+
+#: inc/config-settings.php:379
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: inc/config-settings.php:370
+msgid "Need to tweaks the styles? Add your custom CSS here."
+msgstr "Behöver du modifiera stilarna? Ange din anpassade CSS här."
+
+#: inc/config-settings.php:369
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: inc/config-settings.php:361
+msgid "Template"
+msgstr "Mall"
+
+#: inc/config-settings.php:340
+msgid "Text Font"
+msgstr "Texttypsnitt"
+
+#: inc/config-settings.php:332
+msgid "If no Headline Color is chosen then the Link Color will be used. "
+msgstr "Om ingen Rubrikfärg väljs så kommer Länkfärgen att användas."
+
+#: inc/config-settings.php:329
+msgid "Headline Color"
+msgstr "Rubrikfärg"
+
+#: inc/config-settings.php:321
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: inc/config-settings.php:313
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/config-settings.php:307
+msgid "Text"
+msgstr "Text"
+
+#: inc/config-settings.php:295
+msgid "This will wrap your content in a box."
+msgstr "Detta kommer att innesluta ditt innehåll i en box."
+
+#: inc/config-settings.php:294
+msgid "Enable Well"
+msgstr "Aktivera Behållare"
+
+#: inc/config-settings.php:289
+msgid "By default the max width of the content is set to 600px. Enter a number value if you need it bigger. Example: 900"
+msgstr "Som standard så är max bredd på innehållet satt till 600px. Ange ett numeriskt värde om du behöver en större maxbredd. Exempel: 900"
+
+#: inc/config-settings.php:288
+msgid "Max Width"
+msgstr "Max Bredd"
+
+#: inc/config-settings.php:273
+msgid "Scroll"
+msgstr "Skrollande"
+
+#: inc/config-settings.php:272
+msgid "Fixed"
+msgstr "Fast"
+
+#: inc/config-settings.php:270
+msgid "Background Attachment"
+msgstr "Bakgrundsfästning"
+
+#: inc/config-settings.php:262
+msgid "Center Bottom"
+msgstr "Botten-centrerad"
+
+#: inc/config-settings.php:261
+msgid "Center Center"
+msgstr "Mitten-centrerad"
+
+#: inc/config-settings.php:260
+msgid "Center Top"
+msgstr "Centrerad"
+
+#: inc/config-settings.php:259
+msgid "Right Bottom"
+msgstr "Botten höger"
+
+#: inc/config-settings.php:258
+msgid "Right Center"
+msgstr "Mitten höger"
+
+#: inc/config-settings.php:257
+msgid "Right Top"
+msgstr "Höger"
+
+#: inc/config-settings.php:256
+msgid "Left Bottom"
+msgstr "Botten vänster"
+
+#: inc/config-settings.php:255
+msgid "Left Center"
+msgstr "Mitten vänster"
+
+#: inc/config-settings.php:254
+msgid "Left Top"
+msgstr "Vänster"
+
+#: inc/config-settings.php:252
+msgid "Background Position"
+msgstr "Bakgrundsposition"
+
+#: inc/config-settings.php:243
+msgid "Tile Vertically"
+msgstr "Kant-mot-kant Vertikalt"
+
+#: inc/config-settings.php:242
+msgid "Tile Horizontally"
+msgstr "Sida-vid-sida Horisontellt"
+
+#: inc/config-settings.php:241
+msgid "Tile"
+msgstr "Sida-vid-sida"
+
+#: inc/config-settings.php:240
+msgid "No-Repeat"
+msgstr "Ingen Upprepning"
+
+#: inc/config-settings.php:238
+msgid "Background Repeat"
+msgstr "Bakgrundsupprepning (background-repeat)"
+
+#: inc/config-settings.php:237 inc/config-settings.php:251
+#: inc/config-settings.php:269
+msgid "This setting is not applied if Responsive Background is checked"
+msgstr "Denna inställning används ej om Responsiv Bakgrund är ikryssad"
+
+#: inc/config-settings.php:205
+msgid "Scale the background image to be as large as possible so that the background area is completely covered by the background image. Some parts of the background image may not be in view within the background positioning area."
+msgstr "Skala bakgrundsbilden så att den blir så stor som möjligt och så att hela bakgrunden täcks av bilden. Vissa delar av bakgrundsbilden kanske kommer att befinna sig utanför bakgrundens positioneringsområde och inte synas. "
+
+#: inc/config-settings.php:204
+msgid "Responsive Background"
+msgstr "Responsiv Bakgrund"
+
+#: inc/config-settings.php:198
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: inc/config-settings.php:180
+msgid "Choose between having a solid color background or uploading an image. By default images will cover the entire background."
+msgstr "Välj mellan att ha en solid bakgrundsfärg elleratt ladda upp en bild. Bilder täcker som standard hela bakgrunden."
+
+#: inc/config-settings.php:177
+msgid "Background Color"
+msgstr "Bakgrundsfärg (background-color)"
+
+#: inc/config-settings.php:170
+msgid "Background"
+msgstr "Bakgrund"
+
+#: inc/config-settings.php:157
+msgid "Design"
+msgstr "Design"
+
+#: inc/config-settings.php:147
+msgid "Paste in your Universal or Classic <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google Analytics</a> code."
+msgstr "Klistra in din Universella eller Klassiska <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google Analytics</a>-kod."
+
+#: inc/config-settings.php:146
+msgid "Analytics Code"
+msgstr "Analytics-kod"
+
+#: inc/config-settings.php:137
+msgid "SEO Meta Description"
+msgstr "SEO-metabeskrivning"
+
+#: inc/config-settings.php:131
+msgid "SEO Title"
+msgstr "SEO-titel"
+
+#: inc/config-settings.php:125
+msgid "Favicons are displayed in a browser tab. Need Help <a href=\"http://tools.dynamicdrive.com/favicon/\" target=\"_blank\">creating a favicon</a>?"
+msgstr "Webbplatsikoner (favicons) visas i webbläsarens/tabbens titelrad. Behöver du hjälp med att <a href=\"http://tools.dynamicdrive.com/favicon/\" target=\"_blank\">skapa en webbplatsikon</a>?"
+
+#: inc/config-settings.php:124
+msgid "Favicon"
+msgstr "Webbplatsikon (Favicon)"
+
+#: inc/config-settings.php:118
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: inc/config-settings.php:109
+msgid "Can we show a <strong>cool stylish</strong> footer credit at the bottom the page."
+msgstr "Får vi visa ett <strong>coolt och stilrent</strong> erkännande i sidfoten."
+
+#: inc/config-settings.php:108
+msgid "Yep - I Love You Man"
+msgstr "Jepp - Jag Älskar Dig Mannen"
+
+#: inc/config-settings.php:108
+msgid "Nope - Got No Love"
+msgstr "Nix - Ingen Kärlek"
+
+#: inc/config-settings.php:107
+msgid "Powered By SeedProd"
+msgstr "Drivs av SeedProd"
+
+#: inc/config-settings.php:100
+msgid "Message"
+msgstr "Meddelande"
+
+#: inc/config-settings.php:94
+msgid "Enter a headline for your page."
+msgstr "Ange en rubrik för din sida."
+
+#: inc/config-settings.php:93
+msgid "Headline"
+msgstr "Rubrik"
+
+#: inc/config-settings.php:86
+msgid "Upload a logo or teaser image (or) enter the url to your image."
+msgstr "Ladda upp en logotyp eller en lockande bild (eller) ange URL:en till din bild."
+
+#: inc/config-settings.php:85
+msgid "Logo"
+msgstr "Logotyp"
+
+#: inc/config-settings.php:79
+msgid "Page Settings"
+msgstr "Sidinställningar"
+
+#: inc/config-settings.php:69 inc/config-settings.php:207
+#: inc/config-settings.php:229 inc/config-settings.php:297
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/config-settings.php:67
+msgid "maintenance.php detected, would you like to use this for your maintenance page?"
+msgstr "maintenance.php hittades, vill du använda denna som din sida för underhållsläge?"
+
+#: inc/config-settings.php:66
+msgid "Use maintenance.php"
+msgstr "Använd maintenance.php"
+
+#: inc/config-settings.php:54
+msgid "Enable Maintenance Mode"
+msgstr "Aktivera Underhållsläge"
+
+#: inc/config-settings.php:53
+msgid "Enable Coming Soon Mode"
+msgstr "Aktivera Kommer Snart-läge"
+
+#: inc/config-settings.php:52
+msgid "Disabled"
+msgstr "Deaktiverad"
+
+#: inc/config-settings.php:50
+msgid "Status"
+msgstr "Status"
+
+#: inc/config-settings.php:44
+msgid "General"
+msgstr "Generellt"
+
+#: inc/config-settings.php:33 inc/config-settings.php:281
+msgid "Content"
+msgstr "Innehåll"
+
+#: inc/class-seed-csp4.php:149
+msgid "Please enter your settings."
+msgstr "Var god ange dina inställningar."
+
+#: inc/class-seed-csp4.php:87
+msgid "Maintenance Mode Active"
+msgstr "Underhållsläge Aktivt"
+
+#: inc/class-seed-csp4.php:85
+msgid "Coming Soon Mode Active"
+msgstr "Kommer Snart-läge Aktivt"
+
+#: framework/validations/required.php:10
+msgid "is required."
+msgstr "krävs."
+
+#: framework/validations/number.php:11
+msgid "Please enter a valid number."
+msgstr "Var god ange en giltig siffra."
+
+#: framework/validations/email.php:10 framework/validations/escurlraw.php:11
+msgid "Please enter a valid email."
+msgstr "Var god ange en giltig e-postadress."
+
+#: framework/validations/color.php:13
+msgid "Please enter a valid color value."
+msgstr "Var god ange ett giltigt färgvärde."
+
+#: framework/framework.php:443
+msgid "This tabs settings be deleted and reset to the defaults. Are you sure you want to reset?"
+msgstr "Flikarnas inställningar tas bort och återställs till standardinställningarna. Är du säker på att du vill återställa?"
+
+#: framework/framework.php:409
+msgid "SeedProd Blog"
+msgstr "SeedProd blogg"
+
+#: framework/framework.php:399
+msgid "Tweet It"
+msgstr "Twittra det"
+
+#: framework/framework.php:396
+msgid "Buy It"
+msgstr "Köp det"
+
+#: framework/framework.php:394
+msgid "Like this plugin? Show your support by:"
+msgstr "Gillar du det här tillägget? Visa ditt stöd genom att:"
+
+#: framework/framework.php:391
+msgid "Show Some Love"
+msgstr "Visa lite kärlek"
+
+#: framework/framework.php:365
+msgid "Common Caching Issues Resolutions"
+msgstr "Lösningar på vanliga cacheproblem"
+
+#: framework/framework.php:248 framework/framework.php:296
+msgid "Reset Settings"
+msgstr "Återställ inställningar"
+
+#: framework/framework.php:246 framework/framework.php:295
+#: framework/framework.php:639
+msgid "Save All Changes"
+msgstr "Spara alla ändringar"
+
+#: framework/framework.php:188
+msgid "Live Preview"
+msgstr "Förhandsgranskning Live"
+
+#: framework/framework.php:188
+msgid "&larr; Close Window"
+msgstr "&larr; Stäng Fönster"
+
+#: inc/config-settings.php:22
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: framework/framework.php:78
+msgid "Settings reset."
+msgstr "Inställningar återställda."
+
+#: framework/field-types/upload.php:12
+msgid "Media Image Library"
+msgstr "Mediabiblioteket"
+
+#: framework/field-types/daterange.php:35
+msgid "End Date"
+msgstr "Slutdatum"
+
+#: framework/field-types/daterange.php:22
+msgid "Start Date"
+msgstr "Start datum"
+
+#: framework/field-types/date.php:32 framework/field-types/daterange.php:32
+#: framework/field-types/daterange.php:45
+msgid "year"
+msgstr "år"
+
+#: framework/field-types/date.php:29 framework/field-types/daterange.php:29
+#: framework/field-types/daterange.php:42
+msgid "day"
+msgstr "dag"
+
+#: framework/field-types/date.php:19 framework/field-types/daterange.php:19
+msgid "12-Dec"
+msgstr "12-Dec"
+
+#: framework/field-types/date.php:18 framework/field-types/daterange.php:18
+msgid "11-Nov"
+msgstr "11-Nov"
+
+#: framework/field-types/date.php:17 framework/field-types/daterange.php:17
+msgid "10-Oct"
+msgstr "10-Okt"
+
+#: framework/field-types/date.php:16 framework/field-types/daterange.php:16
+msgid "09-Sep"
+msgstr "09-Sep"
+
+#: framework/field-types/date.php:15 framework/field-types/daterange.php:15
+msgid "08-Aug"
+msgstr "08-Aug"
+
+#: framework/field-types/date.php:14 framework/field-types/daterange.php:14
+msgid "07-Jul"
+msgstr "07-Jul"
+
+#: framework/field-types/date.php:13 framework/field-types/daterange.php:13
+msgid "06-Jun"
+msgstr "06-Jun"
+
+#: framework/field-types/date.php:12 framework/field-types/daterange.php:12
+msgid "05-May"
+msgstr "05-Maj"
+
+#: framework/field-types/date.php:11 framework/field-types/daterange.php:11
+msgid "04-Apr"
+msgstr "04-Apr"
+
+#: framework/field-types/date.php:10 framework/field-types/daterange.php:10
+msgid "03-Mar"
+msgstr "03-Mar"
+
+#: framework/field-types/date.php:9 framework/field-types/daterange.php:9
+msgid "02-Feb"
+msgstr "02-Feb"
+
+#: framework/field-types/date.php:8 framework/field-types/daterange.php:8
+msgid "01-Jan"
+msgstr "01-Jan"
+
+#: framework/field-types/customsocialfollow.php:23
+msgid "Enter your social profile url's. Drag &amp; Drop the icons to reorder. Remember to save your changes. <a href='https://seedprod.zendesk.com/entries/21778652-adding-custom-icons' target='_blank'>Learn how to add your own custom icons</a>."
+msgstr "Ange URL:en till din sociala profil. Dra och släpp ikonerna för att sortera om. Kom ihåg att spara dina ändringar. <a href='https://seedprod.zendesk.com/entries/21778652-adding-custom-icons' target='_blank'>Lär dig hur du lägger till dina egna anpassade ikoner</a>."
+
+#. #-#-#-#-#  coming-soon-code.pot (Coming Soon Page & Maintenance Mode by
+#. SeedProd 5.0.17)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: coming-soon.php:23
+msgid "Coming Soon Page & Maintenance Mode by SeedProd"
+msgstr "Coming Soon Page & Maintenance Mode av SeedProd"

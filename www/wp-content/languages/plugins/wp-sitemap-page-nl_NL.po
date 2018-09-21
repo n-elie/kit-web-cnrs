@@ -1,0 +1,321 @@
+# Translation of Plugins - WP Sitemap Page - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - WP Sitemap Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-19 18:07:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Sitemap Page - Development (trunk)\n"
+
+#: settings.php:368
+msgid "To hide the word \"category\" on the title of each category"
+msgstr "Verbergt het woord \"categorie\" voor elke categorienaam"
+
+#: settings.php:367
+msgid "To display the posts by category. Posts sorted by name with ascendent order. Possible values for \"order\" attribute are: %1$s"
+msgstr "Toont de berichten per categorie. Berichten worden gesorteerd op naam in oplopende volgorde. Mogelijke waarden voor het \"order\" attribuut zijn: %1$s"
+
+#. Author of the plugin/theme
+msgid "Tony Archambeau"
+msgstr "Tony Archambeau"
+
+#. Description of the plugin/theme
+msgid "Add a sitemap on any page/post using the simple shortcode [wp_sitemap_page]"
+msgstr "Voeg een sitemap toe aan een pagina of bericht met de eenvoudige shortcode [wp_sitemap_page]"
+
+#. #-#-#-#-#  tmp-wp-sitemap-page.pot (WP Sitemap Page 1.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-sitemap-page.pot (WP Sitemap Page 1.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://tonyarchambeau.com/"
+msgstr "http://tonyarchambeau.com/"
+
+#: wp-sitemap-page.php:1218
+msgid "<a href=\"{permalink}\"%1$s>{title}</a> ({monthnum}/{day}/{year})"
+msgstr "<a href=\"{permalink}\"%1$s>{title}</a> ({monthnum}/{day}/{year})"
+
+#: wp-sitemap-page.php:1127
+msgid "Category: %1$s"
+msgstr "Categorie: %1$s"
+
+#: wp-sitemap-page.php:850
+msgid "Authors"
+msgstr "Auteurs"
+
+#: wp-sitemap-page.php:804
+msgid "Archives"
+msgstr "Archieven"
+
+#: wp-sitemap-page.php:763
+msgid "Tags"
+msgstr "Tags"
+
+#: wp-sitemap-page.php:723
+msgid "Categories"
+msgstr "Categorieën"
+
+#: wp-sitemap-page.php:681
+msgid "Posts by category"
+msgstr "Berichten per categorie"
+
+#: wp-sitemap-page.php:630
+msgid "Pages"
+msgstr "Pagina's"
+
+#: wp-sitemap-page.php:459
+msgid "Powered by \"WP Sitemap Page\""
+msgstr "Gemaakt door \"WP Sitemap Page\""
+
+#: wp-sitemap-page.php:181 wp-sitemap-page.php:359
+msgid "Settings"
+msgstr "Instellingen"
+
+#: settings.php:440
+msgid "Translated in Russian by <a href=\"%1$s\">skesov.ru</a>."
+msgstr "Vertaald in het Russisch door <a href=\"%1$s\">skesov.ru</a>."
+
+#: settings.php:434
+msgid "Rate the plugin on Wordpress.org"
+msgstr "Geef de plugin een waardering op WordPress.org"
+
+#: settings.php:433
+msgid "Developed by <a href=\"%1$s\">Tony Archambeau</a>."
+msgstr "Ontwikkeld door <a href=\"%1$s\">Tony Archambeau</a>."
+
+#: settings.php:421
+msgid "About"
+msgstr "Ongeveer"
+
+#: settings.php:398
+msgid "Display only the private page (do not works with other kind of content)"
+msgstr "Toon alleen de privé pagina's (werkt niet met andere types content)"
+
+#: settings.php:397
+msgid "To display a traditionnal sitemap without the title"
+msgstr "Toont een traditionele sitemap zonder de titel"
+
+#: settings.php:382 settings.php:395
+msgid "To display the %1$s"
+msgstr "Om de %1$s te laten zien"
+
+#: settings.php:374
+msgid "To display the authors, sorted by number of posts by author. Possible values are: %1$s."
+msgstr "Toont de auteurs, gesorteerd op het aantal berichten per auteur. Mogelijke waarden zijn: %1$s."
+
+#: settings.php:373
+msgid "To display the authors"
+msgstr "Laat de auteurs zien"
+
+#: settings.php:372
+msgid "To display the archives"
+msgstr "Toont de archieven"
+
+#: settings.php:371
+msgid "To display the tags"
+msgstr "Toont de tags"
+
+#: settings.php:370
+msgid "To display the categories sorted by number of posts. Possible values are: %1$s"
+msgstr "Toont de categorieën gesorteerd op het aantal berichten. Mogelijke waarden zijn: %1$s"
+
+#: settings.php:369
+msgid "To display the categories"
+msgstr "Toont de categorieën"
+
+#: settings.php:366
+msgid "To display the posts by category. Categories sorted by number of posts. Possible values are: %1$s"
+msgstr "Toont de berichten per categorie. Categorieën worden gesorteerd op het aantal berichten. Mogelijke waarden zijn: %1$s"
+
+#: settings.php:365
+msgid "To display the posts by category"
+msgstr "Toont de berichten per categorie"
+
+#: settings.php:364
+msgid "To display the pages sorted by menu order. Possible values are: %1$s."
+msgstr "Toont de pagina's gesorteerd op menu volgorde. Mogelijke waarden zijn: %1$s"
+
+#: settings.php:363
+msgid "To display the pages"
+msgstr "Toont de pagina's"
+
+#: settings.php:362
+msgid "To display a traditionnal sitemap"
+msgstr "Toont een traditionele sitemap"
+
+#: settings.php:359
+msgid "You can use any of the following shortcodes in the content of your pages (or posts) to display a dynamic sitemap."
+msgstr "Je kunt elke van de volgende shortcodes gebruiken in de inhoud van je pagina's (of berichten) om een dynamische sitemap te tonen."
+
+#: settings.php:356 wp-sitemap-page.php:360
+msgid "How to use"
+msgstr "Hoe te gebruiken"
+
+#: settings.php:341
+msgid "Display the plugin name with a link at the bottom of the sitemap."
+msgstr "Toont de naam van de plugin met een link onderaan de sitemap."
+
+#: settings.php:332
+msgid "Display the plugin link"
+msgstr "Toont de link naar de plugin"
+
+#: settings.php:319
+msgid "Exclude content protected by password"
+msgstr "Sluit content uit dat is beveiligd met een wachtwoord"
+
+#: settings.php:307
+msgid "Password protected"
+msgstr "Beveiligd met een wachtwoord"
+
+#: settings.php:275
+msgid "Exclude taxonomies"
+msgstr "Sluit deze taxonomieën uit"
+
+#: settings.php:247
+msgid "Author"
+msgstr "Auteur"
+
+#: settings.php:239
+msgid "Archive"
+msgstr "Archief"
+
+#: settings.php:231
+msgid "Post"
+msgstr "Bericht"
+
+#: settings.php:223
+msgid "Page"
+msgstr "Pagina"
+
+#: settings.php:208
+msgid "Exclude Custom Post Type"
+msgstr "Sluit deze custom post types uit"
+
+#: settings.php:203
+msgid "Just add the IDs, separated by a comma, of the pages you want to exclude."
+msgstr "Voeg de IDs toe, gescheiden door een komma, van de pagina's die je wilt uitsluiten."
+
+#: settings.php:192
+msgid "Exclude pages"
+msgstr "Pagina's uitsluiten"
+
+#: settings.php:184
+msgid "Exclude from traditional sitemap"
+msgstr "Sluit uit van de traditionele sitemap"
+
+#: settings.php:172
+msgid "Displayed in each category if posts are in multiples categories."
+msgstr "Laat zien in elke categorie wanneer de berichten meerdere categorieën heeft."
+
+#: settings.php:162
+msgid "Displayed multiple times"
+msgstr "Toon meerdere keren"
+
+#: settings.php:157
+msgid "Initial way to display the content: %1$s"
+msgstr "Standaard manier om de content te tonen: %1$s"
+
+#: settings.php:134
+msgid "How to display the posts"
+msgstr "Hoe de berichten te tonen"
+
+#: settings.php:126
+msgid "%1$s: Category name. Nested sub-categories appear as nested directories in the URI."
+msgstr "%1$s: Categorienaam. Geneste subcategorieën worden getoond als geneste folders in de URI."
+
+#: settings.php:125
+msgid "%1$s: The unique ID # of the post, for example 423."
+msgstr "%1$s: Het unieke ID # van het bericht, bijvoorbeeld 423."
+
+#: settings.php:124
+msgid "%1$s: Second of the minute, for example 33."
+msgstr "%1$s: Weergave van de seconde, bijvoorbeeld 33."
+
+#: settings.php:123
+msgid "%1$s: Minute of the hour, for example 43."
+msgstr "%1$s: Weergave van de minuut, bijvoorbeeld 43."
+
+#: settings.php:122
+msgid "%1$s: Hour of the day, for example 15."
+msgstr "%1$s: Weergave van het uur (24 uurs), bijvoorbeeld 15."
+
+#: settings.php:121
+msgid "%1$s: Day of the month, for example 28."
+msgstr "%1$s: Dag van de maand, bijvoorbeeld 28."
+
+#: settings.php:120
+msgid "%1$s: Month of the year, for example 05."
+msgstr "%1$s: Weergave van de maand, bijvoorbeeld 05."
+
+#: settings.php:119
+msgid "%1$s: The year of the post, four digits, for example 2004."
+msgstr "%1$s: Het jaar van het bericht, in vier nummers, bijvoorbeeld 2004."
+
+#: settings.php:118
+msgid "%1$s: URL of the post."
+msgstr "%1$s: URL van het bericht."
+
+#: settings.php:117
+msgid "%1$s: title of the post."
+msgstr "%1$s: titel van het bericht."
+
+#: settings.php:115
+msgid "Please choose how you want to display the posts on the sitemap."
+msgstr "Selecteer hoe je de berichten op de sitemap wil tonen."
+
+#: settings.php:112
+msgid "Customize the way to display the posts"
+msgstr "Pas de manier van het tonen van berichten aan"
+
+#: settings.php:106
+msgid "Please be advice to avoid this feature as it may hurt your SEO (Search Engine Optimization), if you don't know what it is."
+msgstr "Gebruik deze mogelijkheid niet. Het kan je SEO (zoekmachineoptimalisatie) schaden wanneer je niet weet wat het doet."
+
+#: settings.php:104
+msgid "Add a nofollow attribute to the links."
+msgstr "Voeg een nofollow attribuut aan de links toe."
+
+#: settings.php:95
+msgid "General settings"
+msgstr "Algemene Instellingen"
+
+#: settings.php:53
+msgid "Display only some kind of content using the following shortcodes."
+msgstr "Toon alleen bepaalde content met de volgende shortcodes."
+
+#: settings.php:52
+msgid "Display only some content"
+msgstr "Toon alleen bepaalde content"
+
+#: settings.php:48
+msgid "To display a traditional sitemap, just use [wp_sitemap_page] on any page or post."
+msgstr "Toon een traditionele sitemap door  [wp_sitemap_page] te gebruiken op een pagina of bericht."
+
+#: settings.php:47
+msgid "Traditionnal sitemap"
+msgstr "Traditionele sitemap"
+
+#: settings.php:43 settings.php:435 wp-sitemap-page.php:182
+msgid "Donate"
+msgstr "Doneren"
+
+#: settings.php:42
+msgid "If you like this plugin, feel free to rate it 5 stars on the WordPress.org website or to donate."
+msgstr "Vind je deze plugin nuttig, laat dan een 5 sterren waardering achter op de WordPress.org website, of doe een donatie."
+
+#: settings.php:41
+msgid "This plugin is freely developped and distrubed to the WordPress community. Plenty of hours were necessary to develop this project."
+msgstr "Deze plugin is gratis ontwikkeld en gegeven aan de WordPress gemeenschap. Er zitten veel uren in de ontwikkeling van dit project."
+
+#: settings.php:40
+msgid "Help us"
+msgstr "Help ons"
+
+#. #-#-#-#-#  tmp-wp-sitemap-page.pot (WP Sitemap Page 1.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: settings.php:33 wp-sitemap-page.php:145 wp-sitemap-page.php:146
+msgid "WP Sitemap Page"
+msgstr "WP Sitemap Page"

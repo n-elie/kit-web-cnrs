@@ -1,0 +1,284 @@
+# Translation of Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-05 10:03:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/PodsInit.php:952
+msgid "Uploaded to this %s"
+msgstr "Lastet opp til denne %s"
+
+#: classes/PodsInit.php:970
+msgid "No %s"
+msgstr "Ingen %s"
+
+#: classes/PodsInit.php:950
+msgid "%s Archives"
+msgstr "%s Arkiver"
+
+#: classes/PodsInit.php:951
+msgid "Insert into %s"
+msgstr "Sett inn i %s"
+
+#: classes/PodsInit.php:949 ui/admin/setup-edit.php:394
+msgid "Use as featured image"
+msgstr "Bruk som fremhevet bilde"
+
+#: classes/PodsInit.php:947 ui/admin/setup-edit.php:386
+msgid "Set featured image"
+msgstr "Velg kjennetegnsbilde"
+
+#: classes/PodsInit.php:948 ui/admin/setup-edit.php:390
+msgid "Remove featured image"
+msgstr "Fjern kjennetegnsbilde"
+
+#: classes/PodsAdmin.php:2741
+msgid "Full"
+msgstr "Full"
+
+#: ui/admin/setup-edit-field-fluid.php:190 ui/admin/setup-edit.php:242
+#: ui/admin/setup-edit.php:315
+msgid "Add Field"
+msgstr "Legg til felt"
+
+#: ui/admin/setup-edit.php:487 ui/admin/widgets/field.php:15
+#: ui/admin/widgets/form.php:15 ui/admin/widgets/list.php:17
+#: ui/admin/widgets/single.php:17 ui/admin/widgets/view.php:15
+msgid "Title"
+msgstr "Tittel"
+
+#: ui/fields/color.php:9
+msgid "Default"
+msgstr "Standard"
+
+#: classes/PodsInit.php:946 ui/admin/setup-edit.php:382
+#: ui/admin/setup-edit.php:502
+msgid "Featured Image"
+msgstr "Aktuelt bilde"
+
+#: ui/admin/setup-edit.php:527
+msgid "Revisions"
+msgstr "Revisjoner"
+
+#: ui/admin/setup-edit.php:497
+msgid "Author"
+msgstr "Forfatter"
+
+#: ui/admin/setup-edit-field-fluid.php:8 ui/admin/setup-edit-field.php:48
+msgid "Move"
+msgstr "Flytt"
+
+#: ui/admin/form.php:537 ui/admin/upgrade/upgrade_2_0_0.php:85
+#: ui/admin/upgrade/upgrade_2_0_0.php:201 ui/admin/view.php:188
+msgid "Fields"
+msgstr "Felt"
+
+#: ui/admin/setup-add.php:39
+msgid "Configure"
+msgstr "Konfiguer"
+
+#: ui/admin/form.php:222 ui/admin/view.php:56
+msgid "Last Modified"
+msgstr "Sist modifisert"
+
+#: ui/admin/form.php:356 ui/admin/view.php:115
+msgid "Previous %s"
+msgstr "Tidligere %s"
+
+#: ui/admin/form.php:364 ui/admin/view.php:123
+msgid "Next %s"
+msgstr "Neste %s"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:174
+msgid "Taxonomy Template"
+msgstr "Taksonomi-mal"
+
+#: classes/fields/pick.php:2242
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabia"
+
+#: classes/fields/pick.php:2251
+msgid "Solomon Islands"
+msgstr "Salomonøyene"
+
+#: classes/fields/pick.php:2267
+msgid "Tajikistan"
+msgstr "Tadsjikistan"
+
+#: classes/fields/pick.php:2270
+msgid "Timor-Leste"
+msgstr "Øst-Timor"
+
+#: classes/fields/pick.php:2275
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: classes/fields/pick.php:2278
+msgid "Turks and Caicos Islands"
+msgstr "Turks- og Caicosøyene"
+
+#: components/Migrate-CPTUI/ui/wizard.php:146
+#: components/Migrate-Packages/ui/wizard.php:279
+#: components/Roles/ui/add.php:122 ui/admin/setup-add.php:380
+msgid "Processing"
+msgstr "Behandler"
+
+#: components/Advanced-Relationships.php:55
+msgid "Themes"
+msgstr "Temaer"
+
+#: classes/widgets/PodsWidgetForm.php:43 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:70
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:41
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:133
+msgid "Submit"
+msgstr "Send"
+
+#: classes/fields/pick.php:478 components/Roles/Roles.php:94
+#: ui/admin/setup-add.php:241
+msgid "Users"
+msgstr "Brukere"
+
+#: classes/fields/pick.php:536
+msgid "Countries"
+msgstr "Land"
+
+#: classes/fields/pick.php:2041
+msgid "Algeria"
+msgstr "Algerie"
+
+#: classes/fields/pick.php:2053
+msgid "Azerbaijan"
+msgstr "Aserbajdsjan"
+
+#: classes/fields/pick.php:2078
+msgid "Canada"
+msgstr "Canada"
+
+#: classes/fields/pick.php:2089
+msgid "Comoros"
+msgstr "Komorene"
+
+#: classes/fields/pick.php:2095
+msgid "Cuba"
+msgstr "Cuba"
+
+#: classes/fields/pick.php:2115
+msgid "Finland"
+msgstr "Finland"
+
+#: classes/fields/pick.php:2117
+msgid "French Guiana"
+msgstr "Fransk Guyana"
+
+#: classes/fields/pick.php:2156
+msgid "Kazakhstan"
+msgstr "Kasakhstan"
+
+#: classes/fields/pick.php:2160
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: classes/fields/pick.php:436 ui/admin/setup-edit.php:625
+#: ui/admin/setup-edit.php:845
+msgid "Post Types"
+msgstr "Innleggstyper"
+
+#: classes/fields/pick.php:471 ui/admin/setup-edit.php:594
+#: ui/admin/setup-edit.php:846
+msgid "Taxonomies"
+msgstr "Taksonomier"
+
+#: classes/PodsAdmin.php:2116 ui/admin/settings.php:11
+msgid "Tools"
+msgstr "Verktøy"
+
+#: classes/PodsAdmin.php:2094 ui/admin/setup-edit-field-fluid.php:70
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: classes/PodsUI.php:2560 classes/PodsUI.php:2899 classes/PodsUI.php:3086
+#: classes/fields/boolean.php:64 classes/fields/boolean.php:243
+#: classes/fields/boolean.php:267
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/PodsUI.php:2817
+msgid "Reset"
+msgstr "Nullstill"
+
+#: classes/PodsUI.php:2661 classes/PodsUI.php:3752
+msgid "Apply"
+msgstr "Utfør"
+
+#: classes/fields/avatar.php:85 classes/fields/avatar.php:120
+#: classes/fields/file.php:106 classes/fields/file.php:209
+msgid "Upload File"
+msgstr "Last opp fil"
+
+#: classes/PodsUI.php:2682 ui/admin/setup-edit-field-fluid.php:190
+msgid "Cancel"
+msgstr "Kanseller"
+
+#: classes/PodsAdmin.php:744 classes/PodsAdmin.php:855
+msgid "Type"
+msgstr "Type"
+
+#: classes/Pods.php:3443 classes/PodsAdmin.php:631 classes/PodsForm.php:319
+#: ui/admin/components-admin.php:99
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: classes/PodsAdmin.php:925
+msgid "Labels"
+msgstr "Etiketter"
+
+#: classes/PodsAdmin.php:444 classes/PodsAdmin.php:467
+#: ui/admin/components-admin.php:10 ui/admin/upgrade/upgrade_2_0_0.php:221
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: classes/PodsAdmin.php:743 classes/PodsAdmin.php:2078
+#: classes/PodsAdmin.php:2743 classes/PodsUI.php:958
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:50
+#: ui/admin/setup-edit-field-fluid.php:66
+msgid "Name"
+msgstr "Navn"
+
+#: classes/PodsAdmin.php:1523 classes/PodsUI.php:2689
+#: components/Migrate-Packages/ui/wizard.php:69
+msgid "Export"
+msgstr "Eksport"
+
+#: classes/PodsAdmin.php:1615 classes/PodsAdmin.php:2119
+#: ui/admin/setup-add.php:175 ui/admin/setup-add.php:353
+msgid "Advanced"
+msgstr "Avansert"
+
+#: classes/PodsAdmin.php:247 classes/PodsAdmin.php:267
+#: classes/PodsAdmin.php:268 classes/PodsAdmin.php:302
+#: classes/PodsAdmin.php:316 classes/PodsAdmin.php:434
+#: classes/PodsAdmin.php:1518 classes/PodsInit.php:933 classes/PodsUI.php:927
+#: classes/PodsUI.php:948 ui/admin/setup-edit.php:338
+msgid "Add New"
+msgstr "Legg til nytt"
+
+#: classes/Pods.php:3828 classes/PodsAdmin.php:1521 classes/PodsUI.php:3539
+#: ui/admin/form.php:260 ui/admin/setup-edit-field-fluid.php:23
+#: ui/admin/setup-edit-field.php:73 ui/admin/setup-edit.php:812
+#: ui/admin/view.php:76
+msgid "Delete"
+msgstr "Slett"
+
+#: classes/PodsAdmin.php:245 classes/PodsAdmin.php:300
+#: classes/PodsAdmin.php:1519 classes/PodsInit.php:936 classes/PodsUI.php:928
+#: classes/PodsUI.php:3520 ui/admin/setup-edit-field-fluid.php:17
+#: ui/admin/setup-edit-field.php:67 ui/admin/setup-edit.php:350
+msgid "Edit"
+msgstr "Rediger"

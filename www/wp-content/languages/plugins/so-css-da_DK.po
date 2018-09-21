@@ -1,0 +1,527 @@
+# Translation of Plugins - SiteOrigin CSS - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - SiteOrigin CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-23 18:19:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - SiteOrigin CSS - Stable (latest release)\n"
+
+#: tpl/js-templates.php:51
+msgid "Invalid URI. Please make sure you're using a URL from the same site."
+msgstr "Ugyldig URI. Kontroller, at du bruger en URL-adresse fra samme website."
+
+#. Author URI of the plugin/theme
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Description of the plugin/theme
+msgid "An advanced CSS editor from SiteOrigin."
+msgstr "En avanceret CSS editor fra SiteOrigin."
+
+#. Plugin URI of the plugin/theme
+msgid "https://siteorigin.com/css/"
+msgstr "https://siteorigin.com/css/"
+
+#: tpl/page.php:101
+msgid "Save CSS"
+msgstr "Gem CSS"
+
+#: tpl/page.php:57
+msgid "%d chars"
+msgstr "%d tegn"
+
+#: tpl/page.php:45
+msgid "Are you sure you want to load this revision?"
+msgstr "Er du sikker på du ønsker at indlæse denne revision?"
+
+#: tpl/page.php:43
+msgid "CSS Revisions"
+msgstr "CSS revisioner"
+
+#: tpl/page.php:34
+msgid "Dismiss"
+msgstr "Afvis"
+
+#: tpl/page.php:33
+msgid "Getting Started Video"
+msgstr "Kom godt i gang video"
+
+#: tpl/page.php:23
+msgid "Viewing a revision. Save CSS to keep using this revision."
+msgstr "Gennemse ændring. Gem CSS for at fortsætte med at bruge denne ændring."
+
+#: tpl/page.php:18
+msgid "Site design updated."
+msgstr "Webstedets design er opdateret."
+
+#. #-#-#-#-#  so-css-code.pot (SiteOrigin CSS 1.1.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: tpl/page.php:13
+msgid "SiteOrigin CSS"
+msgstr "SiteOrigin CSS"
+
+#: tpl/js-templates.php:26
+msgid "Insert Snippet"
+msgstr "Indsæt kodestykket"
+
+#: tpl/js-templates.php:14
+msgid "Search Snippets"
+msgstr "Søg kodestykker"
+
+#: tpl/js-templates.php:8
+msgid "CSS Snippets"
+msgstr "CSS kodestykker"
+
+#: tpl/inspector-templates.php:4
+msgid "Navigate To: "
+msgstr "Naviger til: "
+
+#: so-css.php:412
+msgid "Changes apply to %s and its child themes"
+msgstr "Ændringer gælder for %s og dens undertemaer"
+
+#: so-css.php:274
+msgid "Support"
+msgstr "Support"
+
+#: so-css.php:273
+msgid "CSS Editor"
+msgstr "CSS Editor"
+
+#: so-css.php:237
+msgid "Are you sure you want to leave without saving?"
+msgstr "Er du sikker på du ønsker at forlade uden at gemme?"
+
+#: so-css.php:236
+msgid "Select Image"
+msgstr "Vælg billede"
+
+#: so-css.php:235
+msgid "Select"
+msgstr "Vælg"
+
+#: so-css.php:234
+msgid "Unchanged"
+msgstr "Uændret"
+
+#: so-css.php:178
+msgid "These changes will persist across updates so it's best to make all your changes here. "
+msgstr "Disse ændringer bevares på tværs af opdateringer, så det er bedst at gøre alle dine ændringer her. "
+
+#: so-css.php:177
+msgid "SiteOrigin CSS adds any custom CSS you enter here into your site's header. "
+msgstr "SiteOrigin CSS tilføjer den CSS du indtaster her, til dit websteds sidehoved. "
+
+#: so-css.php:111 so-css.php:175
+msgid "Custom CSS"
+msgstr "Brugertilpasset CSS"
+
+#: inc/controller-config.php:495
+msgid "Z-Index"
+msgstr "Z-Index"
+
+#: inc/controller-config.php:482
+msgid "Overflow Y"
+msgstr "Overløb Y"
+
+#: inc/controller-config.php:469
+msgid "Overflow X"
+msgstr "Overløb X"
+
+#: inc/controller-config.php:464 inc/controller-config.php:477
+#: inc/controller-config.php:490
+msgid "Auto"
+msgstr "Automatisk"
+
+#: inc/controller-config.php:463 inc/controller-config.php:476
+#: inc/controller-config.php:489
+msgid "Scroll"
+msgstr "Rul"
+
+#: inc/controller-config.php:456
+msgid "Overflow"
+msgstr "Overløb"
+
+#: inc/controller-config.php:451
+msgid "Collapse"
+msgstr "Fold sammen"
+
+#: inc/controller-config.php:450 inc/controller-config.php:462
+#: inc/controller-config.php:475 inc/controller-config.php:488
+msgid "Hidden"
+msgstr "Skjul"
+
+#: inc/controller-config.php:449 inc/controller-config.php:461
+#: inc/controller-config.php:474 inc/controller-config.php:487
+msgid "Visible"
+msgstr "Synlig"
+
+#: inc/controller-config.php:444
+msgid "Visibility"
+msgstr "Synlighed"
+
+#: inc/controller-config.php:439
+msgid "Both"
+msgstr "Begge"
+
+#: inc/controller-config.php:431
+msgid "Clear"
+msgstr "Ryd"
+
+#: inc/controller-config.php:419
+msgid "Float"
+msgstr "Flydende"
+
+#: inc/controller-config.php:414
+msgid "Table Row"
+msgstr "Tabel række"
+
+#: inc/controller-config.php:413
+msgid "Table Column"
+msgstr "Tabel kolonne"
+
+#: inc/controller-config.php:412
+msgid "Table Cell"
+msgstr "Tabel celle"
+
+#: inc/controller-config.php:411
+msgid "Table Row Group"
+msgstr "Tabel række gruppe"
+
+#: inc/controller-config.php:410
+msgid "Table Footer Group"
+msgstr "Tabel sidefod gruppe"
+
+#: inc/controller-config.php:409
+msgid "Table Header Group"
+msgstr "Tabel sidehoved gruppe"
+
+#: inc/controller-config.php:408
+msgid "Table Column Group"
+msgstr "Tabel kolonne gruppe"
+
+#: inc/controller-config.php:407
+msgid "Table Caption"
+msgstr "Tabel tekst"
+
+#: inc/controller-config.php:406
+msgid "Table"
+msgstr "Tabel"
+
+#: inc/controller-config.php:405
+msgid "Run In"
+msgstr "Sammenflet (Run In)"
+
+#: inc/controller-config.php:404
+msgid "List Item"
+msgstr "List poster"
+
+#: inc/controller-config.php:403
+msgid "Inline Table"
+msgstr "Indlejret tabel"
+
+#: inc/controller-config.php:402
+msgid "Inline Flex"
+msgstr "Indlejret flex"
+
+#: inc/controller-config.php:401
+msgid "Inline Block"
+msgstr "Indlejret blok"
+
+#: inc/controller-config.php:400
+msgid "Flex"
+msgstr "Flex"
+
+#: inc/controller-config.php:399
+msgid "Block"
+msgstr "Blok"
+
+#: inc/controller-config.php:398
+msgid "Inline"
+msgstr "Indlejret"
+
+#: inc/controller-config.php:392
+msgid "Display"
+msgstr "Visning"
+
+#: inc/controller-config.php:384
+msgid "Height"
+msgstr "Højde"
+
+#: inc/controller-config.php:376
+msgid "Width"
+msgstr "Bredde"
+
+#: inc/controller-config.php:360
+msgid "Absolute Position"
+msgstr "Absolut position"
+
+#: inc/controller-config.php:355
+msgid "Inherit"
+msgstr "Nedarve"
+
+#: inc/controller-config.php:354
+msgid "Static"
+msgstr "Statisk"
+
+#: inc/controller-config.php:353
+msgid "Relative"
+msgstr "Relative"
+
+#: inc/controller-config.php:352
+msgid "Fixed"
+msgstr "Fastgjort"
+
+#: inc/controller-config.php:351
+msgid "Absolute"
+msgstr "Absolut"
+
+#: inc/controller-config.php:346
+msgid "Position"
+msgstr "Position"
+
+#: inc/controller-config.php:329
+msgid "Padding"
+msgstr "Indvendig afstand"
+
+#: inc/controller-config.php:312
+msgid "Margin"
+msgstr "Margin"
+
+#: inc/controller-config.php:308
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/controller-config.php:260
+msgid "Borders"
+msgstr "Kanter"
+
+#: inc/controller-config.php:247
+msgid "Opacity"
+msgstr "Synlighed"
+
+#: inc/controller-config.php:239
+msgid "Box Shadow"
+msgstr "Boks skygge"
+
+#: inc/controller-config.php:233
+msgid "contain"
+msgstr "indhold"
+
+#: inc/controller-config.php:232
+msgid "cover"
+msgstr "overdække"
+
+#: inc/controller-config.php:231
+msgid "percentage"
+msgstr "procentdel"
+
+#: inc/controller-config.php:230
+msgid "length"
+msgstr "længde"
+
+#: inc/controller-config.php:229
+msgid "auto"
+msgstr "automatisk"
+
+#: inc/controller-config.php:224
+msgid "Background Size"
+msgstr "Baggrunds størrelse"
+
+#: inc/controller-config.php:219
+msgid "no-repeat"
+msgstr "ingen gentagelse"
+
+#: inc/controller-config.php:218
+msgid "repeat-y"
+msgstr "gentag-y"
+
+#: inc/controller-config.php:217
+msgid "repeat-x"
+msgstr "gentag-x"
+
+#: inc/controller-config.php:216
+msgid "repeat"
+msgstr "gentag"
+
+#: inc/controller-config.php:211
+msgid "Background Repeat"
+msgstr "Gentag baggrund"
+
+#: inc/controller-config.php:204
+msgid "Background Position"
+msgstr "Baggrunds position"
+
+#: inc/controller-config.php:196
+msgid "Background image"
+msgstr "Baggrunds billede"
+
+#: inc/controller-config.php:189
+msgid "Background Color"
+msgstr "Baggrund farve"
+
+#: inc/controller-config.php:185
+msgid "Decoration"
+msgstr "Dekoration"
+
+#: inc/controller-config.php:173
+msgid "Text Shadow"
+msgstr "Tekst skygge"
+
+#: inc/controller-config.php:168
+msgid "Pre Wrap"
+msgstr "Præ Wrap"
+
+#: inc/controller-config.php:167
+msgid "Pre Line"
+msgstr "Præ linje"
+
+#: inc/controller-config.php:166
+msgid "Pre"
+msgstr "Præ"
+
+#: inc/controller-config.php:165
+msgid "Encountered"
+msgstr "Stødt på"
+
+#: inc/controller-config.php:159
+msgid "White Space"
+msgstr "Blank mellemrum"
+
+#: inc/controller-config.php:152
+msgid "Word Spacing"
+msgstr "Ord mellemrum"
+
+#: inc/controller-config.php:145
+msgid "Letter Spacing"
+msgstr "Bogstav mellemrum"
+
+#: inc/controller-config.php:138
+msgid "Text Indent"
+msgstr "Tekst indrykning"
+
+#: inc/controller-config.php:127
+msgid "Justify"
+msgstr "Lige margener"
+
+#: inc/controller-config.php:126
+msgid "Center"
+msgstr "Center"
+
+#: inc/controller-config.php:125 inc/controller-config.php:426
+#: inc/controller-config.php:438
+msgid "Right"
+msgstr "Højre"
+
+#: inc/controller-config.php:124 inc/controller-config.php:425
+#: inc/controller-config.php:437
+msgid "Left"
+msgstr "Venstre"
+
+#: inc/controller-config.php:119
+msgid "Text Align"
+msgstr "Tekst justering"
+
+#: inc/controller-config.php:112
+msgid "Font Family"
+msgstr "Skrifttype familie"
+
+#: inc/controller-config.php:107
+msgid "Lowercase"
+msgstr "Små bogstaver"
+
+#: inc/controller-config.php:106
+msgid "Uppercase"
+msgstr "Store bogstaver"
+
+#: inc/controller-config.php:105
+msgid "Capitalize"
+msgstr "Stort bogstav"
+
+#: inc/controller-config.php:99
+msgid "Text Transform"
+msgstr "Tekst tranformering"
+
+#: inc/controller-config.php:94
+msgid "Small Caps"
+msgstr "Kapitæler"
+
+#: inc/controller-config.php:88
+msgid "Font Variant"
+msgstr "Skrifttype variant"
+
+#: inc/controller-config.php:78
+msgid "Line Through"
+msgstr "Gennemstreget"
+
+#: inc/controller-config.php:77
+msgid "Overline"
+msgstr "Overstreget"
+
+#: inc/controller-config.php:76
+msgid "Underline"
+msgstr "Understreg"
+
+#: inc/controller-config.php:70
+msgid "Text Decoration"
+msgstr "Tekst dekoration"
+
+#: inc/controller-config.php:61
+msgid "Italic"
+msgstr "Kursiv"
+
+#: inc/controller-config.php:59 inc/controller-config.php:75
+#: inc/controller-config.php:104 inc/controller-config.php:397
+#: inc/controller-config.php:424 inc/controller-config.php:436
+msgid "None"
+msgstr "Ingen"
+
+#: inc/controller-config.php:54
+msgid "Font Style"
+msgstr "Skrifttype Stil"
+
+#: inc/controller-config.php:40
+msgid "Lighter"
+msgstr "Lysere"
+
+#: inc/controller-config.php:39
+msgid "Bolder"
+msgstr "Federe"
+
+#: inc/controller-config.php:38
+msgid "Bold"
+msgstr "Fed"
+
+#: inc/controller-config.php:37 inc/controller-config.php:60
+#: inc/controller-config.php:93 inc/controller-config.php:164
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/controller-config.php:32
+msgid "Font Weight"
+msgstr "Skrifttype tykkelse"
+
+#: inc/controller-config.php:24
+msgid "Line Height"
+msgstr "Linje højde"
+
+#: inc/controller-config.php:16
+msgid "Font Size"
+msgstr "Skrift størrelse"
+
+#: inc/controller-config.php:9
+msgid "Text Color"
+msgstr "Tekst farve"
+
+#: inc/controller-config.php:5
+msgid "Text"
+msgstr "Tekst"
