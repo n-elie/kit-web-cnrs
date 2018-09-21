@@ -2,16 +2,16 @@
 #actualite-social-links{
         padding-top:0;
 }
-header.site-header #site-header-menu nav#site-navigation #menu-menu-principal {
+header.site-header #site-header-menu nav#site-navigation .primary-menu {
     margin-right: 34px;
 }
-#site-header-menu nav#site-navigation .menu-menu-principal-container ul {
+#site-header-menu nav#site-navigation div ul {
     top: auto;
 }
-#site-header-menu nav#site-navigation .menu-menu-principal-container ul li li {
+#site-header-menu nav#site-navigation div ul li li {
     padding: 6px 0px;
 }
-#site-header-menu nav#site-navigation .menu-menu-principal-container ul li li:first-child {
+#site-header-menu nav#site-navigation div ul li li:first-child {
     margin-top: 12px;
 }
 .main-navigation ul ul li a {
@@ -477,10 +477,10 @@ body.page-template-templateactualite .entry-content .loop-contents-actualite art
     body .site .site-inner .site-main {
         margin-bottom: 30px;
     }
-    #site-header-menu nav#site-navigation .menu-menu-principal-container ul li li:first-child {
+    #site-header-menu nav#site-navigation div ul li li:first-child {
         margin-top: 0;
     }
-    #site-header-menu nav#site-navigation .menu-menu-principal-container ul li li {
+    #site-header-menu nav#site-navigation div ul li li {
         padding: 0px 0 0 20px
     }
     .page-template-templateagenda .entry-content .agendaMonth {
