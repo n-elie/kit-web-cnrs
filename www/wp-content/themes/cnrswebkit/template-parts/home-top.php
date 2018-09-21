@@ -4,6 +4,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+ $current_item = new CnrswebkitRichData(get_the_ID()); 
 ?>
 
 <div class="homeLabo">
@@ -11,7 +12,7 @@
     <div class="laboInfo">
         <div class="umi"><?php echo $cnrs_global_params->field('code_du_laboratoire'); ?></div>
         <h3><?php echo get_bloginfo('name'); ?></h3>
-        <p><?php echo $cnrs_global_params->field('presentation_du_site'); ?></p>
+		<p><?php echo $current_item->value('chapo'); ?></p>
         <div class="bottomLabo">
             <div>
                 <?php
